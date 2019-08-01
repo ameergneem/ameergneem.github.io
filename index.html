@@ -23,19 +23,16 @@ tr.shown td.details-control {
         <thead>
             <tr>
                 <th></th>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Salary</th>
+                <th>Book Name</th>
+                <th>Sentement</th>
+
             </tr>
         </thead>
         <tfoot>
             <tr>
                 <th></th>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Salary</th>
+                <th>Book Name</th>
+                <th>Sentement</th>
             </tr>
         </tfoot>
     </table>
@@ -46,11 +43,11 @@ tr.shown td.details-control {
     return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
             '<td>Full name:</td>'+
-            '<td>'+d.name+'</td>'+
+            '<td>'+d.bookName+'</td>'+
         '</tr>'+
         '<tr>'+
             '<td>Extension number:</td>'+
-            '<td>'+d.extn+'</td>'+
+            '<td>'+d.sentement+'</td>'+
         '</tr>'+
         '<tr>'+
             '<td>Extra info:</td>'+
@@ -69,10 +66,8 @@ $(document).ready(function() {
                 "data":           null,
                 "defaultContent": ''
             },
-            { "data": "name" },
-            { "data": "position" },
-            { "data": "office" },
-            { "data": "salary" }
+            { "data": "bookName" },
+            { "data": "sentement" }
         ],
         "order": [[1, 'asc']]
     } );
