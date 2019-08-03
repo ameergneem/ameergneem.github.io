@@ -57,15 +57,7 @@ tr.shown td.details-control {
 }
  
 $(document).ready(function() {
-    var table = $('#example').DataTable( {   'rowCallback': function(row, data, index){
-    console.log($(row).find('td:eq(2)').text)
-    if(data[2] == 'positive'){
-        $(row).find('td:eq(2)').css('color', 'green');
-    }else{
-        $(row).find('td:eq(2)').css('color', 'red');
-    }//try
-
-},
+    var table = $('#example').DataTable( {  
 
         "ajax": "objectsUpd.txt",
         "columns": [
@@ -80,7 +72,15 @@ $(document).ready(function() {
         ],
         "order": [[1, 'asc']]
     } );
-     
+    $('#example').DataTable( {
+        "createdRow": function ( row, data, index ) {
+            if(data[2] == 'positive'){
+        $(row).find('td:eq(2)').css('color', 'green');
+    }else{
+        $(row).find('td:eq(2)').css('color', 'red');
+    }//try
+        }
+    } );
     // Add event listener for opening and closing details
     $('#example tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
