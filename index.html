@@ -26,6 +26,7 @@ tr.shown td.details-control {
                 <th>Book Name</th>
                 <th>Sentement</th>
                 <th>Goodreads Rating</th>
+                <th>Goodreads Rating Count</th>
 
             </tr>
         </thead>
@@ -35,6 +36,7 @@ tr.shown td.details-control {
                 <th>Book Name</th>
                 <th>Sentement</th>
                 <th>Goodreads Rating</th>
+                <th>Goodreads Rating Count</th>
             </tr>
         </tfoot>
     </table>
@@ -44,16 +46,12 @@ tr.shown td.details-control {
     // `d` is the original data object for the row
     return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
-            '<td>Full name:</td>'+
-            '<td>'+d.bookName+'</td>'+
+            '<td>\'New York Times\' Review:</td>'+
+            '<td>'+d.url+'</td>'+
         '</tr>'+
         '<tr>'+
-            '<td>Extension number:</td>'+
-            '<td>'+d.sentement+'</td>'+
-        '</tr>'+
-        '<tr>'+
-            '<td>Extra info:</td>'+
-            '<td>And any further details here (images etc)...</td>'+
+            '<td>\'Goodreads\' Book Page:</td>'+
+            '<td>'+d.GoodreadsURL+'</td>'+
         '</tr>'+
     '</table>';
 }
@@ -71,7 +69,8 @@ $(document).ready(function() {
             },
             { "data": "bookName" },
             { "data": "sentement" },
-            { "data": "GoodReadsRating" }
+            { "data": "GoodReadsRating" },
+            {"data": "RatingsCount"}
         ],
         "order": [[1, 'asc']],
         'rowCallback': function(row, data, index){
