@@ -145,7 +145,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/07/31/books/review/mona-hanna-attisha-what-the-eyes-dont-see-anna-clark-poisoned-city.html",
-    "bookName": "WHAT THE EYES DON'T SEE",
+    "bookName": "WHAT THE EYES DON’T SEE",
     "sentement": "Negative",
     "id": "25"
   },
@@ -289,7 +289,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/07/13/books/review/caroline-weber-prousts-duchess-belle-epoque.html",
-    "bookName": "PROUST'S DUCHESS",
+    "bookName": "PROUST’S DUCHESS",
     "sentement": "Positive",
     "id": "49"
   },
@@ -667,7 +667,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/05/09/books/review-aspergers-children-autism-nazi-vienna-edith-sheffer.html",
-    "bookName": "ASPERGER'S CHILDREN",
+    "bookName": "ASPERGER’S CHILDREN",
     "sentement": "Negative",
     "id": "112"
   },
@@ -679,7 +679,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/06/18/books/review/tom-santopietro-why-to-kill-a-mockingbird-matters.html",
-    "bookName": "WHY ‘TO KILL A MOCKINGBIRD' MATTERS",
+    "bookName": "WHY ‘TO KILL A MOCKINGBIRD’ MATTERS",
     "sentement": "Negative",
     "id": "114"
   },
@@ -973,7 +973,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/06/01/books/review/my-ex-life-stephen-mccauley.html",
-    "bookName": "WHAT YOU DON'T KNOW ABOUT CHARLIE OUTLAW",
+    "bookName": "WHAT YOU DON’T KNOW ABOUT CHARLIE OUTLAW",
     "sentement": "Negative",
     "id": "163"
   },
@@ -1027,7 +1027,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/05/31/books/review/she-has-her-mothers-laugh-carl-zimmer.html",
-    "bookName": "SHE HAS HER MOTHER'S LAUGH",
+    "bookName": "SHE HAS HER MOTHER’S LAUGH",
     "sentement": "Positive",
     "id": "172"
   },
@@ -1063,7 +1063,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/05/29/books/review/renoirs-dancer-suzanne-valadon-catherine-hewitt.html",
-    "bookName": "RENOIR'S DANCER",
+    "bookName": "RENOIR’S DANCER",
     "sentement": "neutral",
     "id": "178"
   },
@@ -1267,7 +1267,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/05/17/books/review/its-time-to-fight-dirty-david-faris.html",
-    "bookName": "IT'S TIME TO FIGHT DIRTY",
+    "bookName": "IT’S TIME TO FIGHT DIRTY",
     "sentement": "Negative",
     "id": "212"
   },
@@ -1363,7 +1363,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/05/10/books/review/aida-edemariam-wifes-tale.html",
-    "bookName": "THE WIFE'S TALE",
+    "bookName": "THE WIFE’S TALE",
     "sentement": "neutral",
     "id": "228"
   },
@@ -1381,7 +1381,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/05/09/books/review/darwins-ghosts-ariel-dorfman.html",
-    "bookName": "DARWIN'S GHOSTS",
+    "bookName": "DARWIN’S GHOSTS",
     "sentement": "neutral",
     "id": "231"
   },
@@ -1393,7 +1393,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/05/08/books/review/curtis-sittenfeld-you-think-it-ill-say-it.html",
-    "bookName": "YOU THINK IT, I'LL SAY IT",
+    "bookName": "YOU THINK IT, I’LL SAY IT",
     "sentement": "Negative",
     "id": "233"
   },
@@ -1687,7 +1687,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/04/18/books/review/womans-hour-elaine-weiss.html",
-    "bookName": "THE WOMAN'S HOUR",
+    "bookName": "THE WOMAN’S HOUR",
     "sentement": "Positive",
     "id": "282"
   },
@@ -1807,7 +1807,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/04/10/books/review/howard-blum-in-the-enemys-house.html",
-    "bookName": "IN THE ENEMY'S HOUSE",
+    "bookName": "IN THE ENEMY’S HOUSE",
     "sentement": "Negative",
     "id": "302"
   },
@@ -1999,7 +1999,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/03/13/books/review/david-cay-johnston-its-even-worse-than-you-think.html",
-    "bookName": "IT'S EVEN WORSE THAN YOU THINK",
+    "bookName": "IT’S EVEN WORSE THAN YOU THINK",
     "sentement": "Negative",
     "id": "334"
   },
@@ -2167,13 +2167,13 @@
   },
   {
     "url": "https://www.nytimes.com/2018/01/26/books/review/shcrefer-benko-murdock-fantasy.html",
-    "bookName": "THE LOST RAINFOREST: MEZ'S MAGIC",
+    "bookName": "THE LOST RAINFOREST: MEZ’S MAGIC",
     "sentement": "Negative",
     "id": "362"
   },
   {
     "url": "https://www.nytimes.com/2018/01/26/books/review/jeffersons-daughters-catherine-kerrison.html",
-    "bookName": "JEFFERSON'S DAUGHTERS",
+    "bookName": "JEFFERSON’S DAUGHTERS",
     "sentement": "Positive",
     "id": "363"
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/12/01/books/review/its-all-relative-aj-jacobs.html",
-    "bookName": "IT'S ALL RELATIVE",
+    "bookName": "IT’S ALL RELATIVE",
     "sentement": "Positive",
     "id": "385"
   },
@@ -2377,13 +2377,13 @@
   },
   {
     "url": "https://www.nytimes.com/2017/11/22/books/review/gourmands-way-justin-spring-julia-child.html",
-    "bookName": "THE GOURMANDS' WAY",
+    "bookName": "THE GOURMANDS’ WAY",
     "sentement": "Positive",
     "id": "397"
   },
   {
     "url": "https://www.nytimes.com/2017/11/22/books/review/wine-lovers-daughter-anne-fadiman-memoir.html",
-    "bookName": "THE WINE LOVER'S DAUGHTER",
+    "bookName": "THE WINE LOVER’S DAUGHTER",
     "sentement": "Positive",
     "id": "398"
   },
@@ -2497,7 +2497,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/11/01/books/review/i-hear-shes-a-real-bitch-jen-agg-restaurant-memoir.html",
-    "bookName": "I HEAR SHE'S A REAL BITCH",
+    "bookName": "I HEAR SHE’S A REAL BITCH",
     "sentement": "Negative",
     "id": "417"
   },
@@ -2707,7 +2707,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/10/17/books/review/tell-me-what-you-want-justin-lehmiller.html",
-    "bookName": "I'LL HAVE WHAT SHE'S HAVING",
+    "bookName": "I’LL HAVE WHAT SHE’S HAVING",
     "sentement": "Positive",
     "id": "452"
   },
@@ -2743,7 +2743,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/08/25/books/review/little-i-michael-hall-alphabet-numbers.html",
-    "bookName": "THE LITTLE RED CAT WHO RAN AWAY AND LEARNED HIS ABC'S (THE HARD WAY)",
+    "bookName": "THE LITTLE RED CAT WHO RAN AWAY AND LEARNED HIS ABC’S (THE HARD WAY)",
     "sentement": "Negative",
     "id": "458"
   },
@@ -2755,7 +2755,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/08/25/books/review/einstein-relativity-theory-gravitational-waves.html",
-    "bookName": "THE FORMATIVE YEARS OF RELATIVITY: The History and Meaning of Einstein's Princeton Lectures",
+    "bookName": "THE FORMATIVE YEARS OF RELATIVITY: The History and Meaning of Einstein’s Princeton Lectures",
     "sentement": "Negative",
     "id": "460"
   },
@@ -3109,7 +3109,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/06/02/books/review/hes-got-rhythm-life-and-career-gene-kelly-cynthia-sara-brideson.html",
-    "bookName": "HE'S GOT RHYTHM",
+    "bookName": "HE’S GOT RHYTHM",
     "sentement": "Positive",
     "id": "519"
   },
@@ -3121,7 +3121,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/05/30/books/review/id-die-for-you-and-other-lost-stories-f-scott-fitzgerald.html",
-    "bookName": "I'D DIE FOR YOU",
+    "bookName": "I’D DIE FOR YOU",
     "sentement": "Negative",
     "id": "521"
   },
@@ -3181,7 +3181,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/05/15/books/review-theres-mystery-there-maurice-sendak-jonathan-cott.html",
-    "bookName": "THERE'S A MYSTERY THERE",
+    "bookName": "THERE’S A MYSTERY THERE",
     "sentement": "Positive",
     "id": "531"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/05/05/books/review/the-romance-readers-guide-to-life-sharon-pywell.html",
-    "bookName": "THE ROMANCE READER'S GUIDE TO LIFE",
+    "bookName": "THE ROMANCE READER’S GUIDE TO LIFE",
     "sentement": "Negative",
     "id": "547"
   },
@@ -3643,7 +3643,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/02/24/books/review/tell-me-everything-you-dont-remember-by-christine-hyung-oak-lee.html",
-    "bookName": "TELL ME EVERYTHING YOU DON'T REMEMBER",
+    "bookName": "TELL ME EVERYTHING YOU DON’T REMEMBER",
     "sentement": "Negative",
     "id": "608"
   },
@@ -3715,7 +3715,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/02/10/books/review/wardens-daughter-jerry-spinelli.html",
-    "bookName": "THE WARDEN'S DAUGHTER",
+    "bookName": "THE WARDEN’S DAUGHTER",
     "sentement": "neutral",
     "id": "620"
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "url": "https://www.nytimes.com/2016/12/02/books/review/vanity-fair-writers-on-writers-graydon-carter.html",
-    "bookName": "VANITY FAIR'S WRITERS ON WRITERS",
+    "bookName": "VANITY FAIR’S WRITERS ON WRITERS",
     "sentement": "Negative",
     "id": "652"
   },
@@ -4603,7 +4603,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/05/27/books/review-on-earth-were-briefly-gorgeous-ocean-vuong.html",
-    "bookName": "ON EARTH WE'RE BRIEFLY GORGEOUS",
+    "bookName": "ON EARTH WE’RE BRIEFLY GORGEOUS",
     "sentement": "Positive",
     "id": "768"
   },
@@ -4729,7 +4729,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/05/31/books/review/roxana-robinson-dawsons-fall.html",
-    "bookName": "DAWSON'S FALL",
+    "bookName": "DAWSON’S FALL",
     "sentement": "Positive",
     "id": "789"
   },
@@ -5035,7 +5035,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/04/03/books/review-womens-work-megan-stack.html",
-    "bookName": "WOMEN'S WORK",
+    "bookName": "WOMEN’S WORK",
     "sentement": "neutral",
     "id": "840"
   },
@@ -5107,7 +5107,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/05/07/books/review/astra-taylor-democracy-may-not-exist-but-well-miss-it-when-its-gone.html",
-    "bookName": "DEMOCRACY MAY NOT EXIST, BUT WE'LL MISS IT WHEN IT'S GONE",
+    "bookName": "DEMOCRACY MAY NOT EXIST, BUT WE’LL MISS IT WHEN IT’S GONE",
     "sentement": "Negative",
     "id": "852"
   },
@@ -5257,7 +5257,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/04/26/books/review/mathangi-subramanian-peoples-history-of-heaven.html",
-    "bookName": "A PEOPLE'S HISTORY OF HEAVEN",
+    "bookName": "A PEOPLE’S HISTORY OF HEAVEN",
     "sentement": "Negative",
     "id": "877"
   },
@@ -5497,7 +5497,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/04/11/books/review/lions-den-susie-linfield.html",
-    "bookName": "THE LIONS' DEN",
+    "bookName": "THE LIONS’ DEN",
     "sentement": "Negative",
     "id": "917"
   },
@@ -5509,7 +5509,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/04/10/books/review/new-romance-lisa-kleypas.html",
-    "bookName": "DEVIL'S DAUGHTER",
+    "bookName": "DEVIL’S DAUGHTER",
     "sentement": "Negative",
     "id": "919"
   },
@@ -5629,7 +5629,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/04/03/books/review/what-doesnt-kill-you-makes-you-blacker-damon-young.html",
-    "bookName": "WHAT DOESN'T KILL YOU MAKES YOU BLACKER",
+    "bookName": "WHAT DOESN’T KILL YOU MAKES YOU BLACKER",
     "sentement": "Positive",
     "id": "939"
   },
@@ -5689,13 +5689,13 @@
   },
   {
     "url": "https://www.nytimes.com/2019/03/29/books/review/americas-jewish-women-pamela-s-nadell.html",
-    "bookName": "AMERICA'S JEWISH WOMEN",
+    "bookName": "AMERICA’S JEWISH WOMEN",
     "sentement": "Positive",
     "id": "949"
   },
   {
     "url": "https://www.nytimes.com/2019/03/29/books/review/angela-stent-putins-world.html",
-    "bookName": "PUTIN'S WORLD",
+    "bookName": "PUTIN’S WORLD",
     "sentement": "Negative",
     "id": "950"
   },
@@ -5731,7 +5731,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/03/27/books/review/jenna-glass-womens-war.html",
-    "bookName": "THE WOMEN'S WAR",
+    "bookName": "THE WOMEN’S WAR",
     "sentement": "Positive",
     "id": "956"
   },
@@ -5881,7 +5881,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/03/12/books/review/lynne-olson-madame-fourcades-secret-war.html",
-    "bookName": "MADAME FOURCADE'S SECRET WAR",
+    "bookName": "MADAME FOURCADE’S SECRET WAR",
     "sentement": "Negative",
     "id": "981"
   },
@@ -5917,7 +5917,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/03/08/books/review/janet-malcolm-essays-nobodys-looking-at-you.html",
-    "bookName": "NOBODY'S LOOKING AT YOU",
+    "bookName": "NOBODY’S LOOKING AT YOU",
     "sentement": "Positive",
     "id": "987"
   },
@@ -5965,7 +5965,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/03/05/books/review/philipp-blom-natures-mutiny.html",
-    "bookName": "NATURE'S MUTINY",
+    "bookName": "NATURE’S MUTINY",
     "sentement": "Negative",
     "id": "995"
   },
@@ -6043,7 +6043,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/02/25/books/review/frans-de-waal-mamas-last-hug.html",
-    "bookName": "MAMA'S LAST HUG",
+    "bookName": "MAMA’S LAST HUG",
     "sentement": "Positive",
     "id": "1008"
   },
@@ -6283,7 +6283,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/01/24/books/review/jan-morris-in-my-minds-eye.html",
-    "bookName": "IN MY MIND'S EYE",
+    "bookName": "IN MY MIND’S EYE",
     "sentement": "Positive",
     "id": "1048"
   },
@@ -6295,7 +6295,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/01/23/books/review/edith-hall-aristotles-way.html",
-    "bookName": "ARISTOTLE'S WAY",
+    "bookName": "ARISTOTLE’S WAY",
     "sentement": "Positive",
     "id": "1050"
   },
@@ -6421,7 +6421,7 @@
   },
   {
     "url": "https://www.nytimes.com/2019/01/09/books/review/anne-franks-diary-in-graphic-form-reveals-its-humor.html",
-    "bookName": "ANNE FRANK'S DIARY",
+    "bookName": "ANNE FRANK’S DIARY",
     "sentement": "Positive",
     "id": "1071"
   },
@@ -6517,7 +6517,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/12/26/books/review/illuminating-islams-peaceful-origins.html",
-    "bookName": "GOD IN THE QUR'AN",
+    "bookName": "GOD IN THE QUR’AN",
     "sentement": "Positive",
     "id": "1087"
   },
@@ -6775,19 +6775,19 @@
   },
   {
     "url": "https://www.nytimes.com/2018/11/30/books/review/jesse-jarnow-wasnt-that-a-time.html",
-    "bookName": "WASN'T THAT A TIME",
+    "bookName": "WASN’T THAT A TIME",
     "sentement": "Negative",
     "id": "1130"
   },
   {
     "url": "https://www.nytimes.com/2018/11/30/books/review/miranda-seymour-in-byrons-wake-ada-lovelace-biography.html",
-    "bookName": "IN BYRON'S WAKE",
+    "bookName": "IN BYRON’S WAKE",
     "sentement": "Positive",
     "id": "1131"
   },
   {
     "url": "https://www.nytimes.com/2018/11/30/books/review/nk-jemisin-how-long-til-black-future-month.html",
-    "bookName": "HOW LONG 'TIL BLACK FUTURE MONTH?",
+    "bookName": "HOW LONG ’TIL BLACK FUTURE MONTH?",
     "sentement": "Positive",
     "id": "1132"
   },
@@ -7117,7 +7117,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/11/09/books/review/martin-riker-samuel-johnsons-eternal-return.html",
-    "bookName": "SAMUEL JOHNSON'S ETERNAL RETURN",
+    "bookName": "SAMUEL JOHNSON’S ETERNAL RETURN",
     "sentement": "Negative",
     "id": "1187"
   },
@@ -7279,7 +7279,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/10/24/books/review/benjamin-balint-kafkas-last-trial.html",
-    "bookName": "KAFKA'S LAST TRIAL",
+    "bookName": "KAFKA’S LAST TRIAL",
     "sentement": "Positive",
     "id": "1214"
   },
@@ -7393,7 +7393,7 @@
   },
   {
     "url": "https://www.nytimes.com/2018/10/12/books/review/alethea-black-youve-been-so-lucky-already.html",
-    "bookName": "YOU'VE BEEN SO LUCKY ALREADY",
+    "bookName": "YOU’VE BEEN SO LUCKY ALREADY",
     "sentement": "Negative",
     "id": "1233"
   },
@@ -7999,7 +7999,7 @@
   },
   {
     "url": "https://www.nytimes.com/2017/01/20/books/review/rumi-brad-gooch.html",
-    "bookName": "RUMI'S SECRET",
+    "bookName": "RUMI’S SECRET",
     "sentement": "Positive",
     "id": "1334"
   },
@@ -8131,7 +8131,7 @@
   },
   {
     "url": "https://www.nytimes.com/2016/12/22/books/review/woody-allen-edward-sorel-mary-astors-purple-diary.html",
-    "bookName": "MARY ASTOR'S PURPLE DIARY",
+    "bookName": "MARY ASTOR’S PURPLE DIARY",
     "sentement": "Positive",
     "id": "1356"
   },
