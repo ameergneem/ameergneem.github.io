@@ -58,10 +58,10 @@ tr.shown td.details-control {
  
 $(document).ready(function() {
     var table = $('#example').DataTable( {   'rowCallback': function(row, data, index){
-    if(data[1] == 'positive'){
-        $(row).find('td:eq(1)').css('color', 'green');
+    if(data[2] == 'positive'){
+        $(row).find('td:eq(2)').css('color', 'green');
     }else{
-        $(row).find('td:eq(1)').css('color', 'red');
+        $(row).find('td:eq(2)').css('color', 'red');
     }//try
 
 },
