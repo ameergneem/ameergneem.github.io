@@ -25,6 +25,7 @@ tr.shown td.details-control {
                 <th></th>
                 <th>Book Name</th>
                 <th>Sentement</th>
+                <th>Goodreads Rating</th>
 
             </tr>
         </thead>
@@ -33,6 +34,7 @@ tr.shown td.details-control {
                 <th></th>
                 <th>Book Name</th>
                 <th>Sentement</th>
+                <th>Goodreads Rating</th>
             </tr>
         </tfoot>
     </table>
@@ -69,7 +71,7 @@ $(document).ready(function() {
             },
             { "data": "bookName" },
             { "data": "sentement" },
-            { "data": "GoodReadsRating" }
+            { "data": "GoodreadsRating" }
         ],
         "order": [[1, 'asc']],
         'rowCallback': function(row, data, index){
