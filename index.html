@@ -60,8 +60,12 @@ $(document).ready(function() {
     var table = $('#example').DataTable( {   'rowCallback': function(row, data, index){
     if(data[1] == 'positive'){
         $(row).find('td:eq(1)').css('color', 'green');
-    }},
-    
+    }else{
+        $(row).find('td:eq(1)').css('color', 'red');
+    }
+
+},
+
         "ajax": "objectsUpd.txt",
         "columns": [
             {
