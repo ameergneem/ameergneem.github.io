@@ -58,6 +58,7 @@ tr.shown td.details-control {
  
 $(document).ready(function() {
     var table = $('#example').DataTable( {   'rowCallback': function(row, data, index){
+    console.log(data[2])
     if(data[2] == 'positive'){
         $(row).find('td:eq(2)').css('color', 'green');
     }else{
