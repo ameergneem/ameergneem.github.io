@@ -70,19 +70,8 @@ $(document).ready(function() {
             { "data": "bookName" },
             { "data": "sentement" }
         ],
-        "order": [[1, 'asc']],
+        "order": [[1, 'asc']]
 
-        'rowCallback': function(row, data, index){
-   
-   if(data[2] == 'positive'){
-       $(row).find('td:eq(2)').css('color', 'green');
-   }else{
-       $(row).find('td:eq(2)').css('color', 'red');
-   }
-   console.log('data[1]: '+data[1]);
-   console.log('data[2]: '+data[2])
-
-}
     } );
 
     // Add event listener for opening and closing details
@@ -102,5 +91,22 @@ $(document).ready(function() {
         }
     } );
 } );
+
+
+$('#example').DataTable({
+
+    'rowCallback': function(row, data, index){
+   
+   if(data[2] == 'positive'){
+       $(row).find('td:eq(2)').css('color', 'green');
+   }else{
+       $(row).find('td:eq(2)').css('color', 'red');
+   }
+   console.log('data[1]: '+data[1]);
+   console.log('data[2]: '+data[2])
+
+}
+
+})
 </script>
 </html>
