@@ -68,12 +68,13 @@ $(document).ready(function() {
                 "defaultContent": ''
             },
             { "data": "bookName" },
-            { "data": "sentement" }
+            { "data": "sentement" },
+            { "data": "GoodReadsRating" }
         ],
         "order": [[1, 'asc']],
         'rowCallback': function(row, data, index){
    
-   if(data.sentement == 'positive'){
+   if(data.sentement == 'Positive'){
        $(row).find('td:eq(2)').css('color', 'green');
    }else{
        $(row).find('td:eq(2)').css('color', 'red');
