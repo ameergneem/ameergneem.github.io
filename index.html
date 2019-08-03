@@ -70,7 +70,19 @@ $(document).ready(function() {
             { "data": "bookName" },
             { "data": "sentement" }
         ],
-        "order": [[1, 'asc']]
+        "order": [[1, 'asc']],
+        'rowCallback': function(row, data, index){
+   
+   if(data.sentement == 'positive'){
+       $(row).find('td:eq(2)').css('color', 'green');
+   }else{
+       $(row).find('td:eq(2)').css('color', 'red');
+   }
+   console.log('data[1]: '+data.sentement);
+
+
+}
+
 
     } );
 
