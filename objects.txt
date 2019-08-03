@@ -1,4 +1,4 @@
-[
+{"data":[
     {
       "url": "https://www.nytimes.com/2019/06/26/books/review/theburied-peterhessler.html",
       "bookName": "THE BURIED",
@@ -2751,4 +2751,4 @@
       "bookName": "A CHILL IN THE AIR",
       "sentement": "negative"
     }
-  ]
+  ]}
