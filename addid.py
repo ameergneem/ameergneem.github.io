@@ -16,7 +16,7 @@ with open('objects.txt','r+') as f:
     i=1
     for obj in jsn:
         print(obj)
-        obj['id'] = i
+        obj['id'] = str(i)
         i +=1
 with open('objectsUpd.txt','w+') as f:
     json.dump(jsn,f)
