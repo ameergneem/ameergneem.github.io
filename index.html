@@ -57,7 +57,11 @@ tr.shown td.details-control {
 }
  
 $(document).ready(function() {
-    var table = $('#example').DataTable( {
+    var table = $('#example').DataTable( {   'rowCallback': function(row, data, index){
+    if(data[1] == 'positive'){
+        $(row).find('td:eq(1)').css('color', 'green');
+    }},
+    
         "ajax": "objectsUpd.txt",
         "columns": [
             {
