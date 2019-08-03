@@ -1,4 +1,3615 @@
-{"data":[
+{
+  "data": [
+    {
+      "url": "https://www.nytimes.com/2018/08/10/books/review/playthings-alex-pheby.html",
+      "bookName": "PLAYTHINGS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/09/books/review/fight-no-more-lydia-millet.html",
+      "bookName": "FIGHT NO MORE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/09/books/review/jamie-bernstein-famous-father-girl.html",
+      "bookName": "FAMOUS FATHER GIRL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/08/books/review/darnell-l-moore-no-ashes-in-the-fire.html",
+      "bookName": "NO ASHES IN THE FIRE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/08/books/review/simon-rich-hits-and-misses.html",
+      "bookName": "HITS & MISSES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/26/books/lee-child-ruth-ware-my-favorite-murder.html",
+      "bookName": "KILLING IT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/07/books/review/olen-steinhauer-middleman.html",
+      "bookName": "THE MIDDLEMAN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/26/books/review/new-paperbacks.html",
+      "bookName": "INTO THE HANDS OF THE SOLDIERS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/06/books/review/randi-hutter-epstein-aroused.html",
+      "bookName": "AROUSED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/06/books/review/james-freeman-vern-mckinley-borrowed-time.html",
+      "bookName": "BORROWED TIME",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/06/books/review/william-t-vollmann-carbon-ideologies-no-immediate-danger-no-good-alternative.html",
+      "bookName": "NO IMMEDIATE DANGER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/03/books/review/paul-french-city-of-devils.html",
+      "bookName": "CITY OF DEVILS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/11/22/travel/what-to-do-in-rome-36-hours.html",
+      "bookName": "ROME",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/03/books/review/mere-wife-maria-dahvana-headley.html",
+      "bookName": "THE MERE WIFE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/03/books/review/in-search-of-mary-shelley-fiona-sampson.html",
+      "bookName": "IN SEARCH OF MARY SHELLEY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/03/books/review/zachary-mason-metamorphica.html",
+      "bookName": "METAMORPHICA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/03/books/review/naomi-novik-spinning-silver.html",
+      "bookName": "SPINNING SILVER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/02/books/review/welcome-to-lagos-chibundu-onuzo.html",
+      "bookName": "WELCOME TO LAGOS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/02/books/review/kissinger-the-negotiator-sebenius-burns-mnookin.html",
+      "bookName": "KISSINGER THE NEGOTIATOR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/01/books/review/rachel-devlin-girl-stands-at-the-door.html",
+      "bookName": "A GIRL STANDS AT THE DOOR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/01/books/review/clock-dance-anne-tyler.html",
+      "bookName": "CLOCK DANCE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/31/books/review/scott-stern-trials-of-nina-mccall.html",
+      "bookName": "THE TRIALS OF NINA McCALL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/13/books/review-amity-prosperity-fracking-eliza-griswold.html",
+      "bookName": "AMITY AND PROSPERITY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/25/books/review-dopesick-beth-macy-opioid-crisis.html",
+      "bookName": "DOPESICK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/31/books/review/mona-hanna-attisha-what-the-eyes-dont-see-anna-clark-poisoned-city.html",
+      "bookName": "WHAT THE EYES DON’T SEE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/30/books/review/adam-frank-light-of-the-stars.html",
+      "bookName": "LIGHT OF THE STARS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/30/books/review/elizabeth-katkin-conceivability-emma-brockes-excellent-choice.html",
+      "bookName": "CONCEIVABILITY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/27/books/review/paula-saunders-distance-home.html",
+      "bookName": "THE DISTANCE HOME",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/27/books/review/inappropriation-lexi-freiman.html",
+      "bookName": "INAPPROPRIATION",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/27/books/review/jordy-rosenberg-confessions-of-the-fox.html",
+      "bookName": "CONFESSIONS OF THE FOX",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/27/books/review/ben-passmore-your-black-friend-other-strangers.html",
+      "bookName": "YOUR BLACK FRIEND AND OTHER STRANGERS (Silver Sprocket, $20)",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/27/books/review/arif-anwar-storm.html",
+      "bookName": "THE STORM",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/26/books/review/lillian-li-number-one-chinese-restaurant-spencer-wise-emperor-of-shoes.html",
+      "bookName": "NUMBER ONE CHINESE RESTAURANT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/25/books/review/ingrid-rojas-contreras-fruit-of-the-drunken-tree.html",
+      "bookName": "FRUIT OF THE DRUNKEN TREE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/24/books/review/incendiaries-ro-kwon.html",
+      "bookName": "THE INCENDIARIES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/24/books/review/steven-zipperstein-pogrom.html",
+      "bookName": "POGROM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/11/books/review-in-hot-milk-by-deborah-levy-a-broken-life-and-a-frayed-maternal-bond.html",
+      "bookName": "MILK!",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/23/books/review/james-walvin-sugar.html",
+      "bookName": "SUGAR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/20/books/review/riley-sager-last-time-i-lied.html",
+      "bookName": "THE LAST TIME I LIED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/20/books/review/double-life-flynn-berry.html",
+      "bookName": "A DOUBLE LIFE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/20/books/review/verdun-affair-nick-dybeck.html",
+      "bookName": "THE VERDUN AFFAIR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/19/books/review/robert-karjel-after-the-monsoon.html",
+      "bookName": "AFTER THE MONSOON",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/18/books/review/third-hotel-laura-van-den-berg.html",
+      "bookName": "THE THIRD HOTEL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/18/books/review/michiko-kakutani-death-of-truth.html",
+      "bookName": "THE DEATH OF TRUTH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/17/books/review/florida-lauren-groff.html",
+      "bookName": "FLORIDA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/20/books/review/lawrence-osborne-only-to-sleep.html",
+      "bookName": "ONLY TO SLEEP",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/17/books/review/margalit-fox-conan-doyle-for-the-defense.html",
+      "bookName": "CONAN DOYLE FOR THE DEFENSE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/16/books/review/megan-abbott-give-me-your-hand.html",
+      "bookName": "GIVE ME YOUR HAND",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/13/books/review/caroline-weber-prousts-duchess-belle-epoque.html",
+      "bookName": "PROUST’S DUCHESS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/13/books/review/the-shades-evgenia-citkowitz.html",
+      "bookName": "THE SHADES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/13/books/review/amanda-stern-little-panic.html",
+      "bookName": "LITTLE PANIC",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/13/books/review/tell-the-machine-goodnight-katie-williams.html",
+      "bookName": "TELL THE MACHINE GOODNIGHT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/13/books/review/dag-solstad-armand-v-t-singer.html",
+      "bookName": "T. SINGER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/13/books/review/travis-jeppesen-see-you-again-in-pyongyang-north-korea.html",
+      "bookName": "SEE YOU AGAIN IN PYONGYANG",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/13/books/review/that-kind-of-mother-rumaan-alam.html",
+      "bookName": "THAT KIND OF MOTHER",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/12/books/review/mercy-seat-elizabeth-h-winthrop.html",
+      "bookName": "THE MERCY SEAT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/25/books/review-cost-of-living-deborah-levy.html",
+      "bookName": "THE COST OF LIVING",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/07/books/review/the-farm-joanne-ramos.html",
+      "bookName": "THE FARM",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/05/books/review/i-am-i-am-i-am-maggie-ofarrell.html",
+      "bookName": "NEAR-DEATH EXPERIENCES . . .",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/10/books/review/from-the-corner-of-the-oval-beck-dorey-stein-white-house-memoir.html",
+      "bookName": "FROM THE CORNER OF THE OVAL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/10/books/review/aidan-truhen-price-you-pay.html",
+      "bookName": "THE PRICE YOU PAY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/10/books/review/nelson-mandela-prison-letters-sahm-venter.html",
+      "bookName": "THE PRISON LETTERS OF NELSON MANDELA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/09/books/review/lynne-tillman-men-and-apparitions.html",
+      "bookName": "MEN AND APPARITIONS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/09/books/review/alissa-quart-squeezed.html",
+      "bookName": "SQUEEZED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/09/books/review/annie-lowrey-give-people-money-andrew-yang-war-on-normal-people.html",
+      "bookName": "GIVE PEOPLE MONEY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/06/books/review/kathleen-belew-bring-the-war-home.html",
+      "bookName": "BRING THE WAR HOME",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/06/books/review/ottessa-moshfegh-my-year-of-rest-and-relaxation.html",
+      "bookName": "MY YEAR OF REST AND RELAXATION",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/29/books/review-spring-ali-smith.html",
+      "bookName": "SPRING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/06/books/review/basic-black-with-pearls-helen-weinzweig.html",
+      "bookName": "BASIC BLACK WITH PEARLS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/06/books/review/issac-bailey-my-brother-moochie.html",
+      "bookName": "MY BROTHER MOOCHIE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/06/books/review/michael-mcfaul-from-cold-war-to-hot-peace.html",
+      "bookName": "FROM COLD WAR TO HOT PEACE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/06/books/review/craig-thompson-carnet-de-voyage.html",
+      "bookName": "CARNET DE VOYAGE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/05/books/review/kicks-nicholas-smith.html",
+      "bookName": "KICKS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/05/books/review/half-gods-akil-kumarasamy.html",
+      "bookName": "HALF GODS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/05/books/review/house-of-nutter-lance-richardson-savile-row.html",
+      "bookName": "HOUSE OF NUTTER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/04/books/review/days-of-awe-am-homes.html",
+      "bookName": "DAYS OF AWE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/03/books/review/unpunished-vice-edmund-white.html",
+      "bookName": "THE UNPUNISHED VICE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/03/books/review/masih-alinejad-wind-in-my-hair.html",
+      "bookName": "THE WIND IN MY HAIR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/02/books/review/yes-we-still-can-dan-pfeiffer.html",
+      "bookName": "YES WE (STILL) CAN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/02/books/review/stephen-r-platt-imperial-twilight.html",
+      "bookName": "IMPERIAL TWILIGHT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/05/books/review-tailspin-steven-brill.html",
+      "bookName": "TAILSPIN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/29/books/review/honey-farm-harriet-alida-lye.html",
+      "bookName": "THE HONEY FARM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/28/books/review/kate-briggs-this-little-art.html",
+      "bookName": "THIS LITTLE ART",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/28/books/review/damnation-island-stacy-horn.html",
+      "bookName": "DAMNATION ISLAND",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/27/books/review/christie-watson-language-kindness.html",
+      "bookName": "THE LANGUAGE OF KINDNESS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/27/books/review/alexander-chee-how-to-write-an-autobiographical-novel.html",
+      "bookName": "HOW TO WRITE AN AUTOBIOGRAPHICAL NOVEL",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/27/books/review/slave-old-man-patrick-chamoiseau.html",
+      "bookName": "SLAVE OLD MAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/26/books/review/david-graeber-bullshit-jobs.html",
+      "bookName": "BULL__ JOBS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/26/books/review/donald-rumsfeld-when-the-center-held.html",
+      "bookName": "WHEN THE CENTER HELD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/25/books/review/american-eden-victoria-johnson.html",
+      "bookName": "AMERICAN EDEN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/25/books/review/alan-lightman-searching-for-stars-on-an-island-in-maine.html",
+      "bookName": "SEARCHING FOR STARS ON AN ISLAND IN MAINE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/22/books/review/uneasy-peace-patrick-sharkey.html",
+      "bookName": "UNEASY PEACE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/01/books/review-moralist-woodrow-wilson-patricia-otoole.html",
+      "bookName": "THE MORALIST",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/22/books/review/philip-dray-fair-chase.html",
+      "bookName": "THE FAIR CHASE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/22/books/review/joseph-oneill-good-trouble.html",
+      "bookName": "GOOD TROUBLE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/30/books/review-semicolon-cecelia-watson.html",
+      "bookName": "PURE HOLLYWOOD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/22/books/review/view-of-the-empire-at-sunset-caryl-phillips.html",
+      "bookName": "A VIEW OF THE EMPIRE AT SUNSET",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/21/books/review/comedown-rebekah-frumkin.html",
+      "bookName": "THE COMEDOWN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/19/books/review/tommy-orange-there-there.html",
+      "bookName": "YEAH NO",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/21/books/review/selfie-will-storr.html",
+      "bookName": "SELFIE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/21/books/review/shlomo-sand-end-of-the-french-intellectual.html",
+      "bookName": "THE END OF THE FRENCH INTELLECTUAL",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/21/books/review/queer-city-peter-ackroyd.html",
+      "bookName": "QUEER CITY",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/20/books/review/matthew-dickman-wonderland-poems.html",
+      "bookName": "WONDERLAND",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/20/books/review/the-kevin-show-kevin-hall-sailing-biography.html",
+      "bookName": "THE KEVIN SHOW",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/20/books/review/tyrant-stephen-greenblatt.html",
+      "bookName": "TYRANT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/04/books/review-there-there-tommy-orange.html",
+      "bookName": "THERE THERE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/19/books/review/jennifer-zeynab-joukhadar-map-of-salt-and-stars.html",
+      "bookName": "THE MAP OF SALT AND STARS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/19/books/review/david-e-sanger-cyberwarfare-the-perfect-weapon.html",
+      "bookName": "THE PERFECT WEAPON",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/18/books/review/gerald-murnane-stream-system-border-districts.html",
+      "bookName": "STREAM SYSTEM",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/11/books/review-futureface-alex-wagner.html",
+      "bookName": "FUTUREFACE",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/17/business/dealbook/book-review-power-trip-michael-webber.html",
+      "bookName": "ENERGY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/09/books/review-aspergers-children-autism-nazi-vienna-edith-sheffer.html",
+      "bookName": "ASPERGER’S CHILDREN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/18/books/review/atticus-finch-joseph-crespino-ac-lee-biography.html",
+      "bookName": "ATTICUS FINCH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/18/books/review/tom-santopietro-why-to-kill-a-mockingbird-matters.html",
+      "bookName": "WHY ‘TO KILL A MOCKINGBIRD’ MATTERS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/15/books/review/solitary-twin-harry-mathews.html",
+      "bookName": "THE SOLITARY TWIN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/15/books/review/only-child-rhiannon-navin.html",
+      "bookName": "ONLY CHILD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/15/books/review/you-all-grow-up-and-leave-me-piper-weiss.html",
+      "bookName": "YOU ALL GROW UP AND LEAVE ME",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/15/books/review/lynne-murphy-prodigal-tongue.html",
+      "bookName": "THE PRODIGAL TONGUE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/15/books/review/salena-zito-brad-todd-great-revolt.html",
+      "bookName": "THE GREAT REVOLT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/15/books/review/cam-simpson-girl-from-kathmandu.html",
+      "bookName": "THE GIRL FROM KATHMANDU",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/11/books/agatha-christie-vanished-11-days-1926.html",
+      "bookName": "AGATHA CHRISTIE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/19/books/review/new-paperbacks.html",
+      "bookName": "AIR TRAFFIC",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/07/books/review/the-farm-joanne-ramos.html",
+      "bookName": "UPSTATE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/14/books/review/benjamin-carter-hett-death-of-democracy.html",
+      "bookName": "THE DEATH OF DEMOCRACY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/13/books/review/jaron-lanier-ten-arguments-for-deleting-your-social-media-accounts-right-now.html",
+      "bookName": "TEN ARGUMENTS FOR DELETING YOUR SOCIAL MEDIA ACCOUNTS RIGHT NOW",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/13/books/review/richard-russo-destiny-thief.html",
+      "bookName": "THE DESTINY THIEF",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/29/books/review-women-on-the-ground-arab-women-reporting-zahra-hankir.html",
+      "bookName": "REPORTER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/12/books/review/our-towns-james-deborah-fallows.html",
+      "bookName": "OUR TOWNS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/12/books/review/eisenhower-vs-warren-james-f-simon.html",
+      "bookName": "EISENHOWER VS. WARREN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/12/books/review/broder-pisces.html",
+      "bookName": "THE PISCES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/02/22/books/review/new-paperbacks.html",
+      "bookName": "THE STRANGE ORDER OF THINGS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/10/books/review-natural-causes-barbara-ehrenreich.html",
+      "bookName": "NATURAL CAUSES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/11/books/review/henry-alford-and-then-we-danced.html",
+      "bookName": "AND THEN WE DANCED",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/08/books/review/demi-gods-eliza-robertson.html",
+      "bookName": "DEMI-GODS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/20/books/review/deshawn-charles-winslow-west-mills-chanelle-benz-gone-dead.html",
+      "bookName": "WEST",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/08/books/review/catherine-nixey-darkening-age.html",
+      "bookName": "THE DARKENING AGE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/08/books/review/christina-hesselholdt-companions.html",
+      "bookName": "COMPANIONS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/08/books/review/mia-couto-woman-of-the-ashes.html",
+      "bookName": "WOMAN OF THE ASHES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/08/books/review/negar-djavadi-distoriental.html",
+      "bookName": "DISORIENTAL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/07/books/review/dambisa-moyo-edge-of-chaos.html",
+      "bookName": "EDGE OF CHAOS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/07/books/review/reinventing-capitalism-in-the-age-of-big-data-mayer-schonberger-ramge.html",
+      "bookName": "REINVENTING CAPITALISM IN THE AGE OF BIG DATA",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/07/books/review-warlight-michael-ondaatje.html",
+      "bookName": "WARLIGHT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/06/books/review/daniel-kurtz-phelan-china-mission.html",
+      "bookName": "THE CHINA MISSION",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/21/books/review-kudos-rachel-cusk.html",
+      "bookName": "KUDOS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/05/books/review/president-carter-stuart-eizenstat.html",
+      "bookName": "PRESIDENT CARTER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/05/books/review/ken-auletta-frenemies.html",
+      "bookName": "FRENEMIES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/05/books/review/president-is-missing-clinton-patterson.html",
+      "bookName": "THE PRESIDENT IS MISSING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/04/books/review/edward-tenner-the-efficiency-paradox.html",
+      "bookName": "THE EFFICIENCY PARADOX",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/kirk-wallace-johnson-feather-thief.html",
+      "bookName": "THE FEATHER THIEF",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/winter-queen-mary-queen-of-scots-british-royal-family-nancy-goldstone.html",
+      "bookName": "DAUGHTERS OF THE WINTER QUEEN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/jonathan-green-sex-money-murder.html",
+      "bookName": "SEX MONEY MURDER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/26/books/review-flash-count-diary-menopause-darcey-steinke.html",
+      "bookName": "FLASH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/20/books/review/9-new-books-we-recommend-this-week.html",
+      "bookName": "DO THIS FOR ME",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/jessica-weisberg-asking-for-a-friend.html",
+      "bookName": "ASKING FOR A FRIEND",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/billy-ocallaghan-dead-house.html",
+      "bookName": "THE DEAD HOUSE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/astonishing-color-of-after-emily-xr-pan.html",
+      "bookName": "THE ASTONISHING COLOR OF AFTER (Little, Brown; 480 pp., $18.99; ages 14 and up)",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/sophia-of-silicon-valley-anna-yen.html",
+      "bookName": "THE GLITCH",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/berenice-abbott-julia-van-haaften.html",
+      "bookName": "BERENICE ABBOTT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/fatima-farheen-mirza-place-for-us.html",
+      "bookName": "A PLACE FOR US",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/allison-pearson-how-hard-can-it-be.html",
+      "bookName": "HOW HARD CAN IT BE?",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/23/books/review-mirage-factory-los-angeles-gary-krist.html",
+      "bookName": "THE MIRAGE FACTORY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/helen-dewitt-some-trick.html",
+      "bookName": "SOME TRICK",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/my-ex-life-stephen-mccauley.html",
+      "bookName": "WHAT YOU DON’T KNOW ABOUT CHARLIE OUTLAW",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/christopher-buckley-judge-hunter.html",
+      "bookName": "THE JUDGE HUNTER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/30/books/review/the-vexations-caitlin-horrocks.html",
+      "bookName": "FIRST PERSON",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/10/15/books/review/susan-orlean-library-book.html",
+      "bookName": "THE LIBRARY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/viv-albertine-to-throw-away-unopened.html",
+      "bookName": "TO THROW AWAY UNOPENED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/paul-theroux-figures-in-a-landscape.html",
+      "bookName": "FIGURES IN A LANDSCAPE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/21/books/patriot-number-one-lauren-hilgers-review.html",
+      "bookName": "PATRIOT NUMBER ONE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/yunte-huang-inseparable.html",
+      "bookName": "INSEPARABLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/vittoria-colonna-renaissance-woman-ramie-targoff.html",
+      "bookName": "RENAISSANCE WOMAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/31/books/review/she-has-her-mothers-laugh-carl-zimmer.html",
+      "bookName": "SHE HAS HER MOTHER’S LAUGH",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/31/books/review/nick-drnaso-sabrina.html",
+      "bookName": "SABRINA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/30/books/review/mark-forsyth-short-history-of-drunkenness.html",
+      "bookName": "A SHORT HISTORY OF DRUNKENNESS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/30/books/review/pops-michael-chabon.html",
+      "bookName": "POPS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/30/books/review/andrew-friedman-chefs-drugs-rock-roll.html",
+      "bookName": "CHEFS, DRUGS AND ROCK & ROLL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/29/books/review/david-attenborough-adventures-of-a-young-naturalist.html",
+      "bookName": "ADVENTURES OF A YOUNG NATURALIST",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/29/books/review/renoirs-dancer-suzanne-valadon-catherine-hewitt.html",
+      "bookName": "RENOIR’S DANCER",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/29/books/review/pamela-druckerman-there-are-no-grownups.html",
+      "bookName": "THERE ARE NO GROWN-UPS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/29/books/review/steve-brusatte-dinosaurs-rise-and-fall.html",
+      "bookName": "THE RISE AND FALL OF THE DINOSAURS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/28/books/review/circe-madeline-miller.html",
+      "bookName": "CIRCE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/27/books/review/atlas-of-a-lost-world-craig-childs.html",
+      "bookName": "ATLAS OF A LOST WORLD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/26/books/review/desert-and-its-seed-jorge-baron-biza.html",
+      "bookName": "THE DESERT AND ITS SEED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/26/books/review/girls-burn-brighter-shobha-rao.html",
+      "bookName": "GIRLS BURN BRIGHTER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/26/books/review/brixton-beach-roma-tearne.html",
+      "bookName": "BRIXTON BEACH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/25/books/review/the-truth-about-animals-lucy-cooke.html",
+      "bookName": "THE TRUTH ABOUT ANIMALS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/25/books/review/the-future-of-humanity-michio-kaku.html",
+      "bookName": "THE FUTURE OF HUMANITY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/25/books/review/army-of-none-paul-scharre.html",
+      "bookName": "ARMY OF NONE: Autonomous Weapons and the Future of War (Norton, $27.95)",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/25/books/review/david-sedaris-calypso.html",
+      "bookName": "CALYPSO",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/25/books/review/silicon-valley-live-work-work-work-die-corey-pein.html",
+      "bookName": "LIVE WORK WORK WORK DIE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/25/books/review/francois-rene-de-chateubriand-memoirs-biography.html",
+      "bookName": "MEMOIRS FROM BEYOND THE GRAVE, 1768-1800",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/25/books/review/katherine-applegate-endling-the-last.html",
+      "bookName": "ENDLING THE LAST (Harper, 381 pp., $17.99; ages 8 to 12)",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/25/books/review/optimistic-decade-heather-abel.html",
+      "bookName": "THE OPTIMISTIC DECADE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/25/books/review/walter-kempowski-all-for-nothing.html",
+      "bookName": "ALL FOR NOTHING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/24/books/review/erin-entrada-kelly-you-go-first.html",
+      "bookName": "YOU GO FIRST",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/24/books/review/tessa-fontaine-electric-woman.html",
+      "bookName": "THE ELECTRIC WOMAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/23/books/review/chris-offutt-country-dark.html",
+      "bookName": "COUNTRY DARK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/22/books/review/insane-alisa-roth.html",
+      "bookName": "INSANE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/22/books/review/outsider-stephen-king.html",
+      "bookName": "THE OUTSIDER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/21/books/review/jon-meacham-soul-of-america.html",
+      "bookName": "THE SOUL OF AMERICA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/21/books/review/lionel-shriver-property.html",
+      "bookName": "PROPERTY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/21/books/review/bad-blood-john-carreyrou.html",
+      "bookName": "BAD BLOOD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/18/books/review/david-thibodeau-waco.html",
+      "bookName": "WACO",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/03/01/books/review/how-to-be-loved-art-of-leaving-joy-enough.html",
+      "bookName": "NOT ENOUGH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/18/books/review/mark-jay-duplass-like-brothers.html",
+      "bookName": "LIKE BROTHERS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/30/books/emilie-pine-notes-to-self.html",
+      "bookName": "SEE WHAT CAN BE DONE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/18/books/review/last-black-unicorn-tiffany-haddish.html",
+      "bookName": "THE LAST BLACK UNICORN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/18/books/review/linda-nochlin-misere.html",
+      "bookName": "MISÈRE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/18/books/review/becoming-madeleine-lengle-lena-roy-charlotte-jones-voiklis.html",
+      "bookName": "BECOMING MADELEINE",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/18/books/review/burning-shores-frederic-wehrey.html",
+      "bookName": "THE BURNING SHORES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/07/books/review/helen-phillips-the-need.html",
+      "bookName": "MOTHERHOOD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/17/books/review/its-time-to-fight-dirty-david-faris.html",
+      "bookName": "IT’S TIME TO FIGHT DIRTY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/17/books/review/poems-ts-eliot.html",
+      "bookName": "THE POEMS OF T.S. ELIOT",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/16/books/review/and-now-we-have-everything-meaghan-oconnell.html",
+      "bookName": "AND NOW WE HAVE EVERYTHING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/16/books/review/michael-bennett-things-that-make-white-people-uncomfortable.html",
+      "bookName": "THINGS THAT MAKE WHITE PEOPLE UNCOMFORTABLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/15/books/review/white-houses-amy-bloom.html",
+      "bookName": "WHITE HOUSES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/15/books/review/robert-kurson-rocket-men.html",
+      "bookName": "ROCKET MEN",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/15/books/review/robin-williams-biography-dave-itzkoff.html",
+      "bookName": "ROBIN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/14/books/review/simon-winchester-perfectionists.html",
+      "bookName": "THE PERFECTIONISTS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/14/books/review/order-of-time-carlo-rovelli.html",
+      "bookName": "THE ORDER OF TIME",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/11/books/review/jonathan-miles-st-petersburg.html",
+      "bookName": "ST. PETERSBURG",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/11/books/review/tom-feiling-island-that-disappeared.html",
+      "bookName": "THE ISLAND THAT DISAPPEARED",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/11/books/review/jan-morris-battleship-yamato.html",
+      "bookName": "BATTLESHIP YAMATO",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/11/books/review/mark-sarvas-memento-park.html",
+      "bookName": "MEMENTO PARK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/11/books/review/gunners-rebecca-kauffman.html",
+      "bookName": "THE GUNNERS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/11/books/review/every-other-weekend-zulema-renee-summerfield.html",
+      "bookName": "EVERY OTHER WEEKEND",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/01/books/new-books-may.html",
+      "bookName": "HERE, GEORGE!",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/10/books/review/aida-edemariam-wifes-tale.html",
+      "bookName": "THE WIFE’S TALE",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/09/books/review/ronan-farrow-war-on-peace.html",
+      "bookName": "WAR ON PEACE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/09/books/review/road-to-unfreedom-timothy-snyder.html",
+      "bookName": "THE ROAD TO UNFREEDOM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/09/books/review/darwins-ghosts-ariel-dorfman.html",
+      "bookName": "DARWIN’S GHOSTS",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/09/books/review/feast-days-by-ian-mackenzie.html",
+      "bookName": "FEAST DAYS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/08/books/review/curtis-sittenfeld-you-think-it-ill-say-it.html",
+      "bookName": "YOU THINK IT, I’LL SAY IT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/section/books/review",
+      "bookName": "WHAT IS REAL?",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/07/books/review/paula-mclain-love-and-ruin.html",
+      "bookName": "LOVE AND RUIN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/07/books/review/clemantine-wamariya-girl-who-smiled-beads.html",
+      "bookName": "THE GIRL WHO SMILED BEADS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/07/books/review/bibi-benjamin-netanyahu-anshel-pfeffer.html",
+      "bookName": "BIBI",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/23/books/review-rachel-kushner-mars-room.html",
+      "bookName": "THE MARS ROOM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/04/books/review/agnes-poirier-left-bank.html",
+      "bookName": "LEFT BANK",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/04/books/review/liesl-shurtliff-grump.html",
+      "bookName": "GRUMP: The (Fairly) True Tale of Snow White and the Seven Dwarves",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/04/books/review/automating-inequality-virginia-eubanks.html",
+      "bookName": "AUTOMATING INEQUALITY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/04/books/review/nafkote-tamirat-parking-lot-attendant.html",
+      "bookName": "THE PARKING LOT ATTENDANT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/12/books/review-alan-hollinghurst-sparsholt-affair.html",
+      "bookName": "THE SPARSHOLT AFFAIR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/04/books/review/vengeance-zachary-lazar.html",
+      "bookName": "VENGEANCE",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/26/books/review/new-paperbacks.html",
+      "bookName": "TWO SISTERS",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/03/books/review/gilbert-king-beneath-ruthless-sun.html",
+      "bookName": "BENEATH A RUTHLESS SUN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/03/books/review/michael-hayden-assault-on-intelligence.html",
+      "bookName": "THE ASSAULT ON INTELLIGENCE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/03/books/review/dancing-bears-witold-szablowski.html",
+      "bookName": "DANCING BEARS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/02/books/review/america-is-not-the-heart-elaine-castillo.html",
+      "bookName": "AMERICA IS NOT THE HEART",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/01/books/review/into-raging-sea-rachel-slade.html",
+      "bookName": "INTO THE RAGING SEA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/01/books/review/something-wonderful-todd-s-purdum.html",
+      "bookName": "SOMETHING WONDERFUL",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/30/books/review/varina-charles-frazier.html",
+      "bookName": "VARINA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/30/books/review/fran-leadon-broadway.html",
+      "bookName": "BROADWAY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/27/books/review/eleanor-davis-why-art.html",
+      "bookName": "WHY ART? (Fantagraphics, paper, $14.99)",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/27/books/review/surprising-place-malinda-mccollum.html",
+      "bookName": "THE SURPRISING PLACE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/12/books/review-going-for-beer-robert-coover.html",
+      "bookName": "GOING FOR A BEER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/27/books/review/dunya-mikhail-beekeeper.html",
+      "bookName": "THE BEEKEEPER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/27/books/review/ramona-ausubel-awayland.html",
+      "bookName": "AWAYLAND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/27/books/review/wrestling-with-the-devil-ngugi-wa-thiongo.html",
+      "bookName": "WRESTLING WITH THE DEVIL",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/12/06/books/review/interior-states-meghan-ogieblyn.html",
+      "bookName": "FAITH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/26/books/review/julian-barnes-only-story.html",
+      "bookName": "THE ONLY STORY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/26/books/review/wade-in-the-water-tracy-k-smith.html",
+      "bookName": "WADE IN THE WATER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/02/books/review/jericho-brown-tradition-poems.html",
+      "bookName": "BROWN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/06/books/review-census-jesse-ball.html",
+      "bookName": "CENSUS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/25/books/review/cecile-richards-make-trouble.html",
+      "bookName": "MAKE TROUBLE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/04/books/best-beach-books.html",
+      "bookName": "I FEEL YOU",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/24/books/review/space-barons-christian-davenport-rocket-billionaires-tim-fernholz.html",
+      "bookName": "THE SPACE BARONS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/24/books/review/amy-chozick-chasing-hillary.html",
+      "bookName": "CHASING HILLARY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/23/books/review/elise-juska-if-we-had-known-tom-mcallister-how-to-be-safe.html",
+      "bookName": "IF WE HAD KNOWN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/23/books/review/state-of-resistance-manuel-pastor.html",
+      "bookName": "STATE OF RESISTANCE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/18/books/review-god-save-texas-lawrence-wright.html",
+      "bookName": "GOD SAVE TEXAS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/20/books/review/fascism-a-warning-madeleine-albright.html",
+      "bookName": "FASCISM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/20/books/review/david-reich-who-we-are-how-we-got-here.html",
+      "bookName": "WHO WE ARE AND HOW WE GOT HERE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/20/books/review/andrew-diamond-chicago-on-the-make.html",
+      "bookName": "EXTREME CITIES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/20/books/review/bible-of-dirty-jokes-eileen-pollack.html",
+      "bookName": "THE BIBLE OF DIRTY JOKES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/20/books/review/picasso-painting-that-shocked-world-miles-j-unger.html",
+      "bookName": "PICASSO AND THE PAINTING THAT SHOCKED THE WORLD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/20/books/review/wendell-steavenson-paris-metro.html",
+      "bookName": "PARIS METRO",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/20/books/review/aminatta-forna-happiness.html",
+      "bookName": "HAPPINESS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/20/books/review/john-lewis-gaddis-on-grand-strategy.html",
+      "bookName": "ON GRAND STRATEGY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/19/books/review/sloane-crosley-look-alive-out-there.html",
+      "bookName": "LOOK ALIVE OUT THERE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/18/books/review/jonathan-miles-anatomy-miracle.html",
+      "bookName": "ANATOMY OF A MIRACLE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/18/books/review/womans-hour-elaine-weiss.html",
+      "bookName": "THE WOMAN’S HOUR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/18/books/review/michelle-de-kretser-life-to-come.html",
+      "bookName": "THE LIFE TO COME",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/02/books/review-recovering-leslie-jamison.html",
+      "bookName": "THE RECOVERING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/17/books/review/freeman-dyson-maker-of-patterns.html",
+      "bookName": "MAKER OF PATTERNS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/16/books/review/jo-nesbo-macbeth.html",
+      "bookName": "MACBETH",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/13/books/review/susan-ronald-dangerous-woman.html",
+      "bookName": "A DANGEROUS WOMAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/13/books/review/high-risers-ben-austen.html",
+      "bookName": "HIGH-RISERS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/13/books/review/benn-steil-marshall-plan.html",
+      "bookName": "THE MARSHALL PLAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/02/01/books/review/new-paperbacks.html",
+      "bookName": "HOW DEMOCRACIES DIE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/13/books/review/sue-halpern-summer-hours-at-the-robbers-library.html",
+      "bookName": "SUMMER HOURS AT THE ROBBERS LIBRARY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/13/books/review/ben-dolnick-ghost-notebooks.html",
+      "bookName": "THE GHOST NOTEBOOKS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/07/books/review/who-writes-american-history-and-how.html",
+      "bookName": "AMERICAN HISTORIES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/04/books/review-sandman-lars-kepler.html",
+      "bookName": "THE SANDMAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/12/books/review/james-comey-a-higher-loyalty.html",
+      "bookName": "A HIGHER LOYALTY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/12/books/review/astral-weeks-ryan-walsh.html",
+      "bookName": "ASTRAL WEEKS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/12/books/review/hannah-arendt-thinking-without-a-banister.html",
+      "bookName": "THINKING WITHOUT A BANISTER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/11/books/review/tom-rachman-italian-teacher.html",
+      "bookName": "THE ITALIAN TEACHER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/11/books/review/michelle-dean-sharp.html",
+      "bookName": "SHARP",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/11/books/review/stray-city-chelsey-johnson.html",
+      "bookName": "STRAY CITY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/10/books/review/thomas-mcguane-cloudbursts.html",
+      "bookName": "CLOUDBURSTS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/10/books/review/howard-blum-in-the-enemys-house.html",
+      "bookName": "IN THE ENEMY’S HOUSE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/09/books/review/to-change-the-church-ross-douthat.html",
+      "bookName": "TO CHANGE THE CHURCH",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/09/books/review/overstory-richard-powers.html",
+      "bookName": "THE OVERSTORY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/06/books/review/no-turning-back-rania-abouzeid.html",
+      "bookName": "NO TURNING BACK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/28/books/review/david-epstein-range.html",
+      "bookName": "NEVER REMEMBER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/06/books/review/jennifer-clement-gun-love.html",
+      "bookName": "GUN LOVE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/06/books/review/1947-elisabeth-asbrink-modern-totalitarianism.html",
+      "bookName": "1947",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/06/books/review/mike-wendling-alt-right.html",
+      "bookName": "ALT-RIGHT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/05/books/review/aetherial-worlds-tatyana-tolstaya.html",
+      "bookName": "AETHERIAL WORLDS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/05/books/review/i-am-i-am-i-am-maggie-ofarrell.html",
+      "bookName": "I AM I AM I AM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/04/books/review/laura-wides-munoz-making-of-a-dream.html",
+      "bookName": "THE MAKING OF A DREAM",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/04/books/review/food-explorer-daniel-stone.html",
+      "bookName": "THE FOOD EXPLORER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/03/books/review/lauren-slater-blue-dreams.html",
+      "bookName": "BLUE DREAMS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/03/books/review/alternate-side-anna-quindlen.html",
+      "bookName": "ALTERNATE SIDE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/02/books/review/movie-nights-with-reagans-mark-weinberg.html",
+      "bookName": "MOVIE NIGHTS WITH THE REAGANS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/02/books/review/robert-reich-common-good.html",
+      "bookName": "THE COMMON GOOD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/30/books/review/farewell-to-the-horse-ulrich-raulf.html",
+      "bookName": "FAREWELL TO THE HORSE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/30/books/review/david-cannadine-victorious-century.html",
+      "bookName": "VICTORIOUS CENTURY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/30/books/review/kim-fu-lost-girls-of-camp-forevermore.html",
+      "bookName": "THE LOST GIRLS OF CAMP FOREVERMORE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/30/books/review/cadaver-king-country-dentist-radley-balko-tucker-carrington.html",
+      "bookName": "THE CADAVER KING AND THE COUNTRY DENTIST",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/29/books/review/fatal-discord-michael-massing.html",
+      "bookName": "FATAL DISCORD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/28/books/review/journey-into-europe-akbar-ahmed.html",
+      "bookName": "JOURNEY INTO EUROPE",
+      "sentement": "apositive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/28/books/review/land-between-two-rivers-tom-sleigh.html",
+      "bookName": "HOUSE OF FACT, HOUSE OF RUIN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/27/books/review/tangerine-christine-mangan.html",
+      "bookName": "TANGERINE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/11/12/books/review/steven-weisman-chosen-wars.html",
+      "bookName": "(((SEMITISM)))",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/05/theater/andrew-lloyd-webber-memoir-unmasked.html",
+      "bookName": "UNMASKED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/21/books/review/jasmin-darznik-song-of-a-captive-bird.html",
+      "bookName": "SONG OF A CAPTIVE BIRD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/19/books/review/stealing-the-show-joy-press-.html",
+      "bookName": "STEALING THE SHOW",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/books/review/eight-beach-books.html",
+      "bookName": "MRS.",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/16/books/review/laurie-gwen-shapiro-stowaway-billy-gawronski-biography.html",
+      "bookName": "THE STOWAWAY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/16/books/review/which-way-tree-elizabeth-crook.html",
+      "bookName": "THE WHICH WAY TREE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/05/books/review-speak-no-evil-uzodinma-iweala.html",
+      "bookName": "SPEAK NO EVIL",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/13/books/review/david-cay-johnston-its-even-worse-than-you-think.html",
+      "bookName": "IT’S EVEN WORSE THAN YOU THINK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/08/01/opinion/the-argument-impeachment-trump.html",
+      "bookName": "IMPEACHMENT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/05/books/review-friend-sigrid-nunez.html",
+      "bookName": "THE FRIEND",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/09/books/review/eternal-life-dara-horn.html",
+      "bookName": "ETERNAL LIFE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/04/13/books/review/pamela-druckerman-screen-time-for-kids-interview.html",
+      "bookName": "THE ART OF SCREEN TIME",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/07/books/review/brass-xhenet-aliu.html",
+      "bookName": "BRASS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/23/business/dealbook/review-we-the-corporations.html",
+      "bookName": "WE THE CORPORATIONS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/02/books/review-neon-in-daylight-hermione-hoby.html",
+      "bookName": "NEON IN DAYLIGHT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/27/books/review/daphne-will-boast.html",
+      "bookName": "DAPHNE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/26/books/review/eat-the-apple-matt-young.html",
+      "bookName": "EAT THE APPLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/23/books/review/cheston-knapp-up-up-down-down.html",
+      "bookName": "UP UP, DOWN DOWN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/23/books/review/the-boat-people-sharon-bala.html",
+      "bookName": "THE BOAT PEOPLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/23/books/review/middle-grade-realism-curtis-kadohata-hiranandani-stevens.html",
+      "bookName": "THE NIGHT DIARY",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/22/books/review/the-new-negro-alain-locke-biography-jeffrey-c-stewart.html",
+      "bookName": "THE NEW NEGRO",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/19/books/review/time-pieces-john-banville-memoir.html",
+      "bookName": "TIME PIECES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/14/books/review/hippie-food-jonathan-kauffman.html",
+      "bookName": "HIPPIE FOOD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/12/books/review/marci-shore-the-ukrainian-night.html",
+      "bookName": "THE UKRAINIAN NIGHT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/09/books/review/the-queen-of-hearts-kimmery-martin.html",
+      "bookName": "THE QUEEN OF HEARTS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/06/books/review/american-marriage-tayari-jones.html",
+      "bookName": "AN AMERICAN MARRIAGE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/03/14/movies/the-juniper-tree-review.html",
+      "bookName": "THE JUNIPER TREE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/02/books/review/paul-kix-saboteur-robert-de-la-rochefoucauld-biography.html",
+      "bookName": "THE SABOTEUR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/02/books/review/munich-robert-harris.html",
+      "bookName": "MUNICH",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/01/books/review/to-fight-against-this-age-rob-riemen.html",
+      "bookName": "TO FIGHT AGAINST THIS AGE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/01/books/review/the-afterlives-thomas-pierce.html",
+      "bookName": "THE AFTERLIVES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/31/books/review/steve-coll-directorate-s.html",
+      "bookName": "DIRECTORATE S",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/08/style/jaron-lanier-new-memoir.html",
+      "bookName": "DAWN OF THE NEW EVERYTHING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/26/books/review/mannequin-makers-craig-cliff.html",
+      "bookName": "THE MANNEQUIN MAKERS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/26/books/review/here-in-berlin-cristina-garcia.html",
+      "bookName": "HERE IN BERLIN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/26/books/review/shcrefer-benko-murdock-fantasy.html",
+      "bookName": "THE LOST RAINFOREST: MEZ’S MAGIC",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/26/books/review/jeffersons-daughters-catherine-kerrison.html",
+      "bookName": "JEFFERSON’S DAUGHTERS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/24/books/review/david-n-schwartz-the-last-man-who-knew-everything.html",
+      "bookName": "THE LAST MAN WHO KNEW EVERYTHING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/12/books/review/jm-coetzee-late-essays.html",
+      "bookName": "LATE ESSAYS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/10/books/review/ruby-namdar-ruined-house.html",
+      "bookName": "THE RUINED HOUSE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/03/books/review/ian-black-enemies-and-neighbors.html",
+      "bookName": "ENEMIES AND NEIGHBORS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/03/books/review/anesthesia-kate-cole-adams-counting-backwards-henry-jay-przybylo.html",
+      "bookName": "ANESTHESIA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/01/books/review/daniel-alarcon-the-king-is-always-above-the-people.html",
+      "bookName": "THE KING IS ALWAYS ABOVE THE PEOPLE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/29/books/review/inheritors-of-the-earth-chris-thomas.html",
+      "bookName": "INHERITORS OF THE EARTH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/28/books/review-windfall-diksha-basu.html",
+      "bookName": "WINDFALL",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/27/books/review/henry-fountain-great-quake-kathryn-miles-quakeland.html",
+      "bookName": "QUAKELAND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/22/books/review/heavens-on-earth-michael-shermer.html",
+      "bookName": "HEAVENS ON EARTH",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/1958/10/12/archives/the-founding-of-the-new-israel-exodus-by-leon-uris-626-pp-new-york.html",
+      "bookName": "THE EXODUS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/22/books/review/abu-dhabi-bar-mitzvah-adam-valen-levinson-memoir.html",
+      "bookName": "THE ABU DHABI BAR MITZVAH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/21/books/review/nicholas-blincoe-bethlehem-biography.html",
+      "bookName": "BETHLEHEM",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/19/books/review/de-hamel-manuscripts-medieval-world-illuminated-books.html",
+      "bookName": "MEETINGS WITH REMARKABLE MANUSCRIPTS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/15/books/review/city-of-brass-s-a-chakraborty.html",
+      "bookName": "THE CITY OF BRASS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2019/books/best-gardening-books.html",
+      "bookName": "THE TRADE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/12/books/review/go-went-gone-jenny-erpenbeck.html",
+      "bookName": "GO, WENT, GONE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/17/books/review/comics-that-capture-the-city-in-all-its-human-and-physical-messiness.html",
+      "bookName": "WHY COMICS?",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/08/books/review/growing-up-with-impressionists-julie-manet-diary.html",
+      "bookName": "GROWING UP WITH THE IMPRESSIONISTS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/08/books/review/freya-anthony-quinn.html",
+      "bookName": "FREYA",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/18/books/review/review-an-odyssey-daniel-mendelsohn.html",
+      "bookName": "THE ODYSSEY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/01/books/review/its-all-relative-aj-jacobs.html",
+      "bookName": "IT’S ALL RELATIVE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/11/09/books/review-becoming-michelle-obama.html",
+      "bookName": "OBAMA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/23/books/beach-reads-bookstores.html",
+      "bookName": "BOOKSHOPS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/01/books/review/bad-rabbi-eddy-portnoy.html",
+      "bookName": "BAD RABBI",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/11/30/books/review/nina-stibbe-almost-perfect-christmas.html",
+      "bookName": "CHRISTMAS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/01/books/review/annie-leibovitz-portraits-2005-2016.html",
+      "bookName": "ANNIE LEIBOVITZ",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/01/books/review/hank-and-jim-scott-eyman-film.html",
+      "bookName": "HANK & JIM",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/01/books/review/the-green-hand-other-stories-nicole-claveloux.html",
+      "bookName": "THE GREEN HAND AND OTHER STORIES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2018/03/20/arts/design/bowie-costumes-ar-3d-ul.html",
+      "bookName": "DAVID BOWIE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/28/books/review/reckless-daughter-david-yaffe-biography-joni-mitchell.html",
+      "bookName": "RECKLESS DAUGHTER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/27/books/leonardo-by-leonardo-martin-kemp-leonardo-100-milestones-leonardo-da-vinci-rediscovered.html",
+      "bookName": "LEONARDO DA VINCI",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/22/books/review/jonathan-blunk-james-wright-poetry-biography.html",
+      "bookName": "JAMES WRIGHT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/22/books/review/gourmands-way-justin-spring-julia-child.html",
+      "bookName": "THE GOURMANDS’ WAY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/22/books/review/wine-lovers-daughter-anne-fadiman-memoir.html",
+      "bookName": "THE WINE LOVER’S DAUGHTER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/21/books/review/dawn-of-detroit-tiya-miles.html",
+      "bookName": "THE DAWN OF DETROIT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/20/books/review/mrs-osmond-john-banville-henry-james-portrait-lady-sequel.html",
+      "bookName": "MRS. OSMOND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/13/books/review-vanity-fair-diaries-tina-brown.html",
+      "bookName": "THE VANITY FAIR DIARIES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/17/books/review/brief-history-everyone-who-ever-lived-adam-rutherford.html",
+      "bookName": "A BRIEF HISTORY OF EVERYONE WHO EVER LIVED",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/17/books/review/george-lizzie-nancy-pearl.html",
+      "bookName": "GEORGE & LIZZIE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/17/books/review/yanis-varoufakis-adults-in-the-room.html",
+      "bookName": "ADULTS IN THE ROOM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/17/books/review/lawrence-freedman-the-future-of-war.html",
+      "bookName": "THE FUTURE OF WAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/24/books/review-state-of-affairs-rethinking-infidelity-esther-perel.html",
+      "bookName": "THE STATE OF AFFAIRS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/17/books/review/mark-helprin-paris-in-the-present-tense.html",
+      "bookName": "PARIS IN THE PRESENT TENSE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/17/books/review/wiley-cash-last-ballad.html",
+      "bookName": "THE LAST BALLAD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/10/books/review/emily-jenkins-winfield-martin-fairy-tales.html",
+      "bookName": "BRAVE RED, SMART FROG",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/09/books/review/fractured-continent-william-drozdiak.html",
+      "bookName": "FRACTURED CONTINENT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/08/books/review/purloining-prince-oleomargarine-philip-stead-mark-twain.html",
+      "bookName": "THE PURLOINING OF PRINCE OLEOMARGARINE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/08/books/review/karen-shepard-kiss-me-someone-short-stories.html",
+      "bookName": "KISS ME SOMEONE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/06/books/review/helen-dunmore-birdcage-walk.html",
+      "bookName": "BIRDCAGE WALK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/01/books/review-ta-nehisi-coates-we-were-eight-years-in-power.html",
+      "bookName": "WE WERE EIGHT YEARS IN POWER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/03/books/review/daniel-handler-all-the-dirty-parts.html",
+      "bookName": "ALL THE DIRTY PARTS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/01/books/review/three-lives-of-james-madison-biography-noah-feldman.html",
+      "bookName": "THE THREE LIVES OF JAMES MADISON",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/11/01/books/review/i-hear-shes-a-real-bitch-jen-agg-restaurant-memoir.html",
+      "bookName": "I HEAR SHE’S A REAL BITCH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/30/books/review/antonin-scalia-speaks-speeches-alan-dershowitz.html",
+      "bookName": "SCALIA SPEAKS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/1953/08/06/archives/the-screen-in-review-from-here-to-eternity-bows-at-capitol-with.html",
+      "bookName": "FROM HERE TO ETERNITY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/26/books/review/after-the-eclipse-sarah-perry-memoir-tribute.html",
+      "bookName": "AFTER THE ECLIPSE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/25/books/review/edward-st-aubyn-dunbar-king-lear.html",
+      "bookName": "DUNBAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/24/books/review/alice-hoffman-rules-of-magic-prequel.html",
+      "bookName": "THE RULES OF MAGIC",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/20/books/review/mihail-sebastian-for-two-thousand-years.html",
+      "bookName": "FOR TWO THOUSAND YEARS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/19/books/review/victor-sebestyen-lenin-biography.html",
+      "bookName": "LENIN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/17/books/review/maria-alyokhina-riot-days-prison-memoir.html",
+      "bookName": "RIOT DAYS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/11/books/review/last-castle-denise-kiernan.html",
+      "bookName": "THE LAST CASTLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/10/books/review/robert-olmstead-savage-country.html",
+      "bookName": "SAVAGE COUNTRY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/10/books/review/snooze-michael-mcgirr-sleep-dreams.html",
+      "bookName": "SNOOZE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/06/books/review/bunny-mellon-biography-meryl-gordon.html",
+      "bookName": "BUNNY MELLON",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/25/books/review/6-new-books-we-recommend-this-week.html",
+      "bookName": "THE CHOICE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/06/books/review/josephine-rowe-a-loving-faithful-animal.html",
+      "bookName": "A LOVING, FAITHFUL ANIMAL",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/06/books/review/thornhill-pam-smy.html",
+      "bookName": "THORNHILL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/10/03/books/review/victoria-abdul-shrabani-basu.html",
+      "bookName": "VICTORIA & ABDUL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/29/books/review/defiance-stephen-taylor-anne-barnard-biography.html",
+      "bookName": "DEFIANCE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/26/books/review/dionne-ornstein-mann-one-nation-after-trump.html",
+      "bookName": "ONE NATION AFTER TRUMP",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/02/books/review/brian-switek-skeleton-keys-bone.html",
+      "bookName": "BONES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/20/books/review/adam-federman-fasting-and-feasting-patience-gray-biography.html",
+      "bookName": "FASTING AND FEASTING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/19/books/review/richard-white-the-republic-for-which-it-stands.html",
+      "bookName": "THE REPUBLIC FOR WHICH IT STANDS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/19/books/review/ellen-pao-reset-silicon-valley-memoir.html",
+      "bookName": "RESET",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/13/books/review/world-of-tomorrow-brendan-mathews.html",
+      "bookName": "THE WORLD OF TOMORROW",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/12/books/review/forest-dark-nicole-krauss.html",
+      "bookName": "FOREST DARK",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/18/books/review/new-paperbacks.html",
+      "bookName": "AUGUSTOWN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/21/books/review-burning-girl-claire-messud.html",
+      "bookName": "THE BURNING GIRL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/27/books/review/rebecca-traister-good-and-mad-soraya-chemaly-rage-becomes-her.html",
+      "bookName": "ENRAGED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/05/books/review/deborah-campbell-a-disappearance-in-damascus.html",
+      "bookName": "A DISAPPEARANCE IN DAMASCUS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/05/books/review/yak-dove-kyo-maclear-friendship.html",
+      "bookName": "YAK & DOVE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/05/books/review/katherine-applegate-wishtree.html",
+      "bookName": "WISHTREE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/09/04/books/review/joanna-scott-careers-for-women.html",
+      "bookName": "CAREERS FOR WOMEN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/06/books/tin-house-last-issue.html",
+      "bookName": "FINAL DEMAND",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/31/books/review/the-misfortune-of-marion-palm-emily-culliton.html",
+      "bookName": "THE MISFORTUNE OF MARION PALM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/topic/company/warner-bros-entertainment-inc",
+      "bookName": "Warner Bros",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/10/17/books/review/tell-me-what-you-want-justin-lehmiller.html",
+      "bookName": "I’LL HAVE WHAT SHE’S HAVING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/29/books/review/ann-powers-good-booty.html",
+      "bookName": "GOOD BOOTY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/25/books/review/this-is-just-a-test-rosenberg-shang.html",
+      "bookName": "THIS IS JUST A TEST",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/25/books/review/kat-yeh-the-way-to-bea.html",
+      "bookName": "THE WAY TO BEA",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/25/books/review/andrew-clements-the-losers-club.html",
+      "bookName": "THE LOSERS CLUB",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/25/books/review/first-rule-of-punk-celia-perez.html",
+      "bookName": "THE FIRST RULE OF PUNK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/25/books/review/little-i-michael-hall-alphabet-numbers.html",
+      "bookName": "THE LITTLE RED CAT WHO RAN AWAY AND LEARNED HIS ABC’S (THE HARD WAY)",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/29/books/review/william-cohan-four-friends.html",
+      "bookName": "MAKING SENSE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/25/books/review/einstein-relativity-theory-gravitational-waves.html",
+      "bookName": "THE FORMATIVE YEARS OF RELATIVITY: The History and Meaning of Einstein’s Princeton Lectures",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/23/books/review/cathy-davidson-new-education.html",
+      "bookName": "THE NEW EDUCATION",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/22/books/review/see-what-i-have-done-sarah-schmidt.html",
+      "bookName": "SEE WHAT I HAVE DONE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/22/books/review/into-the-gray-zone-adrian-owen-.html",
+      "bookName": "INTO THE GRAY ZONE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/21/books/review/a-boy-in-winter-rachel-seiffert.html",
+      "bookName": "A BOY IN WINTER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/18/books/review/river-under-the-road-scott-spencer.html",
+      "bookName": "RIVER UNDER THE ROAD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/01/books/review/clive-thompson-coders.html",
+      "bookName": "LIFE IN CODE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/25/books/review/wild-things-bruce-handy.html",
+      "bookName": "WILD THINGS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/16/books/review/to-siri-with-love-judith-newman-memoir.html",
+      "bookName": "TO SIRI WITH LOVE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/15/books/review-new-people-danzy-senna.html",
+      "bookName": "NEW PEOPLE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/15/books/review/lucy-ives-impossible-views-of-the-world.html",
+      "bookName": "IMPOSSIBLE VIEWS OF THE WORLD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/14/books/review/a-life-of-adventure-and-delight-akhil-sharma.html",
+      "bookName": "A LIFE OF ADVENTURE AND DELIGHT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/11/books/review/tornado-weather-deborah-e-kennedy.html",
+      "bookName": "TORNADO WEATHER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/09/books/review/a-house-among-the-trees-julia-glass.html",
+      "bookName": "A HOUSE AMONG THE TREES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/09/books/review/broken-river-j-robert-lennon.html",
+      "bookName": "BROKEN RIVER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/03/books/review/songs-we-know-best-john-ashbery-biography-karin-roffman.html",
+      "bookName": "THE SONGS WE KNOW BEST",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/03/books/review/giving-godhead-dylan-krieger.html",
+      "bookName": "GIVING GODHEAD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/08/01/books/review/best-minds-of-my-generation-beats-allen-ginsberg.html",
+      "bookName": "THE BEST MINDS OF MY GENERATION",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/17/books/review/karen-russell-orange-world.html",
+      "bookName": "DISASTERS IN THE FIRST WORLD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/28/books/review/goodbye-vitamin-rachel-khong.html",
+      "bookName": "GOODBYE, VITAMIN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/28/books/review/pretend-we-are-lovely-noley-reid.html",
+      "bookName": "PRETEND WE ARE LOVELY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/30/books/review-answers-catherine-lacey.html",
+      "bookName": "THE ANSWERS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/19/books/review-retreat-of-western-liberalism-edward-luce.html",
+      "bookName": "THE RETREAT OF WESTERN LIBERALISM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/21/books/review/crime-fiction-the-smack-richard-lange-the-late-show-michael-connelly.html",
+      "bookName": "THE SMACK (Mulholland/Little, Brown, $26),",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/21/books/review/quiet-until-the-thaw-alexandra-fuller-.html",
+      "bookName": "QUIET UNTIL THE THAW",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/20/books/review/alain-mabanckou-black-moses-.html",
+      "bookName": "BLACK MOSES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/20/books/review/the-fate-of-the-west-bill-emmott-one-anothers-equals-jeremy-waldron-.html",
+      "bookName": "THE FATE OF THE WEST",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/19/books/review-fierce-kingdom-gin-phillips.html",
+      "bookName": "FIERCE KINGDOM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/19/books/review/alia-malek-the-home-that-was-our-country-wendy-pearlman-we-crossed-a-bridge-and-it-trembled-syria-memoir-oral-history.html",
+      "bookName": "THE HOME THAT WAS OUR COUNTRY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/19/books/review/gabe-habash-stephen-florida-wrestling-novel.html",
+      "bookName": "STEPHEN FLORIDA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/18/books/review-anonymous-incest-diary.html",
+      "bookName": "THE INCEST DIARY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/04/books/review-nadar-biography-adam-begley.html",
+      "bookName": "THE GREAT NADAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/13/books/review/whimsical-new-picture-books-wordplay.html",
+      "bookName": "7 ATE 9",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/06/books/review/behave-robert-m-sapolsky-.html",
+      "bookName": "BEHAVE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/04/books/review/hue-1968-vietnam-mark-bowden.html",
+      "bookName": "HUE 1968",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/07/03/books/review/love-africa-memoir-jeffrey-gettleman.html",
+      "bookName": "LOVE, AFRICA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/30/books/review/a-flag-worth-dying-for-tim-marshall.html",
+      "bookName": "A FLAG WORTH DYING FOR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/30/books/review/little-sister-barbara-gowdy.html",
+      "bookName": "LITTLE SISTER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/30/books/review/imagineers-of-war-untold-history-of-darpa-sharon-weinberger.html",
+      "bookName": "THE IMAGINEERS OF WAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/26/books/50-states-of-true-crime.html",
+      "bookName": "LAW AND DISORDER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/23/books/review/murder-in-matera-helene-stapinski.html",
+      "bookName": "MURDER IN MATERA",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/23/books/review/the-boy-who-loved-too-much.html",
+      "bookName": "THE BOY WHO LOVED TOO MUCH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/21/books/review/fly-me-daniel-riley.html",
+      "bookName": "FLY ME",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/20/books/review/richard-rothstein-color-of-law-forgotten-history.html",
+      "bookName": "THE COLOR OF LAW",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/19/books/review/some-rise-by-sin-philip-caputo.html",
+      "bookName": "SOME RISE BY SIN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/16/books/review/speed-of-life-carol-weston.html",
+      "bookName": "SPEED OF LIFE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/14/books/review-the-force-don-winslow.html",
+      "bookName": "THE FORCE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/new-paperbacks.html",
+      "bookName": "ANATOMY OF TERROR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/10/books/review-richard-russo-trajectory.html",
+      "bookName": "TRAJECTORY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/07/books/review-essex-serpent-sarah-perry.html",
+      "bookName": "THE ESSEX SERPENT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/06/books/review-do-not-become-alarmed-maile-meloy.html",
+      "bookName": "DO NOT BECOME ALARMED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/06/books/review/russian-revolution-sean-mcmeekin.html",
+      "bookName": "THE RUSSIAN REVOLUTION",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/02/books/review/in-search-of-the-lost-child-1967-hippie-danny-goldberg.html",
+      "bookName": "IN SEARCH OF THE LOST CHORD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/02/books/review/otis-redding-an-unfinished-life-jonathan-gould.html",
+      "bookName": "OTIS REDDING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/02/books/review/extraordinary-adventures-daniel-wallace.html",
+      "bookName": "EXTRAORDINARY ADVENTURES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/02/books/review/chemistry-weike-wang.html",
+      "bookName": "CHEMISTRY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/02/books/review/moving-the-palace-charif-majdalani.html",
+      "bookName": "MOVING THE PALACE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/books/review/eight-beach-books.html",
+      "bookName": "ISLAND HOME",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/02/books/review/berlin-calling-story-music-anarchy-the-wall-paul-hockenos.html",
+      "bookName": "BERLIN CALLING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/02/books/review/hes-got-rhythm-life-and-career-gene-kelly-cynthia-sara-brideson.html",
+      "bookName": "HE’S GOT RHYTHM",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/02/books/review/spectacular-sisterhood-of-superwomen-hope-nicholson.html",
+      "bookName": "THE SPECTACULAR SISTERHOOD OF SUPERWOMEN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/30/books/review/id-die-for-you-and-other-lost-stories-f-scott-fitzgerald.html",
+      "bookName": "I’D DIE FOR YOU",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/26/books/review/gulf-making-of-an-american-sea-jack-davis.html",
+      "bookName": "THE GULF",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/26/books/review/miss-burma-charmaine-craig.html",
+      "bookName": "MISS BURMA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/26/books/review/music-of-the-ghosts-vaddey-ratner.html",
+      "bookName": "MUSIC OF THE GHOSTS",
+      "sentement": "negative"
+    },
+    {
+      "url": "http://movies2.nytimes.com/books/99/07/04/specials/hemingway-reviews.html",
+      "bookName": "ERNEST HEMINGWAY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/23/books/review/the-death-and-life-of-the-great-lakes-dan-egan.html",
+      "bookName": "THE DEATH AND LIFE OF THE GREAT LAKES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/29/books/review/ya-romance-for-teenagers.html",
+      "bookName": "FIRST LOVE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/18/books/review/the-unruly-city-mike-rapport-paris-london-new-york-revolution.html",
+      "bookName": "THE UNRULY CITY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/02/books/review/oksana-behave-maria-kuznetsova-lights-all-night-long-lydia-fitzpatrick.html",
+      "bookName": "TESTIMONY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/16/books/review/the-leavers-by-lisa-ko.html",
+      "bookName": "THE LEAVERS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/15/books/review-theres-mystery-there-maurice-sendak-jonathan-cott.html",
+      "bookName": "THERE’S A MYSTERY THERE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/15/books/review/vanishing-american-adult-ben-sasse.html",
+      "bookName": "THE VANISHING AMERICAN ADULT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/15/books/review/norse-mythology-neil-gaiman-audio.html",
+      "bookName": "NORSE MYTHOLOGY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/12/books/review/clayton-byrd-goes-underground-rita-williams-garcia.html",
+      "bookName": "CLAYTON BYRD GOES UNDERGROUND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/12/books/review/real-friends-memoir-shannon-hale.html",
+      "bookName": "REAL FRIENDS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/12/books/review/no-one-can-pronounce-my-name-rakesh-satyal.html",
+      "bookName": "NO ONE CAN PRONOUNCE MY NAME",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/11/books/review/down-the-up-staircase-george-edmund-haynes-harlem-family-bruce-d-haynes-syma-solovitch.html",
+      "bookName": "DOWN THE UP STAIRCASE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/11/books/review/yvain-the-knight-of-the-lion-mt-anderson.html",
+      "bookName": "YVAIN THE KNIGHT OF THE LION",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/11/books/review/house-of-names-colm-toibin-bright-air-black-david-vann.html",
+      "bookName": "HOUSE OF NAMES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/10/books/review/prince-charles-biography-sally-bedell-smith.html",
+      "bookName": "PRINCE CHARLES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/09/books/review-jessica-harris-my-soul-looks-back.html",
+      "bookName": "MY SOUL LOOKS BACK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/09/books/review/men-without-women-haruki-murakami.html",
+      "bookName": "MEN WITHOUT WOMEN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/09/books/review/stephen-king-on-mother-land-paul-theroux.html",
+      "bookName": "MOTHER LAND",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/05/books/review/last-hope-island-lynne-olson.html",
+      "bookName": "LAST HOPE ISLAND",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/05/books/review/how-to-tame-a-fox-and-build-a-dog-lee-alan-dugatkin-lyudmila-trut.html",
+      "bookName": "HOW TO TAME A FOX (AND BUILD A DOG)",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/05/books/review/four-princes-henry-viii-francis-i-charles-v-suleiman-john-julius-norwich.html",
+      "bookName": "FOUR PRINCES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/05/books/review/the-romance-readers-guide-to-life-sharon-pywell.html",
+      "bookName": "THE ROMANCE READER’S GUIDE TO LIFE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/05/books/review/ideas-industry-daniel-w-drezner.html",
+      "bookName": "THE IDEAS INDUSTRY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/01/books/lesley-nneka-arimah-what-means-when-man-falls-from-sky.html",
+      "bookName": "WHAT IT MEANS WHEN A MAN FALLS FROM THE SKY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/09/books/review/rising-star-biography-barack-obama-david-garrow.html",
+      "bookName": "RISING STAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/28/books/review/living-in-the-weather-of-the-world-richard-bausch.html",
+      "bookName": "LIVING IN THE WEATHER OF THE WORLD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/28/books/review/tell-me-how-it-ends-valeria-luiselli.html",
+      "bookName": "TELL ME HOW IT ENDS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/28/books/review/outrun-amy-liptrot.html",
+      "bookName": "THE OUTRUN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/26/books/review-elizabeth-strout-anything-is-possible.html",
+      "bookName": "ANYTHING IS POSSIBLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/26/books/review/the-long-view-culture-of-fame-walter-winchell.html",
+      "bookName": "THE IMAGE: A Guide to Pseudo-Events in America,",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/24/books/review-paula-hawkins-into-the-water.html",
+      "bookName": "INTO THE WATER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/16/books/the-stranger-in-the-woods-for-27-years-maines-north-pond-hermit.html",
+      "bookName": "THE STRANGER IN THE WOODS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/21/books/review/signs-for-lost-children-sarah-moss.html",
+      "bookName": "SIGNS FOR LOST CHILDREN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/21/books/review/falstaff-shakespeare-harold-bloom.html",
+      "bookName": "FALSTAFF",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/19/books/review-janesville-amy-goldstein.html",
+      "bookName": "JANESVILLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/18/books/review/marlena-julie-buntin.html",
+      "bookName": "MARLENA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/14/books/review/-adventures-of-john-carson-in-several-quarters-of-the-world-brian-doyle-robert-louis-stevenson.html",
+      "bookName": "THE ADVENTURES OF JOHN CARSON IN SEVERAL QUARTERS OF THE WORLD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/29/books/review/fatal-discord-michael-massing.html",
+      "bookName": "MARTIN LUTHER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/12/books/review/foodoirs.html",
+      "bookName": "THE TEMPORARY BRIDE",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/11/books/review/twelve-lives-of-samuel-hawley-hannah-tinti.html",
+      "bookName": "THE TWELVE LIVES OF SAMUEL HAWLEY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/10/books/review/who-lost-russia-cold-war-peter-conradi.html",
+      "bookName": "WHO LOST RUSSIA?",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/10/books/review/what-to-do-about-the-solomons-bethany-ball.html",
+      "bookName": "WHAT TO DO ABOUT THE SOLOMONS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/10/books/review/letterman-biography-jason-zinoman.html",
+      "bookName": "LETTERMAN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/07/books/review/my-jewish-year-abigail-pogrebin.html",
+      "bookName": "MY JEWISH YEAR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/07/books/review/by-more-than-providence-michael-j-green.html",
+      "bookName": "BY MORE THAN PROVIDENCE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/07/books/review/our-short-history-lauren-grodstein.html",
+      "bookName": "OUR SHORT HISTORY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/07/books/review/i-am-flying-into-myself-poems-1960-2014-bill-knott-thomas-lux.html",
+      "bookName": "I AM FLYING INTO MYSELF",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/07/books/review/ice-ghosts-franklin-expedition-paul-watson.html",
+      "bookName": "ICE GHOSTS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/06/books/review/ghachar-ghochar-vivek-shanbhag.html",
+      "bookName": "GHACHAR GHOCHAR (Penguin, $15, paper),",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/05/books/review/lotterys-plus-one-emma-donoghue.html",
+      "bookName": "THE LOTTERYS PLUS ONE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/04/03/books/review/a-gatsby-reboot-traces-a-black-familys-fortunes.html",
+      "bookName": "NO ONE IS COMING TO SAVE US",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/31/books/review/eveningland-stories-michael-knight.html",
+      "bookName": "EVENINGLAND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/31/books/review/world-war-ii-fiction.html",
+      "bookName": "THE WOMEN IN THE CASTLE",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/31/books/review/sex-and-the-constitution-geoffrey-r-stone.html",
+      "bookName": "SEX AND THE CONSTITUTION",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/28/books/review/drop-ball-tiffany-dufu-unmade-bed-stephen-marche.html",
+      "bookName": "DROP THE BALL",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/27/books/review/blitzed-drugs-third-reich-norman-ohler.html",
+      "bookName": "BLITZED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/24/books/review/ill-will-dan-chaon.html",
+      "bookName": "ILL WILL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/24/books/review/temporary-people-deepak-unnikrishnan.html",
+      "bookName": "TEMPORARY PEOPLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/21/books/the-invention-of-angela-carter-biography.html",
+      "bookName": "THE INVENTION OF ANGELA CARTER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/23/books/review/teeth-oral-health-mary-otto.html",
+      "bookName": "TEETH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/17/books/review/lucky-ones-julianne-pachico.html",
+      "bookName": "THE LUCKY ONES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/17/books/review/machiavelli-runs-up-against-the-borgias.html",
+      "bookName": "IN THE NAME OF THE FAMILY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/16/books/review/gene-machine-bonnie-rochman.html",
+      "bookName": "THE GENE MACHINE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/14/books/review-virginia-state-colony-for-epileptics-and-feebleminded-molly-mccully-brown.html",
+      "bookName": "THE VIRGINIA STATE COLONY FOR EPILEPTICS AND FEEBLEMINDED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/15/books/review-homo-deus-yuval-noah-harari.html",
+      "bookName": "HOMO DEUS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/10/books/review/gestapo-by-frank-mcdonough.html",
+      "bookName": "THE GESTAPO",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/10/books/review/convergence-peter-watson.html",
+      "bookName": "CONVERGENCE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/08/books/review-insomniac-city-recalls-life-with-oliver-sacks.html",
+      "bookName": "INSOMNIAC CITY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/10/books/review/laundry-day-jessixa-bagley.html",
+      "bookName": "LAUNDRY DAY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/10/books/review/princess-cora-and-the-crocodile-laura-amy-schlitz.html",
+      "bookName": "PRINCESS CORA AND THE CROCODILE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/24/books/review/spaceman-of-bohemia-jaroslav-kalfar.html",
+      "bookName": "SPACEMAN OF BOHEMIA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/08/books/review/hearts-of-men-nickolas-butler.html",
+      "bookName": "THE HEARTS OF MEN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/07/books/review/night-ocean-paul-la-farge.html",
+      "bookName": "THE NIGHT OCEAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/07/books/review/lower-ed-tressie-mcmillan-cottom.html",
+      "bookName": "LOWER ED",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/06/books/review-joan-didion-south-and-west.html",
+      "bookName": "SOUTH AND WEST: FROM A NOTEBOOK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/30/books/review/9-new-books-we-recommend-this-week.html",
+      "bookName": "OTHER PEOPLE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/03/books/review/interfaith-healer-the-surprising-role-of-jesus-in-islam.html",
+      "bookName": "THE ISLAMIC JESUS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/02/books/review/flaneuse-by-lauren-elkin.html",
+      "bookName": "FLÂNEUSE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/01/books/review/robert-lowell-biography-setting-the-river-on-fire-kay-redfield-jamison.html",
+      "bookName": "ROBERT LOWELL, SETTING THE RIVER ON FIRE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/01/books/review/elizabeth-bishop-biography-miracle-for-breakfast-megan-marshall.html",
+      "bookName": "ELIZABETH BISHOP",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/28/books/review-elif-batuman-idiot.html",
+      "bookName": "THE IDIOT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/06/14/books/a-horse-walks-into-a-bar-wins-man-booker-international-prize.html",
+      "bookName": "A HORSE WALKS INTO A BAR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/24/books/review/tell-me-everything-you-dont-remember-by-christine-hyung-oak-lee.html",
+      "bookName": "TELL ME EVERYTHING YOU DON’T REMEMBER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/24/books/review/caught-in-the-revolution-helen-rappaport.html",
+      "bookName": "CAUGHT IN THE REVOLUTION",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/24/books/review/journeyman-marc-bojanowski.html",
+      "bookName": "JOURNEYMAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/24/books/review/piece-of-the-world-christina-baker-kline.html",
+      "bookName": "A PIECE OF THE WORLD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/24/books/review/schooldays-of-jesus-jm-coetzee.html",
+      "bookName": "THE SCHOOLDAYS OF JESUS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/20/books/review-the-one-inside-presents-sam-shepard-in-a-minor-key.html",
+      "bookName": "THE ONE INSIDE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/23/books/review/testosterone-rex-myths-of-sex-science-and-society-cordelia-fine.html",
+      "bookName": "TESTOSTERONE REX",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/21/books/review/six-four-hideo-yokoyama.html",
+      "bookName": "SIX FOUR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/20/books/review/almost-complete-poems-stanley-moss.html",
+      "bookName": "ALMOST COMPLETE POEMS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/14/books/review/valley-of-the-gods-silicon-valley-alexandra-wolfe.html",
+      "bookName": "VALLEY OF THE GODS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/13/books/review/age-of-anger-pankaj-mishra.html",
+      "bookName": "AGE OF ANGER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2019/books/best-gardening-books.html",
+      "bookName": "THE TREE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/10/books/review/wardens-daughter-jerry-spinelli.html",
+      "bookName": "THE WARDEN’S DAUGHTER",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/10/books/review/night-of-fire-colin-thubron.html",
+      "bookName": "NIGHT OF FIRE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/10/books/review/this-is-how-it-always-is-laurie-frankel.html",
+      "bookName": "THIS IS HOW IT ALWAYS IS",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/06/books/review-george-saunders-lincoln-in-the-bardo.html",
+      "bookName": "LINCOLN IN THE BARDO",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/08/books/review-insomniac-city-recalls-life-with-oliver-sacks.html",
+      "bookName": "INSOMNIAC CITY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/06/books/review/generation-revolution-rachel-aspden.html",
+      "bookName": "GENERATION REVOLUTION",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/03/books/review/man-who-never-stopped-sleeping-aharon-appelfeld.html",
+      "bookName": "THE MAN WHO NEVER STOPPED SLEEPING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/03/books/review/animators-kayla-rae-whitaker.html",
+      "bookName": "THE ANIMATORS",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/03/books/review/great-place-to-have-a-war-joshua-kulantick.html",
+      "bookName": "A GREAT PLACE TO HAVE A WAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/22/books/holiday-fiction-just-in-time-for-christmas.html",
+      "bookName": "CHRISTMAS DAYS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/16/books/review/joanne-limburg-a-want-of-kindness.html",
+      "bookName": "A WANT OF KINDNESS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/16/books/review/edward-hoagland-in-the-country-of-the-blind.html",
+      "bookName": "IN THE COUNTRY OF THE BLIND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/16/books/review/siri-hustvedt-woman-looking-at-men-looking-at-women.html",
+      "bookName": "A WOMAN LOOKING AT MEN LOOKING AT WOMEN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/16/books/review/pursuit-of-power-richard-j-evans.html",
+      "bookName": "THE PURSUIT OF POWER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/16/books/review/nation-without-borders-steven-hahn.html",
+      "bookName": "A NATION WITHOUT BORDERS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/16/books/review/brave-new-weed-joe-dolce.html",
+      "bookName": "BRAVE NEW WEED",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/29/books/kathleen-collinss-whatever-happened-to-interracial-love.html",
+      "bookName": "WHATEVER HAPPENED TO INTERRACIAL LOVE?",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/09/books/review/vanquished-robert-gerwarth.html",
+      "bookName": "THE VANQUISHED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/09/books/review/fall-of-house-of-oscar-wilde-emer-osullivan.html",
+      "bookName": "THE FALL OF THE HOUSE OF WILDE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/05/books/revenge-of-analog-david-sax.html",
+      "bookName": "THE REVENGE OF ANALOG",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/09/books/review/one-toss-of-dice-r-howard-bloch-looking-for-stranger-alice-kaplan.html",
+      "bookName": "ONE TOSS OF THE DICE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/09/books/review/life-discarded-alexander-masters.html",
+      "bookName": "A LIFE DISCARDED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/09/books/review/nonstop-metropolis-rebecca-solnit-joshua-jelly-schapiro.html",
+      "bookName": "NONSTOP METROPOLIS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/09/books/review/beryl-bainbridge-biography-brendan-king.html",
+      "bookName": "BERYL BAINBRIDGE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2006/11/19/books/review/Donadio.t.html",
+      "bookName": "THE FEUD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/09/books/review/unnatural-world-david-biello.html",
+      "bookName": "THE UNNATURAL WORLD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/07/books/review/judas-amos-oz.html",
+      "bookName": "JUDAS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/05/books/review/moranifesto-caitlin-moran.html",
+      "bookName": "MORANIFESTO",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/02/books/review/the-latest-in-science-fiction-and-fantasy.html",
+      "bookName": "THE FOUR THOUSAND, THE EIGHT HUNDRED (Subterranean Press, $40),",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/02/books/review/jerusalem-1000-1400-metropolitan-museum-of-art.html",
+      "bookName": "JERUSALEM: 1000-1400",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/24/arts/television/mueller-testimony-trump.html",
+      "bookName": "TESTIMONY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/18/arts/design/francis-picabia-the-playboy-prankster-of-moderism.html",
+      "bookName": "FRANCIS PICABIA",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/02/books/review/vanity-fair-writers-on-writers-graydon-carter.html",
+      "bookName": "VANITY FAIR’S WRITERS ON WRITERS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/02/books/review/david-welky-wretched-precarious-situation.html",
+      "bookName": "A WRETCHED AND PRECARIOUS SITUATION",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/02/books/review-marina-abramovic-memoir-walk-through-walls.html",
+      "bookName": "WALK THROUGH WALLS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/21/books/review/iris-origo-chill-in-the-air.html",
+      "bookName": "A CHILL IN THE AIR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/19/books/review/meg-jo-beth-amy-anne-boyd-rioux.html",
+      "bookName": "MEG, JO, BETH, AMY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/19/books/review/justin-driver-schoolhouse-gate.html",
+      "bookName": "THE SCHOOLHOUSE GATE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/18/books/review/sarah-weinman-real-lolita-t-greenwood-rust-stardust.html",
+      "bookName": "THE REAL LOLITA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/18/books/review/sally-field-in-pieces.html",
+      "bookName": "IN PIECES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/17/books/review/jules-feiffer-completes-his-trilogy-a-song-of-american-deceptions.html",
+      "bookName": "THE GHOST SCRIPT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/17/books/review/lisa-margonelli-underbug.html",
+      "bookName": "UNDERBUG",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/17/books/review/mimi-swartz-ticker.html",
+      "bookName": "TICKER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/17/books/review/disordered-mind-eric-kandel.html",
+      "bookName": "THE DISORDERED MIND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/14/books/review/michele-gelfand-rule-makers-rule-breakers.html",
+      "bookName": "RULE MAKERS, RULE BREAKERS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/14/books/review/corey-brettschneider-oath-and-the-office.html",
+      "bookName": "THE OATH AND THE OFFICE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/28/books/review/conscience-patricia-churchland.html",
+      "bookName": "CONSCIENCE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/14/books/review/jill-lepore-these-truths.html",
+      "bookName": "THESE TRUTHS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/14/books/review/dan-kaufman-fall-of-wisconsin.html",
+      "bookName": "THE FALL OF WISCONSIN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/14/books/review/doris-kearns-goodwin-leadership.html",
+      "bookName": "LEADERSHIP",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/14/books/review/david-levering-lewis-improbable-wendell-willkie.html",
+      "bookName": "THE IMPROBABLE WENDELL WILLKIE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/14/books/review/palaces-for-the-people-eric-klinenberg.html",
+      "bookName": "PALACES FOR THE PEOPLE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/14/books/review/miriam-pawel-browns-of-california.html",
+      "bookName": "THE BROWNS OF CALIFORNIA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/12/books/review/allan-j-lichtman-embattled-vote-in-america.html",
+      "bookName": "THE EMBATTLED VOTE IN AMERICA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/11/books/review/jason-stanley-how-fascism-works.html",
+      "bookName": "HOW FASCISM WORKS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/10/books/review/sarah-smarsh-heartland.html",
+      "bookName": "HEARTLAND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/07/books/review/devoted-blair-hurley-world-is-a-narrow-bridge-aaron-thier.html",
+      "bookName": "THE WORLD IS A NARROW BRIDGE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/07/books/review/katerina-james-frey.html",
+      "bookName": "KATERINA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/07/books/review/babylon-yasmina-reza.html",
+      "bookName": "BABYLON",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/21/books/review-we-that-are-young-preti-taneja.html",
+      "bookName": "WE THAT ARE YOUNG",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/24/books/review/best-seller-cherry-nico-walker.html",
+      "bookName": "CHERRY",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/07/books/review/last-englishmen-deborah-baker.html",
+      "bookName": "THE LAST ENGLISHMEN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/books/review/big-game-mark-leibovich.html",
+      "bookName": "BIG GAME",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/20/books/review-fashion-climbing-bill-cunningham-memoir.html",
+      "bookName": "FASHION CLIMBING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/27/books/review-lake-success-gary-shteyngart.html",
+      "bookName": "Lake Success",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/30/books/yuval-harari-21-lessons-russian.html",
+      "bookName": "21 LESSONS FOR THE 21ST CENTURY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/03/books/review/michael-kinch-between-hope-and-fear.html",
+      "bookName": "BETWEEN HOPE AND FEAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/03/books/review/randy-kennedy-presidio.html",
+      "bookName": "PRESIDIO",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/31/books/review/garden-fugitives-ceridwen-dovey.html",
+      "bookName": "IN THE GARDEN OF THE FUGITIVES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/31/books/review/ben-marcus-notes-from-the-fog.html",
+      "bookName": "NOTES FROM THE FOG",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/31/books/review/garden-party-grace-dane-mazur.html",
+      "bookName": "THE GARDEN PARTY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/30/books/review/lea-carpenter-red-white-blue-dan-fesperman-safe-houses.html",
+      "bookName": "SAFE HOUSES",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/30/books/review/tsitsi-dangarembga-this-mournable-body.html",
+      "bookName": "THIS MOURNABLE BODY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/29/books/review/alice-bolin-dead-girls-michelle-tea-against-memoir.html",
+      "bookName": "DEAD GIRLS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/28/books/review/bitwise-david-auerbach.html",
+      "bookName": "BITWISE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/27/books/review/splintering-william-egginton-coddling-greg-lukianoff-jonathan-haidt.html",
+      "bookName": "THE SPLINTERING OF THE AMERICAN MIND",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/27/books/review/francis-fukuyama-identity-kwame-anthony-appiah-the-lies-that-bind.html",
+      "bookName": "IDENTITY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/27/books/review/arthur-ashe-raymond-arsenault.html",
+      "bookName": "ARTHUR ASHE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/24/books/review/letters-to-my-palestinian-neighbor-yossi-klein-halevi.html",
+      "bookName": "LETTERS TO MY PALESTINIAN NEIGHBOR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/18/books/review-jell-o-girls-allie-rowbottom.html",
+      "bookName": "JELL-O GIRLS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/24/books/review/shout-in-the-ruins-kevin-powers.html",
+      "bookName": "A SHOUT IN THE RUINS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/24/books/review/fly-girls-keith-obrien.html",
+      "bookName": "FLY GIRLS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/24/books/review/tin-man-sarah-winman.html",
+      "bookName": "TIN MAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/24/books/review/i-will-be-complete-glen-david-gold.html",
+      "bookName": "I WILL BE COMPLETE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/22/books/review/small-animals-kim-brooks.html",
+      "bookName": "SMALL ANIMALS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/21/books/review/boom-town-sam-anderson.html",
+      "bookName": "BOOM TOWN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/24/books/review-ninety-nine-glimpses-of-princess-margaret-craig-brown.html",
+      "bookName": "NINETY-NINE GLIMPSES OF PRINCESS MARGARET",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/21/books/review/husband-hunters-anne-de-courcy.html",
+      "bookName": "THE HUSBAND HUNTERS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/20/books/review/winners-take-all-anand-giridharadas.html",
+      "bookName": "WINNERS TAKE ALL",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/17/books/review/chris-feliciano-arnold-third-bank-of-the-river.html",
+      "bookName": "THE THIRD BANK OF THE RIVER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/17/books/review/rupert-thomson-never-anyone-but-you.html",
+      "bookName": "NEVER ANYONE BUT YOU",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/17/books/review/andrea-gabor-after-the-education-wars.html",
+      "bookName": "AFTER THE EDUCATION WARS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/03/05/books/review/john-lanchester-wall.html",
+      "bookName": "RISING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/16/books/review/tracy-franz-my-year-of-dirt-and-water.html",
+      "bookName": "MY YEAR OF DIRT AND WATER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/16/books/review/american-audacity-william-giraldi.html",
+      "bookName": "AMERICAN AUDACITY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/15/books/review/family-tabor-cherise-wolas-long-island-story-rick-gekoski.html",
+      "bookName": "THE FAMILY TABOR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/14/books/review/cj-chivers-fighters.html",
+      "bookName": "THE FIGHTERS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/13/books/review/charles-s-cockell-equations-of-life.html",
+      "bookName": "THE EQUATIONS OF LIFE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/13/books/review/david-quammen-tangled-tree.html",
+      "bookName": "THE TANGLED TREE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/10/books/review/diane-guerrero-my-family-divided.html",
+      "bookName": "MY FAMILY DIVIDED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/10/books/review/empress-nur-jahan-ruby-lal.html",
+      "bookName": "EMPRESS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/26/books/review/american-carnage-tim-alberta.html",
+      "bookName": "CONSERVATISM",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/08/08/books/review-crashed-financial-crisis-adam-tooze.html",
+      "bookName": "CRASHED",
+      "sentement": "negative"
+    },
     {
       "url": "https://www.nytimes.com/2019/06/26/books/review/theburied-peterhessler.html",
       "bookName": "THE BURIED",
@@ -174,7 +3785,6 @@
       "bookName": "UNDERLAND",
       "sentement": "positive"
     },
-
     {
       "url": "https://www.nytimes.com/2019/06/07/books/review/lucy-ives-loudermilk.html",
       "bookName": "LOUDERMILK",
@@ -375,7 +3985,6 @@
       "bookName": "OLIVER WENDELL HOLMES",
       "sentement": "positive"
     },
-
     {
       "url": "https://www.nytimes.com/2019/05/28/books/review/richard-roper-how-not-to-die-alone.html",
       "bookName": "HOW NOT TO DIE ALONE",
@@ -441,7 +4050,6 @@
       "bookName": "THE PLAYERS BALL",
       "sentement": "positive"
     },
-
     {
       "url": "https://www.nytimes.com/2019/05/21/books/review/ryan-chapman-riots-i-have-known.html",
       "bookName": "RIOTS I HAVE KNOWN",
@@ -512,7 +4120,6 @@
       "bookName": "THE ASH FAMILY",
       "sentement": "negative"
     },
-
     {
       "url": "https://www.nytimes.com/2019/05/16/books/review/mr-know-it-all-john-waters.html",
       "bookName": "MR. KNOW-IT-ALL",
@@ -1498,7 +5105,6 @@
       "bookName": "WILD BILL",
       "sentement": "negative"
     },
-
     {
       "url": "https://www.nytimes.com/2019/02/13/books/review/parkland-dave-cullen.html",
       "bookName": "PARKLAND",
@@ -1639,7 +5245,6 @@
       "bookName": "ADÈLE",
       "sentement": "positive"
     },
-
     {
       "url": "https://www.nytimes.com/2019/01/23/books/review/edith-hall-aristotles-way.html",
       "bookName": "ARISTOTLE’S WAY",
@@ -1915,7 +5520,6 @@
       "bookName": "PARDON MY HEART",
       "sentement": "positive"
     },
-
     {
       "url": "https://www.nytimes.com/2018/12/13/books/review/cruelty-special-to-our-species-emily-jungmin-yoon.html",
       "bookName": "A CRUELTY SPECIAL TO OUR SPECIES",
@@ -2750,5 +6354,1336 @@
       "url": "https://www.nytimes.com/2018/09/21/books/review/iris-origo-chill-in-the-air.html",
       "bookName": "A CHILL IN THE AIR",
       "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/05/books/review/eddie-huangs-double-cup-love.html",
+      "bookName": "DOUBLE CUP LOVE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/05/books/review/eric-riperts-32-yolks.html",
+      "bookName": "32 YOLKS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/05/books/review/laura-lippmans-wilde-lake.html",
+      "bookName": "WILDE LAKE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/29/books/review/farewell-kabul-by-christina-lamb.html",
+      "bookName": "FAREWELL KABUL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/01/30/books/review-go-ahead-in-rain-tribe-called-quest-hanif-abdurraqib.html",
+      "bookName": "TRIBE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/29/books/review/anatomy-of-malice-by-joel-e-dimsdale.html",
+      "bookName": "ANATOMY OF MALICE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/29/books/review/sweetbitter-by-stephanie-danler.html",
+      "bookName": "SWEETBITTER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/22/books/review/a-country-road-a-tree-by-jo-baker.html",
+      "bookName": "A COUNTRY ROAD, A TREE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/22/books/review/the-seed-collectors-by-scarlett-thomas.html",
+      "bookName": "THE SEED COLLECTORS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/22/books/review/unforbidden-pleasures-by-adam-phillips.html",
+      "bookName": "UNFORBIDDEN PLEASURES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/22/books/review/nathaniel-philbricks-valiant-ambition.html",
+      "bookName": "VALIANT AMBITION",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/22/books/review/the-politicians-and-the-egalitarians-by-sean-wilentz.html",
+      "bookName": "THE POLITICIANS AND THE EGALITARIANS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/15/books/review/clare-mackintoshs-i-let-you-go-and-more.html",
+      "bookName": "I LET YOU GO,",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/15/books/review/beer-money-by-frances-stroh.html",
+      "bookName": "BEER MONEY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/15/books/review/the-high-places-by-fiona-mcfarlane.html",
+      "bookName": "THE HIGH PLACES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2006/01/22/books/review/male-like-me.html",
+      "bookName": "A SELF-MADE MAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/15/books/review/chain-of-title-by-david-dayen.html",
+      "bookName": "CHAIN OF TITLE",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/15/books/review/little-labors-by-rivka-galchen.html",
+      "bookName": "LITTLE LABORS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/15/books/review/the-secret-war-by-max-hastings.html",
+      "bookName": "THE SECRET WAR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/15/books/review/how-women-decide-by-therese-huston.html",
+      "bookName": "HOW WOMEN DECIDE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/02/01/business/media/a-comic-take-on-wall-street-by-an-ex-bear-stearns-executive.html",
+      "bookName": "OPENING BELLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/15/books/review/the-noise-of-time-by-julian-barnes.html",
+      "bookName": "THE NOISE OF TIME",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2006/02/19/books/review/19gray.html",
+      "bookName": "THE GOOD LIFE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/08/books/review/ladivine-by-marie-ndiaye.html",
+      "bookName": "LADIVINE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/08/books/review/the-great-american-whatever-by-tim-federle.html",
+      "bookName": "THE GREAT AMERICAN WHATEVER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/08/books/review/kwame-alexanders-booked.html",
+      "bookName": "BOOKED",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/08/books/review/rescued-by-eliot-schrefer.html",
+      "bookName": "RESCUED",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/08/books/review/wolf-hollow-by-lauren-wolk.html",
+      "bookName": "WOLF HOLLOW",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/08/books/review/john-corey-whaleys-highly-illogical-behavior.html",
+      "bookName": "HIGHLY ILLOGICAL BEHAVIOR",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/08/books/review/the-nameless-city-by-faith-erin-hicks.html",
+      "bookName": "THE NAMELESS CITY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/25/books/review-in-pumpkinflowers-a-new-style-of-middle-east-combat.html",
+      "bookName": "PUMPKINFLOWERS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/01/books/review/dan-fespermans-the-letter-writer-and-more.html",
+      "bookName": "THE LETTER WRITER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/01/books/review/detroit-resurrected-by-nathan-bomey.html",
+      "bookName": "DETROIT RESURRECTED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/01/books/review/nicholas-guyatts-bind-us-apart.html",
+      "bookName": "BIND US APART",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/01/books/review/maurice-issermans-continental-divide.html",
+      "bookName": "CONTINENTAL DIVIDE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/01/books/review/connectography-by-parag-khanna.html",
+      "bookName": "CONNECTOGRAPHY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/01/books/review/the-bad-ass-librarians-of-timbuktu-by-joshua-hammer.html",
+      "bookName": "THE BAD-ASS LIBRARIANS OF TIMBUKTU",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/17/books/review-my-struggle-book-six-karl-ove-knausgaard.html",
+      "bookName": "MY STRUGGLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/24/books/review/hardly-war-by-don-mee-choi.html",
+      "bookName": "HARDLY WAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/24/books/review/jay-mcinerney-reviews-hystopia-by-david-means.html",
+      "bookName": "HYSTOPIA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/24/books/review/maria-popova-reviews-janna-levins-black-hole-blues.html",
+      "bookName": "BLACK HOLE BLUES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/24/books/review/lauren-groff-reviews-charles-bocks-alice-oliver.html",
+      "bookName": "ALICE & OLIVER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/24/books/review/michael-kinsley-old-age-a-beginners-guide.html",
+      "bookName": "OLD AGE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/17/books/review/alibaba-the-house-that-jack-ma-built-by-duncan-clark.html",
+      "bookName": "ALIBABA",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/17/books/review/the-stopped-heart-by-julie-myerson.html",
+      "bookName": "THE STOPPED HEART",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/26/books/review/mary-beth-keane-reading-list-mary-gordon.html",
+      "bookName": "A WOMAN OF PROPERTY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/17/books/review/the-translation-of-love-by-lynne-kutsukake.html",
+      "bookName": "THE TRANSLATION OF LOVE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/29/books/review-graham-swifts-mothering-sunday-a-haunting-dayforever-relived.html",
+      "bookName": "MOTHERING SUNDAY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/02/01/books/review/dark-at-the-crossing-elliot-ackerman.html",
+      "bookName": "DARK AT THE CROSSING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/31/books/review/original-black-elite-elizabeth-dowling-taylor.html",
+      "bookName": "THE ORIGINAL BLACK ELITE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/30/books/review/this-close-to-happy-daphne-merkin.html",
+      "bookName": "THIS CLOSE TO HAPPY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/27/books/review/blood-of-emmett-till-timothy-b-tyson.html",
+      "bookName": "THE BLOOD OF EMMETT TILL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/29/books/review/ephron-vonnegut-nabokov-reviews.html",
+      "bookName": "THINGS WE HAVE IN COMMON",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/27/books/review/i-was-trying-to-describe-what-it-feels-like-noy-holland.html",
+      "bookName": "I WAS TRYING TO DESCRIBE WHAT IT FEELS LIKE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/27/books/review/true-flag-stephen-kinzer.html",
+      "bookName": "THE TRUE FLAG",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/09/books/review/lara-williams-supper-club.html",
+      "bookName": "LARA",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/27/books/review/once-we-were-sisters-memoir-sheila-kohler.html",
+      "bookName": "ONCE WE WERE SISTERS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/30/books/review-semicolon-cecelia-watson.html",
+      "bookName": "SIGNALS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/03/books/aravind-adiga-selection-day-review.html",
+      "bookName": "SELECTION DAY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/25/books/review/high-notes-gay-talese.html",
+      "bookName": "HIGH NOTES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/24/books/review/patriots-sana-krasikov.html",
+      "bookName": "THE PATRIOTS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/20/books/review/new-crime-fiction-hollow-men.html",
+      "bookName": "THE HOLLOW MEN (Pegasus Crime, $25.95),",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/20/books/review/rumi-brad-gooch.html",
+      "bookName": "RUMI’S SECRET",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/13/books/review/9-new-books-we-recommend-this-week.html",
+      "bookName": "CLASS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/20/books/review/homesick-for-another-world-ottessa-moshfegh.html",
+      "bookName": "HOMESICK FOR ANOTHER WORLD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/20/books/review/huck-out-west-robert-coover.html",
+      "bookName": "HUCK OUT WEST",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/05/31/books/review/bill-clinton-by-the-book.html",
+      "bookName": "BILL CLINTON",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/03/06/books/review/carrie-gibson-el-norte.html",
+      "bookName": "MEXICO",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/18/books/review/lost-city-of-monkey-god-douglas-preston.html",
+      "bookName": "THE LOST CITY OF THE MONKEY GOD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/13/books/review/my-private-property-mary-ruefle.html",
+      "bookName": "MY PRIVATE PROPERTY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/12/books/review/expect-great-things-thoreau-biography-kevin-dann.html",
+      "bookName": "EXPECT GREAT THINGS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/26/books/lee-child-ruth-ware-my-favorite-murder.html",
+      "bookName": "THE OLD MAN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/05/books/review/mind-over-money-claudia-hammond.html",
+      "bookName": "MIND OVER MONEY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/05/books/review/steven-spielberg-life-in-films-molly-haskell.html",
+      "bookName": "STEVEN SPIELBERG",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/billy-ocallaghan-dead-house.html",
+      "bookName": "THE HOUSE OF THE DEAD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2017/01/02/books/review/secret-life-of-fat-sylvia-tara.html",
+      "bookName": "THE SECRET LIFE OF FAT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/06/books/review-against-empathy-paul-bloom.html",
+      "bookName": "AGAINST EMPATHY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/29/books/review/signals-are-talking-amy-webb-whiplash-jeff-howe-joi-ito.html",
+      "bookName": "THE SIGNALS ARE TALKING",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/29/books/review/four-dimensional-human-laurence-scott.html",
+      "bookName": "THE FOUR-DIMENSIONAL HUMAN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/27/books/review/tragedy-of-us-foreign-policy-walter-a-mcdougall.html",
+      "bookName": "THE TRAGEDY OF U.S. FOREIGN POLICY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/27/books/review/other-minds-peter-godfrey-smith.html",
+      "bookName": "OTHER MINDS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/26/books/review/glass-universe-dava-sobel-hidden-figures-margot-lee-shetterly.html",
+      "bookName": "THE GLASS UNIVERSE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/23/books/review/radical-faith-eileen-markey.html",
+      "bookName": "A RADICAL FAITH",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/23/books/review/dynasty-three-new-books-about-englands-tudors.html",
+      "bookName": "THE PRIVATE LIVES OF THE TUDORS",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/22/books/review/woody-allen-edward-sorel-mary-astors-purple-diary.html",
+      "bookName": "MARY ASTOR’S PURPLE DIARY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/02/books/review/twenty-six-seconds-alexandra-zapruder-jfk-masculine-mystique-steven-watts.html",
+      "bookName": "TWENTY-SIX SECONDS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/02/books/review/sultan-and-queen-jerry-brotton.html",
+      "bookName": "THE SULTAN AND THE QUEEN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/02/books/review/corsets-and-codpieces-karen-bowman.html",
+      "bookName": "CORSETS AND CODPIECES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/02/books/review/wood-for-the-trees-richard-fortey.html",
+      "bookName": "THE WOOD FOR THE TREES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/01/books/review/nell-freudenberger-lost-and-wanted.html",
+      "bookName": "ENTANGLEMENT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/27/books/review-by-women-possessed-a-remix-of-a-flawed-eugene-oneill.html",
+      "bookName": "BY WOMEN POSSESSED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/02/books/review/dorte-hansen-this-house-is-mine.html",
+      "bookName": "THIS HOUSE IS MINE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/01/books/review/let-there-be-laughter-jewish-humor-michael-krasny.html",
+      "bookName": "LET THERE BE LAUGHTER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/books/review/eight-beach-books.html",
+      "bookName": "ISLAND PEOPLE",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/26/books/review/mathangi-subramanian-peoples-history-of-heaven.html",
+      "bookName": "THE WOMEN WHO MADE NEW YORK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/18/arts/television/review-the-daily-show-the-book-reveals-how-jon-stewart-made-news.html",
+      "bookName": "THE DAILY SHOW (THE BOOK)",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/01/books/review/unmentionable-therese-oneill.html",
+      "bookName": "UNMENTIONABLE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/12/20/books/review-victoria-the-queen-julia-baird.html",
+      "bookName": "VICTORIA THE QUEEN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/30/books/review/best-new-sports-books.html",
+      "bookName": "PLAYING THROUGH THE WHISTLE: Steel, Football, and an American Town",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/28/dining/modern-cookbooks-review.html",
+      "bookName": "A NEW WAY TO DINNER: A Playbook of Recipes and Strategies for the Week Ahead",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/07/12/movies/shock-and-awe-review-woody-harrelson-james-marsden.html",
+      "bookName": "SHOCK AND AWE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/28/books/review/joan-rivers-biography-last-girl-before-freeway-leslie-bennetts.html",
+      "bookName": "LAST GIRL BEFORE FREEWAY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/25/books/review/black-ops-advertising-mara-einstein.html",
+      "bookName": "BLACK OPS ADVERTISING",
+      "sentement": "negative"
+    },
+    {
+      "url": "http://movies2.nytimes.com/books/98/08/09/specials/disch-sun.html",
+      "bookName": "THE DISPOSSESSED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/25/books/review/thus-bad-begins-javier-marias.html",
+      "bookName": "THUS BAD BEGINS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/25/books/review/memoirs-of-a-polar-bear-yoko-tawada.html",
+      "bookName": "MEMOIRS OF A POLAR BEAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/03/06/books/review/carrie-gibson-el-norte.html",
+      "bookName": "PILGRIMAGE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/21/books/review/french-fiction-bourdeaut-de-kerangal-haenel.html",
+      "bookName": "FRANCE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/26/books/review/podcast-ted-chiang-exhalation-helen-phillips-need.html",
+      "bookName": "RETHINK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/23/books/review/house-of-lords-and-commons-ishion-hutchinson.html",
+      "bookName": "HOUSE OF LORDS AND COMMONS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/21/books/review/how-to-survive-a-plague-david-france.html",
+      "bookName": "HOW TO SURVIVE A PLAGUE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/10/11/books/review/michael-beschloss-presidents-of-war.html",
+      "bookName": "WAGING WAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2015/08/30/books/review/the-incarnations-by-susan-barker.html",
+      "bookName": "INCARNATIONS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/27/books/review/john-lewis-march.html",
+      "bookName": "MARCH TRILOGY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2015/11/08/books/review/rick-riordans-magnus-chase-and-the-gods-of-asgard.html",
+      "bookName": "FOR MAGNUS CHASE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/20/books/review/love-warrior-glennon-doyle-melton.html",
+      "bookName": "LOVE WARRIOR",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2019/books/best-travel-books.html",
+      "bookName": "THE JOURNEY",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/13/books/review/hundred-percent-karen-romano-young.html",
+      "bookName": "HUNDRED PERCENT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/13/books/review/secret-keepers-trenton-lee-stewart.html",
+      "bookName": "THE SECRET KEEPERS",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/13/books/review/plot-to-kill-hitler-sachiko.html",
+      "bookName": "THE PLOT TO KILL HITLER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/13/books/review/angel-of-history-rabih-alameddine-and-more.html",
+      "bookName": "THE ANGEL OF HISTORY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/10/26/books/review/markus-zusak-bridge-of-clay-crossover-ya-novels.html",
+      "bookName": "BRIDGE OF WORDS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/13/books/review/t-c-boyle-terranauts.html",
+      "bookName": "THE TERRANAUTS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/13/books/review/ward-just-eastern-shore.html",
+      "bookName": "THE EASTERN SHORE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/13/books/review/the-cats-come-back-in-four-fall-picture-books.html",
+      "bookName": "ARCHIE SNUFFLEKINS OLIVER VALENTINE CUPCAKE TIBERIUS CAT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/13/books/review/new-military-history-books.html",
+      "bookName": "THUNDERSTICKS: Firearms and the Violent Transformation of Native America",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/13/books/review/boat-rocker-ha-jin.html",
+      "bookName": "THE BOAT ROCKER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/13/books/news-of-the-world-paulette-jiles.html",
+      "bookName": "NEWS OF THE WORLD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/24/books/review/writers-routine.html",
+      "bookName": "THE LIFE-WRITER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/06/books/review/white-nights-in-split-town-city-annie-dewitt.html",
+      "bookName": "WHITE NIGHTS IN SPLIT TOWN CITY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/06/books/review/caroline-leavitt-cruel-beautiful-world.html",
+      "bookName": "CRUEL BEAUTIFUL WORLD",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/06/books/review/word-detective-john-simpson-words-on-the-move-john-mcwhorter.html",
+      "bookName": "THE WORD DETECTIVE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/06/books/review/same-family-different-colors-lori-l-tharps.html",
+      "bookName": "SAME FAMILY, DIFFERENT COLORS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/04/books/review-rogue-heroes-ben-macintyre.html",
+      "bookName": "ROGUE HEROES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/06/books/review/city-of-dreams-history-of-immigrant-new-york-tyler-anbinder.html",
+      "bookName": "CITY OF DREAMS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/11/06/books/review/alan-greenspan-man-who-knew-sebastian-mallaby.html",
+      "bookName": "THE MAN WHO KNEW",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/30/books/review/hag-seed-tempest-retold-margaret-atwood.html",
+      "bookName": "HAG-SEED",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/02/books/review/books-review-the-ghost-clause-howard-norman.html",
+      "bookName": "HAUNTED",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/12/13/movies/that-way-madness-lies-review.html",
+      "bookName": "THIS WAY MADNESS LIES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/30/books/review/america-the-anxious-ruth-whippman.html",
+      "bookName": "AMERICA THE ANXIOUS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/23/books/review/red-car-marcy-dermansky.html",
+      "bookName": "THE RED CAR",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/17/books/truevine-review.html",
+      "bookName": "TRUEVINE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/23/books/review/cold-world-they-made-ron-robin.html",
+      "bookName": "THE COLD WORLD THEY MADE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/23/books/review/voices-within-charles-fernyhough.html",
+      "bookName": "THE VOICES WITHIN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/23/books/review/american-ulysses-ronald-c-white.html",
+      "bookName": "AMERICAN ULYSSES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/23/books/review/chosen-ones-steve-sem-sandberg.html",
+      "bookName": "THE CHOSEN ONES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/16/books/review/shelter-in-place-alexander-maksik.html",
+      "bookName": "SHELTER IN PLACE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/16/books/review/wolf-boys-dan-slater.html",
+      "bookName": "WOLF BOYS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/16/books/review/barney-rosset-publishing-memoir.html",
+      "bookName": "ROSSET",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/13/books/review-a-truck-full-of-money-and-a-thirst-to-put-it-to-good-use.html",
+      "bookName": "A TRUCK FULL OF MONEY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/16/books/review/messy-tim-harford.html",
+      "bookName": "MESSY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/24/books/review-in-do-not-say-we-have-nothing-a-portrait-of-souls-snuffed-out.html",
+      "bookName": "DO NOT SAY WE HAVE NOTHING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/16/books/review/jodi-picoult-small-great-things-roxane-gay.html",
+      "bookName": "SMALL GREAT THINGS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/09/books/review/girl-who-drank-the-moon-kelly-barnhill.html",
+      "bookName": "THE GIRL WHO DRANK THE MOON",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/20/books/review/9-new-books-we-recommend-this-week.html",
+      "bookName": "PLAY ALL",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/23/books/review-robert-kanigel-eyes-on-the-street-the-life-of-jane-jacobs.html",
+      "bookName": "EYES ON THE STREET",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/09/books/review/shihab-al-din-al-nuwayri-ultimate-ambition-in-the-arts-of-erudition.html",
+      "bookName": "THE ULTIMATE AMBITION IN THE ARTS OF ERUDITION",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/09/books/review/alexander-weinstein-children-of-the-new-world.html",
+      "bookName": "CHILDREN OF THE NEW WORLD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2009/07/02/books/02locke.html",
+      "bookName": "BLACK WATER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/09/books/review/weapons-of-math-destruction-cathy-oneil-and-more.html",
+      "bookName": "WEAPONS OF MATH DESTRUCTION",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/09/books/review/daniel-bergner-sing-for-your-life-ryan-speedo-green.html",
+      "bookName": "SING FOR YOUR LIFE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/02/books/review/anna-hope-ballroom.html",
+      "bookName": "THE BALLROOM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/02/books/review/minotaur-takes-his-own-sweet-time-steven-sherrill.html",
+      "bookName": "THE MINOTAUR TAKES HIS OWN SWEET TIME",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/02/books/review/shirley-jackson-ruth-franklin.html",
+      "bookName": "SHIRLEY JACKSON",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/01/books/susan-choi-trust-exercise-review.html",
+      "bookName": "PLAY ANYTHING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/15/books/review-blood-at-the-root-a-tale-of-racial-cleansing-close-to-home.html",
+      "bookName": "BLOOD AT THE ROOT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/02/books/review/iran-wars-jay-solomon.html",
+      "bookName": "THE IRAN WARS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/02/books/review/power-at-ground-zero-lynne-b-sagalyn.html",
+      "bookName": "POWER AT GROUND ZERO",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/25/books/review/kea-wilson-we-eat-our-own.html",
+      "bookName": "WE EAT OUR OWN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/25/books/review/perfume-river-robert-olen-butler.html",
+      "bookName": "PERFUME RIVER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/25/books/review/simon-schama-face-of-britain.html",
+      "bookName": "THE FACE OF BRITAIN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/25/books/review/trainwreck-sady-doyle.html",
+      "bookName": "TRAINWRECK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/10/books/review/sarah-blake-naamah.html",
+      "bookName": "ARK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/18/books/review/mischling-affinity-konar.html",
+      "bookName": "MISCHLING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/18/books/review/whistlestop-john-dickerson.html",
+      "bookName": "WHISTLESTOP",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/18/books/review/indelible-ink-richard-kluger.html",
+      "bookName": "INDELIBLE INK",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/18/books/review/john-le-carre-pigeon-tunnel.html",
+      "bookName": "THE PIGEON TUNNEL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/25/books/review/6-new-books-we-recommend-this-week.html",
+      "bookName": "THE SIX",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/11/books/review/cyber-effect-mary-aiken.html",
+      "bookName": "THE CYBER EFFECT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/11/books/review/riverkeep-martin-stewart.html",
+      "bookName": "RIVERKEEP",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/11/books/review/left-handed-fate-kate-milford-eliza-wheeler.html",
+      "bookName": "THE LEFT-HANDED FATE",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/11/books/review/a-s-byatt-william-morris-mariano-fortuny-peacock-and-vine.html",
+      "bookName": "PEACOCK AND VINE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/1956/03/19/archives/president-urging-a-book-to-friends-true-believer-an-analysis-of.html",
+      "bookName": "TRUE BELIEVER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/07/books/here-i-am-jonathan-safran-foers-tale-of-a-fracturing-family.html",
+      "bookName": "HERE I AM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/06/books/review-nutshell-a-tale-told-by-a-baby-to-be-or-not-to-be.html",
+      "bookName": "NUTSHELL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/04/books/review/the-nix-nathan-hill.html",
+      "bookName": "THE NIX",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/04/books/review/how-to-party-with-an-infant-kaui-hart-hemmings.html",
+      "bookName": "HOW TO PARTY WITH AN INFANT",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/04/books/review/to-the-bright-edge-of-the-world-eowyn-ivey.html",
+      "bookName": "TO THE BRIGHT EDGE OF THE WORLD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/04/books/review/imbolo-mbue-behold-the-dreamers.html",
+      "bookName": "BEHOLD THE DREAMERS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/09/04/books/review/mirror-test-j-kael-weston-terror-years-lawrence-wright.html",
+      "bookName": "THE MIRROR TEST",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/28/books/review/carolyn-parkhurst-harmony.html",
+      "bookName": "HARMONY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/28/books/review/multiple-choice-alejandro-zambra.html",
+      "bookName": "MULTIPLE CHOICE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/28/books/review/nine-ten-nora-raleigh-baskin-towers-falling-jewell-parker-rhodes.html",
+      "bookName": "NINE, TEN: A SEPTEMBER 11 STORY",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/28/books/review/history-and-uncertain-future-of-handwriting-anne-trubek.html",
+      "bookName": "THE HISTORY AND UNCERTAIN FUTURE OF HANDWRITING",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/21/books/review/jacqueline-woodson-another-brooklyn.html",
+      "bookName": "ANOTHER BROOKLYN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/21/books/review/memoirs-about-growing-up-gay.html",
+      "bookName": "BOY ERASED",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2003/01/05/books/the-slippery-slope.html",
+      "bookName": "SLIPPERY SLOPE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/21/books/review/caleb-carr-surrender-new-york.html",
+      "bookName": "SURRENDER, NEW YORK",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/14/books/review/face-value-autumn-whitefield-madrano.html",
+      "bookName": "FACE VALUE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/14/books/review/max-gate-damien-wilkins.html",
+      "bookName": "MAX GATE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/31/books/new-august-books.html",
+      "bookName": "SECURITY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/14/books/review/alexander-mccall-smith-chance-developments.html",
+      "bookName": "CHANCE DEVELOPMENTS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/14/books/review/dr-knox-peter-spiegelman.html",
+      "bookName": "DR. KNOX",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2011/06/27/books/the-american-heiress-by-daisy-goodwin-review.html",
+      "bookName": "AMERICAN HEIRESS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/17/books/review-the-fire-this-time-stoked-by-baldwins-legacy.html",
+      "bookName": "THE FIRE THIS TIME",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/21/books/review/powerhouse-creative-artists-agency-james-andrew-miller.html",
+      "bookName": "POWERHOUSE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/14/books/review/teju-cole-known-and-strange-things.html",
+      "bookName": "KNOWN AND STRANGE THINGS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/07/books/review/welcome-to-the-goddamn-ice-cube-blair-braverman.html",
+      "bookName": "WELCOME TO THE GODDAMN ICE CUBE",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/07/books/review/unseen-world-liz-moore.html",
+      "bookName": "THE UNSEEN WORLD",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/07/books/review/fall-of-heaven-andrew-scott-cooper.html",
+      "bookName": "THE FALL OF HEAVEN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/01/books/review/yunte-huang-inseparable.html",
+      "bookName": "THE INSEPARABLES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/07/books/review/almighty-dan-zak.html",
+      "bookName": "ALMIGHTY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/04/27/books/review-in-the-adventurist-an-executives-search-for-meaning-and-small-raptures.html",
+      "bookName": "THE ADVENTURIST",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/13/books/review/once-more-we-saw-stars-jayson-greene.html",
+      "bookName": "UNDER THE STARS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/30/books/review-here-comes-the-sun-by-nicole-dennis-benn.html",
+      "bookName": "HERE COMES THE SUN",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/10/books/review-jay-mcinerneys-bright-precious-days.html",
+      "bookName": "BRIGHT, PRECIOUS DAYS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/08/07/books/review/jessica-winter-break-in-case-of-emergency.html",
+      "bookName": "BREAK IN CASE OF EMERGENCY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/13/books/review/9-new-books-we-recommend-this-week.html",
+      "bookName": "FEVER CITY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/31/books/review/erik-axl-sund-crow-girl.html",
+      "bookName": "THE CROW GIRL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/26/books/review/house-of-broken-angels-luis-alberto-urrea.html",
+      "bookName": "THE ANGEL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/01/books/new-books-may.html",
+      "bookName": "AMONG THE DEAD AND DREAMING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/11/30/books/review/louise-penny-kingdom-of-the-blind.html",
+      "bookName": "THE KINGDOM",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/31/books/review/exposure-helen-dunmore.html",
+      "bookName": "EXPOSURE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/31/books/review/under-the-harrow-flynn-berry.html",
+      "bookName": "UNDER THE HARROW",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/31/books/review/stewart-onan-city-of-secrets.html",
+      "bookName": "CITY OF SECRETS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/31/books/review/death-of-rex-nhongo-c-b-george.html",
+      "bookName": "THE DEATH OF REX NHONGO",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/24/books/review/chronicle-of-a-last-summer-yasmine-el-rashidi.html",
+      "bookName": "CHRONICLE OF A LAST SUMMER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/24/books/review/shanghai-grand-taras-grescoe.html",
+      "bookName": "SHANGHAI GRAND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/24/books/review/only-humans-need-apply-and-more.html",
+      "bookName": "ONLY HUMANS NEED APPLY",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/24/books/review/we-are-not-such-things-justine-van-der-leun.html",
+      "bookName": "WE ARE NOT SUCH THINGS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/17/books/review/jenni-fagan-sunlight-pilgrims.html",
+      "bookName": "THE SUNLIGHT PILGRIMS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/07/books/jonah-lehrer-a-book-about-love-review.html",
+      "bookName": "A BOOK ABOUT LOVE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/17/books/review/belgravia-by-downton-abbey-creator-julian-fellowes.html",
+      "bookName": "BELGRAVIA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/17/books/review/lionel-shriver-the-mandibles.html",
+      "bookName": "THE MANDIBLES",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/10/books/review/jean-thompson-she-poured-out-her-heart.html",
+      "bookName": "SHE POURED OUT HER HEART",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/10/books/review/genius-the-game-leopoldo-gout.html",
+      "bookName": "GENIUS: THE GAME",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/10/books/review/grunt-mary-roach.html",
+      "bookName": "GRUNT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/05/books/review-invincible-summer-focuses-on-friendships-built-to-survive-crises.html",
+      "bookName": "INVINCIBLE SUMMER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/29/business/dealbook/review-chaos-monkeys-is-a-guide-to-the-spirit-of-silicon-valley.html",
+      "bookName": "CHAOS MONKEYS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/03/books/review/new-england-bound-by-wendy-warren.html",
+      "bookName": "NEW ENGLAND BOUND",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/11/15/arts/design/diane-arbus-zwirner.html",
+      "bookName": "DIANE ARBUS",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/07/03/books/review/deborah-shapiro-puts-an-oedipal-spin-on-female-intimacy-in-the-sun-in-your-eyes.html",
+      "bookName": "THE SUN IN YOUR EYES",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/03/books/review-every-day-is-extra-john-kerry.html",
+      "bookName": "THE EXTRA",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/04/16/books/what-pulitzer-prize-nominated-books-should-you-read-first.html",
+      "bookName": "NATIVE BELIEVER",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/26/books/review/burger-court-and-the-rise-of-the-judicial-right-by-michael-j-graetz-and-linda-greenhouse.html",
+      "bookName": "THE BURGER COURT AND THE RISE OF THE JUDICIAL RIGHT",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/1991/05/12/nyregion/l-to-help-understanding-of-port-wine-stains-549691.html",
+      "bookName": "THE PORT-WINE STAIN",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/28/books/review/best-seller-neal-stephenson-fall.html",
+      "bookName": "FALLING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/19/books/review/when-friendship-followed-me-home-by-paul-griffin.html",
+      "bookName": "WHEN FRIENDSHIP FOLLOWED ME HOME",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/19/books/review/summerlost-by-ally-condie.html",
+      "bookName": "SUMMERLOST",
+      "sentement": "neutral"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/19/books/review/cathleen-schines-they-may-not-mean-to-but-they-do.html",
+      "bookName": "THEY MAY NOT MEAN TO, BUT THEY DO",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/12/books/review/smoke-by-dan-vyleta.html",
+      "bookName": "SMOKE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/12/books/review/david-swinsons-the-second-girl-and-more.html",
+      "bookName": "THE SECOND GIRL",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/12/books/review/review-the-green-and-the-black-by-gary-sernovitz-and-more.html",
+      "bookName": "THE GREEN AND THE BLACK",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/12/books/review/the-book-of-esther-by-emily-barton.html",
+      "bookName": "THE BOOK OF ESTHER",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/12/books/review/the-big-picture-by-sean-carroll.html",
+      "bookName": "THE BIG PICTURE",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/12/books/review/helping-children-succeed-by-paul-tough.html",
+      "bookName": "HELPING CHILDREN SUCCEED",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/01/books/review/elizabeth-gilbert-city-of-girls.html",
+      "bookName": "ELIZABETH",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/12/books/review/in-praise-of-forgetting-by-david-rieff.html",
+      "bookName": "IN PRAISE OF FORGETTING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/12/books/review/virginia-heffernans-magic-and-loss.html",
+      "bookName": "MAGIC AND LOSS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/12/books/review/isabel-wilkerson-reviews-yaa-gyasis-homegoing.html",
+      "bookName": "HOMEGOING",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/05/books/review/making-monte-carlo-by-mark-braude.html",
+      "bookName": "MAKING MONTE CARLO",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/05/books/review/the-painter-of-souls-by-philip-kazan.html",
+      "bookName": "THE PAINTER OF SOULS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/05/books/review/the-hour-of-land-by-terry-tempest-williams.html",
+      "bookName": "THE HOUR OF LAND",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/05/books/review/the-after-party-by-anton-disclafani.html",
+      "bookName": "THE AFTER PARTY",
+      "sentement": "negative"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/05/books/review/this-too-shall-pass-by-milena-busquets.html",
+      "bookName": "THIS TOO SHALL PASS",
+      "sentement": "positive"
+    },
+    {
+      "url": "https://www.nytimes.com/2016/06/05/books/review/ricky-jays-matthias-buchinger.html",
+      "bookName": "MATTHIAS BUCHINGER",
+      "sentement": "positive"
     }
-  ]}
+  ]
+}
