@@ -92,7 +92,7 @@ console.log(d)
 
 
 function formatGenre( d, genre ) {
-   if(genre){
+   
     return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
             '<td>Positive Reviews Count:</td>'+
@@ -107,20 +107,6 @@ function formatGenre( d, genre ) {
             '<td>'+d.negativeCount+'</td>'+
         '</tr>'+
     '</table>';
-
-   }else{
-           
-    return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
-        '<tr>'+
-            '<td>\'New York Times\' Review:</td>'+
-            '<td><a target="_blank"  href="'+d.url+'">'+d.url+'</td>'+
-        '</tr>'+
-        '<tr>'+
-            '<td>\'Goodreads\' Book Page:</td>'+
-            '<td><a target="_blank"  href="'+d.GoodreadsURL+'">'+d.GoodreadsURL+'</td>'+
-        '</tr>'+
-    '</table>';
-   }
 }
  
 $(document).ready(function() {
@@ -160,22 +146,7 @@ $(document).ready(function() {
 
 
 
-    // Add event listener for opening and closing details
-    $('#NYTimesTable').children('tbody').on('click', 'td.details-control', function () {
-        var tr = $(this).closest('tr');
-        var row = table.row( tr );
- 
-        if ( row.child.isShown() ) {
-            // This row is already open - close it
-            row.child.hide();
-            tr.removeClass('shown');
-        }
-        else {
-            // Open this row
-            row.child( formatGenre(row.data(),false) ).show();
-            tr.addClass('shown');
-        }
-    } );
+
 
 
 
@@ -239,12 +210,29 @@ $(row).find('td:eq(2)').css('color', 'orange');
         }
         else {
             // Open this row
-            row.child( formatGenre(row.data(),true) ).show();
+            row.child( formatGenre(row.data()) ).show();
             tr.addClass('shown');
         }
     } );
 
 
+
+    // Add event listener for opening and closing details
+    $('#NYTimesTable').children('tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( format(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
 
 
 
