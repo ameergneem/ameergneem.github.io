@@ -7147,7 +7147,7 @@
       "RatingsCount": "79"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/42245770-the-rest-of-the-story,
+      "GoodreadsURL": "https://www.goodreads.com/book/show/42245770-the-rest-of-the-story",
       "GoodReadsRating": "4.20",
       "url": "https://www.nytimes.com/2019/05/29/books/review/ya-romance-for-teenagers.html",
       "bookName": "THE REST OF THE STORY",
