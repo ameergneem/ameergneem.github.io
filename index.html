@@ -30,6 +30,32 @@
         </tfoot>
     </table>
 
+    <table id="GenresTable" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Genre</th>
+                    <th>Positive</th>
+                    <th>Neutral</th>
+                    <th>Negative</th>
+                    <th>All Reviews Count</th>
+    
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th></th>
+                    <th>Genre</th>
+                    <th>Positive</th>
+                    <th>Neutral</th>
+                    <th>Negative</th>
+                    <th>All Reviews Count</th>
+                </tr>
+            </tfoot>
+        </table>
+    
+    
+    
 </body>
 <script>
 /* Formatting function for row details - modify as you need */
@@ -44,13 +70,32 @@ function format ( d ) {
             '<td>Full name:</td>'+
             '<td>'+d.GoodreadsURL+'</td>'+
         '</tr>'+
-        '<tr>'+
-            '<td>Extra info:</td>'+
-            '<td>And any further details here (images etc)...</td>'+
-        '</tr>'+
+
     '</table>';
 }
  
+function formatGenre( d, genre ) {
+   
+   return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+       '<tr>'+
+           '<td>Positive Reviews Count:</td>'+
+           '<td>'+d.positiveCount+'</td>'+
+       '</tr>'+
+       '<tr>'+
+           '<td>Neutral Reviews Count:</td>'+
+           '<td>'+d.neutralCount+'</td>'+
+       '</tr>'+
+       '<tr>'+
+           '<td>Negative Reviews Count:</td>'+
+           '<td>'+d.negativeCount+'</td>'+
+       '</tr>'+
+   '</table>';
+}
+
+
+
+
+
 $(document).ready(function() {
     var table = $('#example').DataTable( {
         "ajax": "objectsUpd2.txt",
@@ -86,6 +131,67 @@ $(document).ready(function() {
             tr.addClass('shown');
         }
     } );
+
+
+    var table = $('#GenresTable').DataTable( {   
+
+"ajax": "sentementCountPerGenres.txt",
+"columns": [
+    {
+        "className":      'details-control',
+        "orderable":      false,
+        "data":           null,
+        "defaultContent": ''
+    },
+    { "data": "genre" },
+    { "data": "positivePer" },
+    { "data": "neutralPer" },
+    {"data": "negativePer"},
+    {"data": "sum"}
+   
+],
+"order": [[1, 'asc']],
+"columnDefs": [
+    {
+        targets: "_all",
+        className: 'dt-body-center'
+    }
+  ],
+'rowCallback': function(row, data, index){
+
+if(data.positivePer>0.5){
+$(row).find('td:eq(2)').css('color', 'green');
+}else{
+if(data.negativePer>0.5)
+$(row).find('td:eq(4)').css('color', 'red');
+}
+if(data.positivePer ==data.negativePer){
+$(row).find('td:eq(4)').css('color', 'orange');
+$(row).find('td:eq(2)').css('color', 'orange');
+}
+
+}
+} );
+
+$('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( formatGenre(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+
+
+
+
 } );
 //////////////////////////////
 </script>
