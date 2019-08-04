@@ -91,8 +91,8 @@ console.log(d)
 }
 
 
-function formatGenre( d ) {
-    // `d` is the original data object for the row
+function formatGenre( d, genre ) {
+   if(genre){
     return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
             '<td>Positive Reviews Count:</td>'+
@@ -107,6 +107,20 @@ function formatGenre( d ) {
             '<td>'+d.negativeCount+'</td>'+
         '</tr>'+
     '</table>';
+
+   }else{
+           
+    return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+        '<tr>'+
+            '<td>\'New York Times\' Review:</td>'+
+            '<td><a target="_blank"  href="'+d.url+'">'+d.url+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>\'Goodreads\' Book Page:</td>'+
+            '<td><a target="_blank"  href="'+d.GoodreadsURL+'">'+d.GoodreadsURL+'</td>'+
+        '</tr>'+
+    '</table>';
+   }
 }
  
 $(document).ready(function() {
@@ -158,7 +172,7 @@ $(document).ready(function() {
         }
         else {
             // Open this row
-            row.child( format(row.data()) ).show();
+            row.child( formatGenre(row.data(),false) ).show();
             tr.addClass('shown');
         }
     } );
@@ -225,7 +239,7 @@ $(row).find('td:eq(2)').css('color', 'orange');
         }
         else {
             // Open this row
-            row.child( formatGenre(row.data()) ).show();
+            row.child( formatGenre(row.data(),true) ).show();
             tr.addClass('shown');
         }
     } );
