@@ -121,6 +121,14 @@ $(document).ready(function() {
             {"data": "RatingsCount"}
         ],
         "order": [[1, 'asc']],
+        "columnDefs": [
+    {
+        targets: [3,4,5],
+        className: 'dt-body-center'
+    }
+  ],
+
+
         'rowCallback': function(row, data, index){
    
    if(data.sentement == 'Positive'){
