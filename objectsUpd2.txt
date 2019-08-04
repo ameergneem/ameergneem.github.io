@@ -1018,13 +1018,13 @@
       "RatingsCount": "198"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-WHY-‘TO-KILL-A-MOCKINGBIRD'-MATTERS",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/en/book/show/36743007-why-to-kill-a-mockingbird-matters",
+      "GoodReadsRating": "3.82",
       "url": "https://www.nytimes.com/2018/06/18/books/review/tom-santopietro-why-to-kill-a-mockingbird-matters.html",
       "bookName": "WHY ‘TO KILL A MOCKINGBIRD' MATTERS",
       "sentement": "Negative",
       "id": "114",
-      "RatingsCount": "-1"
+      "RatingsCount": "117"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/35407626-THE-SOLITARY-TWIN",
@@ -1396,7 +1396,7 @@
       "RatingsCount": "5709"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/35604686-THE-ASTONISHING-COLOR-OF-AFTER-(Little,-Brown;-480-pp.,-$18.99;-ages-14-and-up)",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/35604686-THE-ASTONISHING-COLOR-OF-AFTER",
       "GoodReadsRating": "4.14",
       "url": "https://www.nytimes.com/2018/06/01/books/review/astonishing-color-of-after-emily-xr-pan.html",
       "bookName": "THE ASTONISHING COLOR OF AFTER (Little, Brown; 480 pp., $18.99; ages 14 and up)",
@@ -1720,13 +1720,13 @@
       "RatingsCount": "641"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-ENDLING-THE-LAST-(Harper,-381-pp.,-$17.99;-ages-8-to-12)",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/18584532-the-last",
+      "GoodReadsRating": "4.15",
       "url": "https://www.nytimes.com/2018/05/25/books/review/katherine-applegate-endling-the-last.html",
-      "bookName": "ENDLING THE LAST (Harper, 381 pp., $17.99; ages 8 to 12)",
+      "bookName": "ENDLING THE LAST",
       "sentement": "Positive",
       "id": "192",
-      "RatingsCount": "-1"
+      "RatingsCount": "1920"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/35489157-THE-OPTIMISTIC-DECADE",
@@ -1864,13 +1864,13 @@
       "RatingsCount": "37365"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-MISÈRE",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/10193060-miserere",
+      "GoodReadsRating": "3.79",
       "url": "https://www.nytimes.com/2018/05/18/books/review/linda-nochlin-misere.html",
       "bookName": "MISÈRE",
       "sentement": "Negative",
       "id": "208",
-      "RatingsCount": "-1"
+      "RatingsCount": "944"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/34495949-BECOMING-MADELEINE",
@@ -2278,13 +2278,13 @@
       "RatingsCount": "5813"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-WHY-ART?-(Fantagraphics,-paper,-$14.99)",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/en/book/show/35407505",
+      "GoodReadsRating": "3.91",
       "url": "https://www.nytimes.com/2018/04/27/books/review/eleanor-davis-why-art.html",
-      "bookName": "WHY ART? (Fantagraphics, paper, $14.99)",
+      "bookName": "WHY ART?",
       "sentement": "Positive",
       "id": "254",
-      "RatingsCount": "-1"
+      "RatingsCount": "969"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/39214613-THE-SURPRISING-PLACE",
@@ -4339,13 +4339,13 @@
       "RatingsCount": "2172"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-THE-SMACK-(Mulholland/Little,-Brown,-$26),",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/30282664-the-smack",
+      "GoodReadsRating": "3.91",
       "url": "https://www.nytimes.com/2017/07/21/books/review/crime-fiction-the-smack-richard-lange-the-late-show-michael-connelly.html",
-      "bookName": "THE SMACK (Mulholland/Little, Brown, $26),",
+      "bookName": "THE SMACK",
       "sentement": "Negative",
       "id": "483",
-      "RatingsCount": "-1"
+      "RatingsCount": "432"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/32571614-QUIET-UNTIL-THE-THAW",
@@ -5158,13 +5158,13 @@
       "RatingsCount": "1070"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-GHACHAR-GHOCHAR-(Penguin,-$15,-paper),",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/30267604-ghachar-ghochar",
+      "GoodReadsRating": "3.92",
       "url": "https://www.nytimes.com/2017/04/06/books/review/ghachar-ghochar-vivek-shanbhag.html",
-      "bookName": "GHACHAR GHOCHAR (Penguin, $15, paper),",
+      "bookName": "GHACHAR GHOCHAR",
       "sentement": "Positive",
       "id": "574",
-      "RatingsCount": "-1"
+      "RatingsCount": "6440"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/31146957-THE-LOTTERYS-PLUS-ONE",
@@ -5419,13 +5419,13 @@
       "RatingsCount": "271"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-FLÂNEUSE",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/23984074-fl-neuse",
+      "GoodReadsRating": "3.61",
       "url": "https://www.nytimes.com/2017/03/02/books/review/flaneuse-by-lauren-elkin.html",
       "bookName": "FLÂNEUSE",
       "sentement": "Positive",
       "id": "603",
-      "RatingsCount": "-1"
+      "RatingsCount": "1826"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/30267770-ROBERT-LOWELL,-SETTING-THE-RIVER-ON-FIRE",
@@ -6670,13 +6670,13 @@
       "RatingsCount": "589879"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-MACDOODLE-ST.-(New-York-Review-Comics,-$24.95)",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/1435248.MacDoodle_St_",
+      "GoodReadsRating": "4.33",
       "url": "https://www.nytimes.com/2019/06/17/books/review/comics-that-capture-the-city-in-all-its-human-and-physical-messiness.html",
-      "bookName": "MACDOODLE ST. (New York Review Comics, $24.95)",
+      "bookName": "MACDOODLE ST.",
       "sentement": "Positive",
       "id": "742",
-      "RatingsCount": "-1"
+      "RatingsCount": "15"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/86451-ILL-WINDS",
@@ -7147,13 +7147,13 @@
       "RatingsCount": "79"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-THE-REST-OF-THE-STORY-(Balzer-+-Bray,-448-pp.,-$19.99;-ages-13-and-up)",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/42245770-the-rest-of-the-story,
+      "GoodReadsRating": "4.20",
       "url": "https://www.nytimes.com/2019/05/29/books/review/ya-romance-for-teenagers.html",
-      "bookName": "THE REST OF THE STORY (Balzer + Bray, 448 pp., $19.99; ages 13 and up)",
+      "bookName": "THE REST OF THE STORY",
       "sentement": "Positive",
       "id": "795",
-      "RatingsCount": "-1"
+      "RatingsCount": "6495"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/36341671-ASSAD-OR-WE-BURN-THE-COUNTRY",
@@ -8668,13 +8668,13 @@
       "RatingsCount": "474"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-THE-LADY-DOCTOR-(Penn-State-University,-$24.95)",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/42654636-the-lady-doctor",
+      "GoodReadsRating": "3.93",
       "url": "https://www.nytimes.com/2019/03/22/books/review/new-graphic-medicine.html",
-      "bookName": "THE LADY DOCTOR (Penn State University, $24.95)",
+      "bookName": "THE LADY DOCTOR",
       "sentement": "Positive",
       "id": "964",
-      "RatingsCount": "-1"
+      "RatingsCount": "61"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/39324901-THE-GIRLS-AT-17-SWANN-STREET",
@@ -9433,13 +9433,13 @@
       "RatingsCount": "126"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-ADÈLE",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/40265073-ad-le",
+      "GoodReadsRating": "3.37",
       "url": "https://www.nytimes.com/2019/01/23/books/review/adele-leila-slimani.html",
       "bookName": "ADÈLE",
       "sentement": "Positive",
       "id": "1049",
-      "RatingsCount": "-1"
+      "RatingsCount": "5076"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/37798062-ARISTOTLE'S-WAY",
@@ -9550,13 +9550,13 @@
       "RatingsCount": "426"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-HAUSMAGICK:-Transform-Your-Home-With-Witchcraft-(HarperOne,-$25.99,-available-in-March).",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/en/book/show/41085440",
+      "GoodReadsRating": "3.91",
       "url": "https://www.nytimes.com/2019/01/15/books/review/erica-feldmann-hausmagick.html",
-      "bookName": "HAUSMAGICK: Transform Your Home With Witchcraft (HarperOne, $25.99, available in March).",
+      "bookName": "HAUSMAGICK: Transform Your Home With Witchcraft",
       "sentement": "Negative",
       "id": "1062",
-      "RatingsCount": "-1"
+      "RatingsCount": "286"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/7664041-INHERITANCE",
@@ -10666,13 +10666,13 @@
       "RatingsCount": "199504"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-MALLKO-AND-DAD-(Enchanted-Lion,-120-pp.,-$19.95;-ages-6-and-up)",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/book/show/25008381-mallko-y-pap",
+      "GoodReadsRating": "4.18",
       "url": "https://www.nytimes.com/2018/11/09/books/review/gusti-mallko-and-dad.html",
-      "bookName": "MALLKO AND DAD (Enchanted Lion, 120 pp., $19.95; ages 6 and up)",
+      "bookName": "MALLKO AND DAD",
       "sentement": "Positive",
       "id": "1186",
-      "RatingsCount": "-1"
+      "RatingsCount": "114"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/39070396-SAMUEL-JOHNSON'S-ETERNAL-RETURN",
@@ -11989,13 +11989,13 @@
       "RatingsCount": "171832"
     },
     {
-      "GoodreadsURL": "https://www.goodreads.com/book/show/-1-THE-HOLLOW-MEN-(Pegasus-Crime,-$25.95),",
-      "GoodReadsRating": "",
+      "GoodreadsURL": "https://www.goodreads.com/en/book/show/13627214",
+      "GoodReadsRating": "4.37",
       "url": "https://www.nytimes.com/2017/01/20/books/review/new-crime-fiction-hollow-men.html",
-      "bookName": "THE HOLLOW MEN (Pegasus Crime, $25.95),",
+      "bookName": "THE HOLLOW MEN",
       "sentement": "Negative",
       "id": "1333",
-      "RatingsCount": "-1"
+      "RatingsCount": "899"
     },
     {
       "GoodreadsURL": "https://www.goodreads.com/book/show/30037187-RUMI'S-SECRET",
