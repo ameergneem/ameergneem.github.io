@@ -142,7 +142,7 @@ $(document).ready(function() {
 
 
     // Add event listener for opening and closing details
-    $('#NYTimesTable tbody').on('click', 'td.details-control', function () {
+    $('#NYTimesTable > tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
         var row = table.row( tr );
  
@@ -159,7 +159,7 @@ $(document).ready(function() {
     } );
 
 
-/*
+
 
     var table = $('#GenresTable').DataTable( {   
 
@@ -209,7 +209,7 @@ $(row).find('td:eq(2)').css('color', 'orange');
 
 
     // Add event listener for opening and closing details
-    $('#GenresTable tbody').on('click', 'td.details-control', function () {
+    $('#GenresTable > tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
         var row = table.row( tr );
  
@@ -229,7 +229,7 @@ $(row).find('td:eq(2)').css('color', 'orange');
 
 
 
-*/
+
 
 
 
