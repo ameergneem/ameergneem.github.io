@@ -73,7 +73,7 @@ tr.shown td.details-control {
  
 $(document).ready(function() {
 
-    
+
     function format ( d ) {
 
 
@@ -97,23 +97,6 @@ console.log(d)
 }
 
 
-function formatGenre( d ) {
-   
-    return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
-        '<tr>'+
-            '<td>Positive Reviews Count:</td>'+
-            '<td>'+d.positiveCount+'</td>'+
-        '</tr>'+
-        '<tr>'+
-            '<td>Neutral Reviews Count:</td>'+
-            '<td>'+d.neutralCount+'</td>'+
-        '</tr>'+
-        '<tr>'+
-            '<td>Negative Reviews Count:</td>'+
-            '<td>'+d.negativeCount+'</td>'+
-        '</tr>'+
-    '</table>';
-}
     var table = $('#NYTimesTable').DataTable( {   
 
         "ajax": "objectsUpd.txt",
@@ -201,22 +184,7 @@ $(row).find('td:eq(2)').css('color', 'orange');
 
 
 
-    // Add event listener for opening and closing details
-    $('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
-        var tr = $(this).closest('tr');
-        var row = table.row( tr );
  
-        if ( row.child.isShown() ) {
-            // This row is already open - close it
-            row.child.hide();
-            tr.removeClass('shown');
-        }
-        else {
-            // Open this row
-            row.child( formatGenre(row.data()) ).show();
-            tr.addClass('shown');
-        }
-    } );
 
 
 
