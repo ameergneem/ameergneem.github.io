@@ -1,125 +1,45 @@
 <!DOCTYPE html>
 <html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
-  
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
-
-
-</head>
-<style>
-td.details-control {
-    background: url('../resources/details_open.png') no-repeat center center;
-    cursor: pointer;
-}
-tr.shown td.details-control {
-    background: url('../resources/details_close.png') no-repeat center center;
-}
-
-</style>
 <body>
-    <table id="NYTimesTable" class="display" style="width:100%">
+    <table id="example" class="display" style="width:100%">
         <thead>
             <tr>
                 <th></th>
                 <th>Book Name</th>
                 <th>Sentement</th>
 
-
             </tr>
         </thead>
         <tfoot>
             <tr>
                 <th></th>
-                <th>Book Name</th>
-                <th>Sentement</th>
+                <th>Name</th>
+                <th>Position</th>
 
             </tr>
         </tfoot>
     </table>
-
-
-    <table id="GenresTable" class="display" style="width:100%">
-        <thead>
-            <tr>
-                <th></th>
-                <th>Genre</th>
-                <th>Positive</th>
-                <th>Neutral</th>
-                <th>Negative</th>
-                <th>All Reviews Count</th>
-
-            </tr>
-        </thead>
-        <tfoot>
-            <tr>
-                <th></th>
-                <th>Genre</th>
-                <th>Positive</th>
-                <th>Neutral</th>
-                <th>Negative</th>
-                <th>All Reviews Count</th>
-            </tr>
-        </tfoot>
-    </table>
-
-
-
 
 </body>
 <script>
-  function format ( d ) {
-
-
-
-console.log(d)
-    
-
-return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
-        '<tr>'+
-            '<td>\'New York Times\' Review:</td>'+
-            '<td><a target="_blank"  href="'+d.url+'">'+d.url+'</td>'+
-        '</tr>'+
-
-    '</table>';
-
-    /*
+/* Formatting function for row details - modify as you need */
+function format ( d ) {
+    // `d` is the original data object for the row
     return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
-            '<td>\'New York Times\' Review:</td>'+
-            '<td><a target="_blank"  href="'+d.url+'">'+d.url+'</td>'+
+            '<td>Full name:</td>'+
+            '<td>'+d.url+'</td>'+
         '</tr>'+
-        '<tr>'+
-            '<td>\'Goodreads\' Book Page:</td>'+
-            '<td><a target="_blank"  href="'+d.GoodreadsURL+'">'+d.GoodreadsURL+'</td>'+
-        '</tr>'+
-    '</table>';
-    */
-}
 
-
-function formatGenre( d, genre ) {
-   
-    return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
-            '<td>Positive Reviews Count:</td>'+
-            '<td>'+d.positiveCount+'</td>'+
-        '</tr>'+
-        '<tr>'+
-            '<td>Neutral Reviews Count:</td>'+
-            '<td>'+d.neutralCount+'</td>'+
-        '</tr>'+
-        '<tr>'+
-            '<td>Negative Reviews Count:</td>'+
-            '<td>'+d.negativeCount+'</td>'+
+            '<td>Extra info:</td>'+
+            '<td>And any further details here (images etc)...</td>'+
         '</tr>'+
     '</table>';
 }
  
 $(document).ready(function() {
-    var table = $('#NYTimesTable').DataTable( {   
-
+    var table = $('#example').DataTable( {
         "ajax": "objectsUpd.txt",
         "columns": [
             {
@@ -129,103 +49,14 @@ $(document).ready(function() {
                 "defaultContent": ''
             },
             { "data": "bookName" },
-            { "data": "sentement" }
-
-        ],
-        "order": [[1, 'asc']],
-        "columnDefs": [
-    {
-        targets: "_all",
-        className: 'dt-body-center'
-    }
-  ],
-
-
-        'rowCallback': function(row, data, index){
-   
-   if(data.sentement == 'Positive'){
-       $(row).find('td:eq(2)').css('color', 'green');
-   }else{
-       $(row).find('td:eq(2)').css('color', 'red');
-   }
-}
-    } );
-
-
-
-
-
-
-
-
-    var table = $('#GenresTable').DataTable( {   
-
-"ajax": "sentementCountPerGenres.txt",
-"columns": [
-    {
-        "className":      'details-control',
-        "orderable":      false,
-        "data":           null,
-        "defaultContent": ''
-    },
-    { "data": "genre" },
-    { "data": "positivePer" },
-    { "data": "neutralPer" },
-    {"data": "negativePer"},
-    {"data": "sum"}
-   
-],
-"order": [[1, 'asc']],
-"columnDefs": [
-    {
-        targets: "_all",
-        className: 'dt-body-center'
-    }
-  ],
-'rowCallback': function(row, data, index){
-
-if(data.positivePer>0.5){
-$(row).find('td:eq(2)').css('color', 'green');
-}else{
-if(data.negativePer>0.5)
-$(row).find('td:eq(4)').css('color', 'red');
-}
-if(data.positivePer ==data.negativePer){
-$(row).find('td:eq(4)').css('color', 'orange');
-$(row).find('td:eq(2)').css('color', 'orange');
-}
-
-}
-} );
-
-
-
-
-
-
-
-/*
-    // Add event listener for opening and closing details
-    $('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
-        var tr = $(this).closest('tr');
-        var row = table.row( tr );
+            { "data": "sentement" },
  
-        if ( row.child.isShown() ) {
-            // This row is already open - close it
-            row.child.hide();
-            tr.removeClass('shown');
-        }
-        else {
-            // Open this row
-            row.child( formatGenre(row.data()) ).show();
-            tr.addClass('shown');
-        }
+        ],
+        "order": [[1, 'asc']]
     } );
-
-*/
-
+     
     // Add event listener for opening and closing details
-    $('#NYTimesTable').children('tbody').on('click', 'td.details-control', function () {
+    $('#example tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
         var row = table.row( tr );
  
@@ -240,22 +71,7 @@ $(row).find('td:eq(2)').css('color', 'orange');
             tr.addClass('shown');
         }
     } );
-
-
-///////////////////////////
-
-
-
-
-
-
-
 } );
-
-
-
-
-
 
 </script>
 </html>
