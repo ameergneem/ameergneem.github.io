@@ -19,7 +19,7 @@ tr.shown td.details-control {
 
 </style>
 <body>
-    <table id="example" class="display" style="width:100%">
+    <table id="NYTimesTable" class="display" style="width:100%">
         <thead>
             <tr>
                 <th></th>
@@ -40,6 +40,35 @@ tr.shown td.details-control {
             </tr>
         </tfoot>
     </table>
+
+
+    <table id="GenresTable" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Genre</th>
+                <th>Positive</th>
+                <th>Neutral</th>
+                <th>Negative</th>
+                <th>All Reviews Count</th>
+
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th></th>
+                <th>Genre</th>
+                <th>Positive</th>
+                <th>Neutral</th>
+                <th>Negative</th>
+                <th>All Reviews Count</th>
+            </tr>
+        </tfoot>
+    </table>
+
+
+
+
 </body>
 <script>
   function format ( d ) {
@@ -55,9 +84,28 @@ tr.shown td.details-control {
         '</tr>'+
     '</table>';
 }
+
+
+function formatGenre( d ) {
+    // `d` is the original data object for the row
+    return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+        '<tr>'+
+            '<td>Positive Reviews Count:</td>'+
+            '<td>'+d.positiveCount+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Neutral Reviews Count:</td>'+
+            '<td>'+d.neutralCount+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Negative Reviews Count:</td>'+
+            '<td>'+d.negativeCount+'</td>'+
+        '</tr>'+
+    '</table>';
+}
  
 $(document).ready(function() {
-    var table = $('#example').DataTable( {   
+    var table = $('#NYTimesTable').DataTable( {   
 
         "ajax": "objectsUpd2.txt",
         "columns": [
@@ -81,15 +129,83 @@ $(document).ready(function() {
        $(row).find('td:eq(2)').css('color', 'red');
    }
    console.log('data[1]: '+data.sentement);
-
-
 }
-
-
     } );
 
+
+
+
+
+    var table = $('#GenresTable').DataTable( {   
+
+"ajax": "sentementCountPerGenres.txt",
+"columns": [
+    {
+        "className":      'details-control',
+        "orderable":      false,
+        "data":           null,
+        "defaultContent": ''
+    },
+    { "data": "genre" },
+    { "data": "positivePer" },
+    { "data": "neutralPer" },
+    {"data": "negativePer"},
+    {"data": "sum"}
+   
+],
+"order": [[1, 'asc']],
+'rowCallback': function(row, data, index){
+
+if(data.positivePer>0.5){
+$(row).find('td:eq(2)').css('color', 'green');
+}else{
+if(data.negativePer>0.5)
+$(row).find('td:eq(4)').css('color', 'red');
+}
+if(data.positivePer ==data.negativePer){
+$(row).find('td:eq(4)').css('color', 'orange');
+$(row).find('td:eq(2)').css('color', 'orange');
+}
+
+}
+} );
+
+
+
+
+
+
+
+
     // Add event listener for opening and closing details
-    $('#example tbody').on('click', 'td.details-control', function () {
+    $('#GenresTable tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( formatGenre(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+} );
+
+
+
+
+
+
+
+
+
+
+    // Add event listener for opening and closing details
+    $('#NYTimesTable tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
         var row = table.row( tr );
  
@@ -106,23 +222,6 @@ $(document).ready(function() {
     } );
 } );
 
-/*
 
-$('#example').DataTable({
-
-    'rowCallback': function(row, data, index){
-   
-   if(data[2] == 'positive'){
-       $(row).find('td:eq(2)').css('color', 'green');
-   }else{
-       $(row).find('td:eq(2)').css('color', 'red');
-   }
-   console.log('data[1]: '+data[1]);
-   console.log('data[2]: '+data[2])
-
-}
-
-})
-*/
 </script>
 </html>
