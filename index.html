@@ -141,28 +141,6 @@ $(document).ready(function() {
 
 
 
-
-
-
-    // Add event listener for opening and closing details
-    $('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
-        var tr = $(this).closest('tr');
-        var row = table.row( tr );
- 
-        if ( row.child.isShown() ) {
-            // This row is already open - close it
-            row.child.hide();
-            tr.removeClass('shown');
-        }
-        else {
-            // Open this row
-            row.child( formatGenre(row.data()) ).show();
-            tr.addClass('shown');
-        }
-    } );
-
-
-
     // Add event listener for opening and closing details
     $('#NYTimesTable').children('tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
@@ -228,6 +206,24 @@ $(row).find('td:eq(2)').css('color', 'orange');
 
 
 
+
+
+    // Add event listener for opening and closing details
+    $('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( formatGenre(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
 
 
 
