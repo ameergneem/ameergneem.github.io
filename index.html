@@ -40,7 +40,32 @@ tr.shown td.details-control {
     </table>
 
 
-  
+    <table id="GenresTable" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Genre</th>
+                <th>Positive</th>
+                <th>Neutral</th>
+                <th>Negative</th>
+                <th>All Reviews Count</th>
+
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th></th>
+                <th>Genre</th>
+                <th>Positive</th>
+                <th>Neutral</th>
+                <th>Negative</th>
+                <th>All Reviews Count</th>
+            </tr>
+        </tfoot>
+    </table>
+
+
+
 
 </body>
 <script>
@@ -50,13 +75,6 @@ $(document).ready(function() {
 
 
     function format ( d ) {
-
-
-
-console.log(d)
-    
-
-
     
     return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
