@@ -40,9 +40,7 @@ tr.shown td.details-control {
     </table>
 
 
- 
-
-
+  
 
 </body>
 <script>
@@ -109,50 +107,6 @@ console.log(d)
 
 
 
-
-
-
-
-
-    var table = $('#GenresTable').DataTable( {   
-
-"ajax": "sentementCountPerGenres.txt",
-"columns": [
-    {
-        "className":      'details-control',
-        "orderable":      false,
-        "data":           null,
-        "defaultContent": ''
-    },
-    { "data": "genre" },
-    { "data": "positivePer" },
-    { "data": "neutralPer" },
-    {"data": "negativePer"},
-    {"data": "sum"}
-   
-],
-"order": [[1, 'asc']],
-"columnDefs": [
-    {
-        targets: "_all",
-        className: 'dt-body-center'
-    }
-  ],
-'rowCallback': function(row, data, index){
-
-if(data.positivePer>0.5){
-$(row).find('td:eq(2)').css('color', 'green');
-}else{
-if(data.negativePer>0.5)
-$(row).find('td:eq(4)').css('color', 'red');
-}
-if(data.positivePer ==data.negativePer){
-$(row).find('td:eq(4)').css('color', 'orange');
-$(row).find('td:eq(2)').css('color', 'orange');
-}
-
-}
-} );
 
 
 
