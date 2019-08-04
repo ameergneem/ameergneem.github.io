@@ -161,6 +161,12 @@ $(document).ready(function() {
    
 ],
 "order": [[1, 'asc']],
+"columnDefs": [
+    {
+        targets: "_all",
+        className: 'dt-body-center'
+    }
+  ],
 'rowCallback': function(row, data, index){
 
 if(data.positivePer>0.5){
