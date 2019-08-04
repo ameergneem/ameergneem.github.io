@@ -25,8 +25,7 @@ tr.shown td.details-control {
                 <th></th>
                 <th>Book Name</th>
                 <th>Sentement</th>
-                <th>Goodreads Rating</th>
-                <th>Goodreads Rating Count</th>
+
 
             </tr>
         </thead>
@@ -35,8 +34,7 @@ tr.shown td.details-control {
                 <th></th>
                 <th>Book Name</th>
                 <th>Sentement</th>
-                <th>Goodreads Rating</th>
-                <th>Goodreads Rating Count</th>
+
             </tr>
         </tfoot>
     </table>
@@ -77,6 +75,16 @@ tr.shown td.details-control {
 
 console.log(d)
     
+
+return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+        '<tr>'+
+            '<td>\'New York Times\' Review:</td>'+
+            '<td><a target="_blank"  href="'+d.url+'">'+d.url+'</td>'+
+        '</tr>'+
+
+    '</table>';
+
+    /*
     return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
             '<td>\'New York Times\' Review:</td>'+
@@ -87,7 +95,7 @@ console.log(d)
             '<td><a target="_blank"  href="'+d.GoodreadsURL+'">'+d.GoodreadsURL+'</td>'+
         '</tr>'+
     '</table>';
-    
+    */
 }
 
 
@@ -112,7 +120,7 @@ function formatGenre( d, genre ) {
 $(document).ready(function() {
     var table = $('#NYTimesTable').DataTable( {   
 
-        "ajax": "objectsUpd2.txt",
+        "ajax": "objectsUpd.txt",
         "columns": [
             {
                 "className":      'details-control',
@@ -121,9 +129,8 @@ $(document).ready(function() {
                 "defaultContent": ''
             },
             { "data": "bookName" },
-            { "data": "sentement" },
-            { "data": "GoodReadsRating" },
-            {"data": "RatingsCount"}
+            { "data": "sentement" }
+
         ],
         "order": [[1, 'asc']],
         "columnDefs": [
