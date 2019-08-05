@@ -54,6 +54,8 @@ tr.shown td.details-control {
                 <th></th>
                 <th>Book Name</th>
                 <th>Sentement</th>
+                <th>Goodreads Average Rating</th>
+                <th>Goodreads Ratings Count</th>
 
 
             </tr>
@@ -63,6 +65,8 @@ tr.shown td.details-control {
                 <th></th>
                 <th>Book Name</th>
                 <th>Sentement</th>
+                <th>Goodreads Average Rating</th>
+                <th>Goodreads Ratings Count</th>
 
             </tr>
         </tfoot>
@@ -75,23 +79,7 @@ tr.shown td.details-control {
 
  
 $(document).ready(function() {
-/*
-    function formatGenres ( d ) {
-    
-    return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
-        '<tr>'+
-            '<td>\'New York Times\' Review:</td>'+
-            '<td></td>'+
-        '</tr>'+
-        '<tr>'+
-            '<td>\'Goodreads\' Book Page:</td>'+
-            '<td></td>'+
-        '</tr>'+
-    '</table>';
-    
-}
 
-*/
     var table = $('#GenresTable').DataTable( {   
 
         "ajax": "sentementCountPerGenres.txt",
@@ -134,24 +122,7 @@ $(document).ready(function() {
 }
 
     } );
-/*
-    // Add event listener for opening and closing details
-    $('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
-        var tr = $(this).closest('tr');
-        var row = table.row( tr );
- 
-        if ( row.child.isShown() ) {
-            // This row is already open - close it
-            row.child.hide();
-            tr.removeClass('shown');
-        }
-        else {
-            // Open this row
-            row.child( formatGenres(row.data()) ).show();
-            tr.addClass('shown');
-        }
-    } );
-*/
+
 //////////////////////////////////////////////////
 
     function format ( d ) {
@@ -181,7 +152,9 @@ $(document).ready(function() {
                 "defaultContent": ''
             },
             { "data": "bookName" },
-            { "data": "sentement" }
+            { "data": "sentement" },
+            { "data": "GoodReadsRating" },
+            { "data": "RatingsCount" }
 
         ],
         "order": [[1, 'asc']],

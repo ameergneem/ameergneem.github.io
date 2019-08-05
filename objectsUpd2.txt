@@ -2903,7 +2903,7 @@
       "GoodReadsRating": "3.96",
       "url": "https://www.nytimes.com/2018/03/28/books/review/journey-into-europe-akbar-ahmed.html",
       "bookName": "JOURNEY INTO EUROPE",
-      "sentement": "aPositive",
+      "sentement": "Positive",
       "id": "323",
       "RatingsCount": "26"
     },
