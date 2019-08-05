@@ -121,14 +121,14 @@ $(document).ready(function() {
         'rowCallback': function(row, data, index){
    
    if(data.positivePer > 0.5){
-       $(row).find('td:eq(1)').css('color', 'green');
+       $(row).find('td:eq(2)').css('color', 'green');
    }else{
     if(data.negativePer > 0.5)
-       $(row).find('td:eq(3)').css('color', 'red');
+       $(row).find('td:eq(4)').css('color', 'red');
    }
    if(data.negativePer == data.positivePer){
-        $(row).find('td:eq(1)').css('color', 'orange');
-        $(row).find('td:eq(3)').css('color', 'orange');
+        $(row).find('td:eq(2)').css('color', 'orange');
+        $(row).find('td:eq(4)').css('color', 'orange');
    }
 
 }
