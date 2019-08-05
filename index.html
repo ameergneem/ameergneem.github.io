@@ -120,10 +120,10 @@ $(document).ready(function() {
 
         'rowCallback': function(row, data, index){
    
-   if(data.positivePer > 0.5){
+   if(data.positivePer > data.negativePer){
        $(row).find('td:eq(2)').css('color', 'green');
    }else{
-    if(data.negativePer > 0.5)
+    if(data.negativePer > data.positivePer)
        $(row).find('td:eq(4)').css('color', 'red');
    }
    if(data.negativePer == data.positivePer){
