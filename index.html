@@ -181,6 +181,9 @@ Which we can break into two main habits
 
             </div>
 
+
+<div class="w3-container">
+        <h5 style="text-decoration:underline; text-align: center" >Books Analysis</h5>
     <table id="NYTimesTable" class="display" style=" width:100%">
         <thead>
             <tr>
@@ -205,8 +208,25 @@ Which we can break into two main habits
         </tfoot>
     </table>
 
-    
+            <h6 style="margin-left: 20%;text-decoration:underline;font-weight:bold">Table Explanation:</h6>
+            <p style="margin-left: 20%;">The table above is more specified, it shows every book, the NYT sentement, the Goodreads average
+                rating, and the ratings count. In addition to the interactable elements that the previous table has (searching and sorting)
+                in this table you can press '+' to show the link to the NYT review and the Goodreads book page.
+                The sentements are marked in 'green' if it is positive, 'yellow' if it is neutral , and 'red' if it is negative.
+            </p>
+</div>
+<dl> 
+<dt>
+        You can get the resource files from here:
+</dt>
+<dd>
+        <a href="objectsUpd3.txt">File 1</a>
+</dd>
+<dd>
+        <a href="sentementCountPerGenres.txt">File 2</a>
+</dd>
 
+</dl>
 </body>
 <script>
 
@@ -350,7 +370,10 @@ $(row).find('td:eq(4)').css('color', 'orange');
    if(data.sentement == 'Positive'){
        $(row).find('td:eq(2)').css('color', 'green');
    }else{
+    if(data.sentement == 'Negative')
        $(row).find('td:eq(2)').css('color', 'red');
+       else
+       $(row).find('td:eq(2)').css('color', 'yellow');
    }
 }
     } );
