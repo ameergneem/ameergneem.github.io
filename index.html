@@ -49,7 +49,7 @@ tr.shown td.details-control {
                 <dd>- Do they write what they really meant? how much their reviews describe their ratings?  
         </dd>
         <dd>- Sentement analysis by genre, which genres the reviewers prefer the most.</dd>
-        <dd>- How NYT reviewers review books published in different decades? in which decade they reviewed most? </dd>
+        <dd>- How NYT reviewers review books published in different decades? in which decade they reviewed the most? </dd>
       </dl>
 
 
@@ -63,13 +63,56 @@ tr.shown td.details-control {
  </dl>
 </div>
 
+<br>
 
+<br>
+<br>
 
 
 <div class="w3-container">
+<h4 style="text-decoration:underline; text-align: center" >Goodreads Analysis</h4>
+<br>
+<br>
 <div id='cont'  style="text-align: center"  ></div>
-<h style="margin-left: 20%">paragraph</h>
+<h5 style="margin-left: 20%;text-decoration:underline;font-weight:bold">Graph Explanation and Conclusions:</h5>
+<dl style="margin-left: 20%">
+<dt >
+We will discuss the above graph through two prospectives: 
+</dt>
+<dd><h style="text-decoration:underline;font-weight:bold">IBM Watson analysis ability:</h> We can see that Watson's ability to apply sentement analysis on reviews, is pretty impressive.
+    the results are making sense for the human mind, the positive-negative ratio keeps increasing, in other words, from 'one star'
+    rating to 'five stars' rating, the 'Positive' bar increases gradually, while the 'Negative' bar decreases ,also, gradually. 
+</dd>
+<dd>
+<h style="text-decoration:underline;font-weight:bold">Peoples' reviewing habits:</h>
+Which we can break into two main habits
+
+    <dd>
+        * By looking at the 'OneStar' colliction of bars and the 'FiveStars' colliction of bars, and comparing the RATIO between
+          the 'Positive' bar and the 'Negative' bar in both collections we can see that the ratio in the 'FiveStars' bar is BIGGER than
+          the one in the 'OneStar' collection. The reason in my opinion is that the reviewer tends to be amazed by the book, so
+          he writes just about what is good about it (see for example 'FourStars' collection, although the 'Negative' reviews are
+          nearly at the same number, but the 'Positive' are alot different).
+          in the other hand, if the reviewer gives 'one star' for the book, in his review he may mention some few good words, not necessarly about
+          the book but maybe about the author (e.g. "...i read a great books wrote by this auther, but..." ...)  
+    </dd>
+
+    <dd>
+        * Although the data i collected considered just a sample, but we can see that the people are tend to rate 'five stars'.Generally,
+        they avoid to rate 'one star'.
+
+
+    </dd>
+</dd>
+
+
+</dl>
     </div>
+    <br>
+    <br>
+    <br>
+    <div class="w3-container">
+            <h5 style="text-decoration:underline; text-align: center" >Genres Analysis</h5>
         <table id="GenresTable" class="display" style="width:100%">
                 <thead>
                     <tr>
@@ -95,11 +138,29 @@ tr.shown td.details-control {
                     </tr>
                 </tfoot>
             </table>
-        
 
-            <div id='cont2'  >
-     
+            <h6 style="margin-left: 20%;text-decoration:underline;font-weight:bold">Table Explanation:</h6>
+            <p style="margin-left: 20%;">The above table shows the genres of the books that the reviews related to them.The table 
+                is interactable, the we can sort by any parameter appears as column and even search.
+                There are 62 genres, for every genre the table provides the number of reviews for it, and a portion of
+                positive, neutral, or negative reviews. If the portion of the positive review is higher than the negative ones,
+                it is indicated in green, if the negative is higher it is indicated in red, if both are equal, both are indicated in yellow.
+            </p>
+
+
+
+        </div>
+        <br>
+        <br>
+        <div class="w3-container">
+                <h4 style="text-decoration:underline; text-align: center" >New York Times Analysis</h4>
+                <br>
+                <br>
+            <div id='cont2'>
                 </div>
+
+
+            </div>
 
     <table id="NYTimesTable" class="display" style="width:100%">
         <thead>

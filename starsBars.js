@@ -40,8 +40,8 @@ models = models.map(i => {
 });
 
 var container = d3.select('#cont'),
-    width = 500,
-    height = 300,
+    width = 700,
+    height = 500,
     margin = {top: 30, right: 100, bottom: 30, left: 50},
     barPadding = .2,
     axisTicks = {qty: 5, outerSize: 0, dateFormat: '%m-%d'};
@@ -53,12 +53,12 @@ var svg = container
    .append("g")
    .attr("transform", `translate(${margin.left},${margin.top})`);
 
-   svg.append("circle").attr("cx",370).attr("cy",130).attr("r", 6).style("fill", "green")
-   svg.append("circle").attr("cx",370).attr("cy",160).attr("r", 6).style("fill", "orange")
-   svg.append("circle").attr("cx",370).attr("cy",190).attr("r", 6).style("fill", "red")
-   svg.append("text").attr("x", 390).attr("y", 130).text("Positive").style("font-size", "15px").attr("alignment-baseline","middle")
-   svg.append("text").attr("x", 390).attr("y", 160).text("Neutral").style("font-size", "15px").attr("alignment-baseline","middle")
-   svg.append("text").attr("x", 390).attr("y", 190).text("Negative").style("font-size", "15px").attr("alignment-baseline","middle")
+   svg.append("circle").attr("cx",570).attr("cy",130).attr("r", 6).style("fill", "green")
+   svg.append("circle").attr("cx",570).attr("cy",160).attr("r", 6).style("fill", "orange")
+   svg.append("circle").attr("cx",570).attr("cy",190).attr("r", 6).style("fill", "red")
+   svg.append("text").attr("x", 590).attr("y", 130).text("Positive").style("font-size", "15px").attr("alignment-baseline","middle")
+   svg.append("text").attr("x", 590).attr("y", 160).text("Neutral").style("font-size", "15px").attr("alignment-baseline","middle")
+   svg.append("text").attr("x", 590).attr("y", 190).text("Negative").style("font-size", "15px").attr("alignment-baseline","middle")
 
 
 
@@ -101,7 +101,7 @@ model_name.selectAll(".bar.neutral")
   .enter()
   .append("rect")
   .attr("class", "bar neutral")
-.style("fill","yellow")
+.style("fill","orange")
   .attr("x", d => xScale1('neutral'))
   .attr("y", d => yScale(d.neutral))
   .attr("width", xScale1.bandwidth())
