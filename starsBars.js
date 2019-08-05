@@ -42,7 +42,7 @@ models = models.map(i => {
 var container = d3.select('#cont'),
     width = 500,
     height = 300,
-    margin = {top: 30, right: 20, bottom: 30, left: 50},
+    margin = {top: 30, right: 100, bottom: 30, left: 50},
     barPadding = .2,
     axisTicks = {qty: 5, outerSize: 0, dateFormat: '%m-%d'};
 
@@ -53,6 +53,17 @@ var svg = container
    .append("g")
    .attr("transform", `translate(${margin.left},${margin.top})`);
 
+   svg.append("circle").attr("cx",370).attr("cy",130).attr("r", 6).style("fill", "green")
+   svg.append("circle").attr("cx",370).attr("cy",160).attr("r", 6).style("fill", "orange")
+   svg.append("circle").attr("cx",370).attr("cy",190).attr("r", 6).style("fill", "red")
+   svg.append("text").attr("x", 390).attr("y", 130).text("Positive").style("font-size", "15px").attr("alignment-baseline","middle")
+   svg.append("text").attr("x", 390).attr("y", 160).text("Neutral").style("font-size", "15px").attr("alignment-baseline","middle")
+   svg.append("text").attr("x", 390).attr("y", 190).text("Negative").style("font-size", "15px").attr("alignment-baseline","middle")
+
+
+
+
+
 var xScale0 = d3.scaleBand().range([0, width - margin.left - margin.right]).padding(barPadding);
 var xScale1 = d3.scaleBand();
 var yScale = d3.scaleLinear().range([height - margin.top - margin.bottom, 0]);
@@ -62,7 +73,7 @@ var yAxis = d3.axisLeft(yScale).ticks(axisTicks.qty).tickSizeOuter(axisTicks.out
 
 xScale0.domain(models.map(d => d.model_name));
 xScale1.domain(['positive', 'neutral','negative']).range([0, xScale0.bandwidth()]);
-yScale.domain([0, d3.max(models, d => d.positive)]);
+yScale.domain([0, d3.max(models, d => d.positive+2000)]);
 
 var model_name = svg.selectAll(".model_name")
   .data(models)
@@ -117,7 +128,7 @@ model_name.selectAll(".bar.neutral")
   .attr('x', width / 2 + margin)
   .attr('y', height + margin * 1.7)
   .attr('text-anchor', 'middle')
-  .text("number of reviews")
+  .text("Number of Reviews")
   
   
      svg.append('text').attr('id','barsText').attr('fill', 'black')

@@ -60,7 +60,9 @@ tr.shown td.details-control {
             </table>
         
 
-
+            <div id='cont2'  >
+     
+                </div>
 
     <table id="NYTimesTable" class="display" style="width:100%">
         <thead>
@@ -136,6 +138,52 @@ $(document).ready(function() {
 }
 
     } );
+
+
+
+
+    var table = $('#DecadesTable').DataTable( {   
+
+"ajax": "sentementCountPerGenres.txt",
+"columns": [
+    {
+        "className":      'details-control',
+        "orderable":      false,
+        "data":           null,
+        "defaultContent": ''
+    },
+    { "data": "genre" },
+    { "data": "positivePer" },
+    { "data": "neutralPer" },
+    { "data": "negativePer" },
+    { "data": "sum" }
+
+],
+"order": [[1, 'asc']],
+"columnDefs": [
+{
+targets: "_all",
+className: 'dt-body-center'
+}
+],
+
+
+'rowCallback': function(row, data, index){
+
+if(data.positivePer > data.negativePer){
+$(row).find('td:eq(2)').css('color', 'green');
+}else{
+if(data.negativePer > data.positivePer)
+$(row).find('td:eq(4)').css('color', 'red');
+}
+if(data.negativePer == data.positivePer){
+$(row).find('td:eq(2)').css('color', 'orange');
+$(row).find('td:eq(4)').css('color', 'orange');
+}
+
+}
+
+} );
 
 //////////////////////////////////////////////////
 
@@ -216,6 +264,9 @@ $(document).ready(function() {
 
 </script>
 
-<script src="bars.js"> 
+<script src="starsBars.js"> 
+</script>
+
+<script src="decadesBars.js"> 
 </script>
 </html>
