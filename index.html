@@ -74,6 +74,20 @@ tr.shown td.details-control {
  
 $(document).ready(function() {
 
+    function formatGenres ( d ) {
+    
+    return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+        '<tr>'+
+            '<td>\'New York Times\' Review:</td>'+
+            '<td></td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>\'Goodreads\' Book Page:</td>'+
+            '<td></td>'+
+        '</tr>'+
+    '</table>';
+    
+}
 
 
     var table = $('#GenresTable').DataTable( {   
@@ -118,6 +132,22 @@ $(document).ready(function() {
 }
     } );
 
+    // Add event listener for opening and closing details
+    $('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( formatGenres(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
 
 //////////////////////////////////////////////////
 
