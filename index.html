@@ -73,7 +73,7 @@ tr.shown td.details-control {
 
  
 $(document).ready(function() {
-
+/*
     function formatGenres ( d ) {
     
     return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
@@ -89,7 +89,7 @@ $(document).ready(function() {
     
 }
 
-
+*/
     var table = $('#GenresTable').DataTable( {   
 
         "ajax": "sentementCountPerGenres.txt",
@@ -113,25 +113,26 @@ $(document).ready(function() {
         targets: "_all",
         className: 'dt-body-center'
     }
-  ],
+  ]
 
-
+/*
         'rowCallback': function(row, data, index){
    
    if(data.positivePer > 0.5){
        $(row).find('td:eq(1)').css('color', 'green');
    }else{
     if(data.negativePer > 0.5)
-       $(row).find('td:eq(2)').css('color', 'red');
+       $(row).find('td:eq(3)').css('color', 'red');
    }
    if(data.negativePer == data.positivePer){
         $(row).find('td:eq(1)').css('color', 'orange');
-        $(row).find('td:eq(2)').css('color', 'orange');
+        $(row).find('td:eq(3)').css('color', 'orange');
    }
 
 }
+*/
     } );
-
+/*
     // Add event listener for opening and closing details
     $('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
@@ -148,7 +149,7 @@ $(document).ready(function() {
             tr.addClass('shown');
         }
     } );
-
+*/
 //////////////////////////////////////////////////
 
     function format ( d ) {
