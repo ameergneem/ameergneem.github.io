@@ -22,18 +22,22 @@ tr.shown td.details-control {
         <table id="GenresTable" class="display" style="width:100%">
                 <thead>
                     <tr>
-                        <th></th>
                         <th>Genre</th>
-                        <th>Count</th>
+                        <th>Positive Reviews</th>
+                        <th>Neutral Reviews</th>
+                        <th>Negative Reviews</th>
+                        <th>Reviews Count</th>
         
         
                     </tr>
                 </thead>
                 <tfoot>
                     <tr>
-                        <th></th>
                         <th>Genre</th>
-                        <th>Count</th>
+                        <th>Positive Reviews</th>
+                        <th>Neutral Reviews</th>
+                        <th>Negative Reviews</th>
+                        <th>Reviews Count</th>
         
                     </tr>
                 </tfoot>
@@ -70,17 +74,6 @@ tr.shown td.details-control {
  
 $(document).ready(function() {
 
-    function formatGenres ( d ) {
-    
-    return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
-        '<tr>'+
-            '<td>\'New York Times\' Review:</td>'+
-            '<td>'+d.sum+'</td>'+
-        '</tr>'+
-
-    '</table>';
-    
-}
 
 
     var table = $('#GenresTable').DataTable( {   
@@ -94,6 +87,9 @@ $(document).ready(function() {
                 "defaultContent": ''
             },
             { "data": "genre" },
+            { "data": "positivePer" },
+            { "data": "neutralPer" },
+            { "data": "negativePer" },
             { "data": "sum" }
 
         ],
@@ -108,30 +104,18 @@ $(document).ready(function() {
 
         'rowCallback': function(row, data, index){
    
-   if(data.sum > 200){
-       $(row).find('td:eq(2)').css('color', 'green');
+   if(data.positivePer > 0.5){
+       $(row).find('td:eq(1)').css('color', 'green');
    }else{
+    if(data.negativePer > 0.5)
        $(row).find('td:eq(2)').css('color', 'red');
    }
+   if(data.negativePer == data.positivePer){
+        $(row).find('td:eq(1)').css('color', 'orange');
+        $(row).find('td:eq(2)').css('color', 'orange');
+   }
+
 }
-    } );
-
-
-    // Add event listener for opening and closing details
-    $('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
-        var tr = $(this).closest('tr');
-        var row = table.row( tr );
- 
-        if ( row.child.isShown() ) {
-            // This row is already open - close it
-            row.child.hide();
-            tr.removeClass('shown');
-        }
-        else {
-            // Open this row
-            row.child( formatGenres(row.data()) ).show();
-            tr.addClass('shown');
-        }
     } );
 
 
