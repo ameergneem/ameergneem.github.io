@@ -19,6 +19,29 @@ tr.shown td.details-control {
 
 </style>
 <body>
+        <table id="GenresTable" class="display" style="width:100%">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Genre</th>
+                        <th>Count</th>
+        
+        
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th></th>
+                        <th>Genre</th>
+                        <th>Count</th>
+        
+                    </tr>
+                </tfoot>
+            </table>
+        
+
+
+
     <table id="NYTimesTable" class="display" style="width:100%">
         <thead>
             <tr>
@@ -39,92 +62,7 @@ tr.shown td.details-control {
         </tfoot>
     </table>
 
-    <table id="newTable" class="display" style="width:100%">
-    <thead>
-            <tr>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Age</th>
-                <th>Salary</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Tiger Nixon</td>
-                <td>System Architect</td>
-                <td>Edinburgh</td>
-                <td>61</td>
-                <td>$320,800</td>
-            </tr>
-            <tr>
-                <td>Cedric Kelly</td>
-                <td>Senior Javascript Developer</td>
-                <td>Edinburgh</td>
-                <td>22</td>
-                <td>$433,060</td>
-            </tr>
-            <tr>
-                <td>Sonya Frost</td>
-                <td>Software Engineer</td>
-                <td>Edinburgh</td>
-                <td>23</td>
-                <td>$103,600</td>
-            </tr>
-            <tr>
-                <td>Quinn Flynn</td>
-                <td>Support Lead</td>
-                <td>Edinburgh</td>
-                <td>22</td>
-                <td>$342,000</td>
-            </tr>
-            <tr>
-                <td>Dai Rios</td>
-                <td>Personnel Lead</td>
-                <td>Edinburgh</td>
-                <td>35</td>
-                <td>$217,500</td>
-            </tr>
-            <tr>
-                <td>Gavin Joyce</td>
-                <td>Developer</td>
-                <td>Edinburgh</td>
-                <td>42</td>
-                <td>$92,575</td>
-            </tr>
-            <tr>
-                <td>Martena Mccray</td>
-                <td>Post-Sales support</td>
-                <td>Edinburgh</td>
-                <td>46</td>
-                <td>$324,050</td>
-            </tr>
-            <tr>
-                <td>Jennifer Acosta</td>
-                <td>Junior Javascript Developer</td>
-                <td>Edinburgh</td>
-                <td>43</td>
-                <td>$75,650</td>
-            </tr>
-            <tr>
-                <td>Shad Decker</td>
-                <td>Regional Director</td>
-                <td>Edinburgh</td>
-                <td>51</td>
-                <td>$183,000</td>
-            </tr>
-        </tbody>
-        <tfoot>
-            <tr>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Age</th>
-                <th>Salary</th>
-            </tr>
-        </tfoot>
-
-    </table>
+    
 
 </body>
 <script>
@@ -132,6 +70,72 @@ tr.shown td.details-control {
  
 $(document).ready(function() {
 
+    function formatGenres ( d ) {
+    
+    return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+        '<tr>'+
+            '<td>\'New York Times\' Review:</td>'+
+            '<td>'+d.sum+'</td>'+
+        '</tr>'+
+
+    '</table>';
+    
+}
+
+
+    var table = $('#GenresTable').DataTable( {   
+
+        "ajax": "sentementCountPerGenres.txt",
+        "columns": [
+            {
+                "className":      'details-control',
+                "orderable":      false,
+                "data":           null,
+                "defaultContent": ''
+            },
+            { "data": "genre" },
+            { "data": "sum" }
+
+        ],
+        "order": [[1, 'asc']],
+        "columnDefs": [
+    {
+        targets: "_all",
+        className: 'dt-body-center'
+    }
+  ],
+
+
+        'rowCallback': function(row, data, index){
+   
+   if(data.sum > 200){
+       $(row).find('td:eq(2)').css('color', 'green');
+   }else{
+       $(row).find('td:eq(2)').css('color', 'red');
+   }
+}
+    } );
+
+
+    // Add event listener for opening and closing details
+    $('#GenresTable').children('tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( formatGenres(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+
+
+//////////////////////////////////////////////////
 
     function format ( d ) {
     
@@ -147,7 +151,7 @@ $(document).ready(function() {
     '</table>';
     
 }
-$('#newTable').DataTable();/////////////
+
 
     var table = $('#NYTimesTable').DataTable( {   
 
@@ -181,19 +185,6 @@ $('#newTable').DataTable();/////////////
    }
 }
     } );
-
-
-
-
-
-
-
-
-
-
-
- 
-
 
 
     // Add event listener for opening and closing details
