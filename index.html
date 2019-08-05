@@ -3,10 +3,14 @@
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
-  
+<link rel="stylesheet" type="text/css" href="bars.css">
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
-
+<link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">
+<script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
 <style>
 td.details-control {
@@ -19,6 +23,16 @@ tr.shown td.details-control {
 
 </style>
 <body>
+<link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">
+<script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<div id='cont'  >
+     
+        </div>
+
         <table id="GenresTable" class="display" style="width:100%">
                 <thead>
                     <tr>
@@ -143,7 +157,7 @@ $(document).ready(function() {
 
     var table = $('#NYTimesTable').DataTable( {   
 
-        "ajax": "objectsUpd2.txt",
+        "ajax": "objectsUpd3.txt",
         "columns": [
             {
                 "className":      'details-control',
@@ -197,18 +211,11 @@ $(document).ready(function() {
 
 ///////////////////////////
 
-
-
-
-
-
-
 } );
 
 
+</script>
 
-
-
-
+<script src="bars.js"> 
 </script>
 </html>

@@ -39,7 +39,7 @@ models = models.map(i => {
 	return i;
 });
 
-var container = d3.select('#d3id'),
+var container = d3.select('#cont'),
     width = 500,
     height = 300,
     margin = {top: 30, right: 20, bottom: 30, left: 50},
